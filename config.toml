@@ -3,7 +3,6 @@ title = "Gautam Rao"
 theme = "academimal"
 sectionPagesMenu = "main"
 defaultContentLanguage = "en"
-ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 
 [params]
     shortbio = "Associate Professor of Economics, Harvard University"
