@@ -1,4 +1,5 @@
 baseURL = "mbwong.github.io"
+publishDir = "docs"
 relativeURLs = true
 title = "Michael Wong"
 theme = "academimal"
