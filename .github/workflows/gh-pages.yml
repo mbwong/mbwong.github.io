@@ -29,5 +29,6 @@ jobs:
         if: github.ref == 'refs/heads/source'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          external_repository: <mbwong/mbwong.github.io>
           publish_dir: ./docs
 
