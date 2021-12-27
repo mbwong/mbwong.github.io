@@ -1,13 +1,12 @@
 baseURL = "mbwong.github.io"
-publishDir = "docs"
 relativeURLs = true
-title = "Gautam Rao"
+title = "Michael Wong"
 theme = "academimal"
 sectionPagesMenu = "main"
 defaultContentLanguage = "en"
 ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 
 [params]
-    shortbio = "Associate Professor of Economics, Harvard University"
-    logo = "gr.jpg" 
+    shortbio = "PhD Student, MIT"
+    logo = "mw.png" 
     
