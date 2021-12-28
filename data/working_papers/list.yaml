@@ -17,7 +17,7 @@ works:
   pdflink: "http://economics.mit.edu/files/22266"
   note: "Last Updated: October 2021"
   abstract: >
-      I present evidence that money functions as a medium of exchange by analyzing how digital currency issuance by a private online platform affected the volume of trade in a large barter community in Toronto. The community initially banned cash, but subsequently introduced a digital token that could be transferred among users and redeemed at designated local stores for retail goods. Using comprehensive transactions data, I show that a large monetary expansion persistently increased transaction volume by 70\% by enabling monetized trade. However, when token redemption was suddenly halted at a subset of stores, a run on the token ensued and transaction volume fell. The findings are consistent with a search-theoretic model wherein the use of money solves the problem of double coincidence. 
+      I present evidence that money functions as a medium of exchange by analyzing how digital currency issuance by a private online platform affected the volume of trade in a large barter community in Toronto. The community initially banned cash, but subsequently introduced a digital token that could be transferred among users and redeemed at designated local stores for retail goods. Using comprehensive transactions data, I show that a large monetary expansion persistently increased transaction volume by 70% by enabling monetized trade. However, when token redemption was suddenly halted at a subset of stores, a run on the token ensued and transaction volume fell. The findings are consistent with a search-theoretic model wherein the use of money solves the problem of double coincidence. 
 
 
 - title: "The Effects of Partial Public Housing Privatization: Evidence from Hong Kong"
@@ -27,7 +27,7 @@ works:
       To boost homeownership, many governments sell public housing to sitting tenants but limit the resale and leasing of sold units. What is the impact of this partial privatization? I estimate the effects of Hong Kong’s Tenants Purchase Scheme using its staggered rollout across housing estates in 1998-2006. I find that total population and average household size fell in treated estates, while average household income rose. These findings are not explained by reallocation of housing units across households, which was rare due to stringent resale and leasing restrictions. Rather, the program relaxed household-size-contingent income limits and unit allocation rules for sitting tenants, which caused some household members to move out and others to increase labor supply.
 
 - title: "Ideological Bias and Trust in Information Sources"
-  coauthors: "Matthew Gentzkow, Allen T. Zhang"
+  coauthors: "Matthew Gentzkow and Allen T. Zhang"
   pdflink: "http://economics.mit.edu/files/21784"
   note: "Last Updated: August 2021"
   abstract: >
