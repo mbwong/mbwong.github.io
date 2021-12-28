@@ -5,6 +5,9 @@
 {{ end }}
 
 
+{{ $scratch := newScratch }}
+{{ $scratch.Set "pubcnt" 0 }}
+
 {{ with .Site.Data.working_papers }}
 <hr>
 <h2 id="workingpapers">Working Papers</h2>
@@ -15,9 +18,6 @@
 {{ end }}
 {{ end }}
 {{ end }}
-
-{{ $scratch := newScratch }}
-{{ $scratch.Set "pubcnt" 0 }}
 
 {{ with .Site.Data.publications }}
 <hr>
@@ -42,9 +42,9 @@
 {{ end }} -->
 
 
-{{ with .GetPage "/sections/office-hours.md" }}
+{{ with .GetPage "/sections/teaching.md" }}
 <hr>
-<h2 id="officehours">Office Hours</h2>
+<h2 id="officehours">Teaching</h2>
 {{ .Content }}
 {{ end }}
 
