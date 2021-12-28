@@ -1,1 +1,0 @@
-Office hour appointments can be booked by email. For online meeting, we can meet at https://mit.zoom.us/my/mbwong. 
