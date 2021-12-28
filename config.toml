@@ -1,4 +1,3 @@
-baseURL = "mbwong.github.io"
 relativeURLs = true
 title = "Michael Wong"
 theme = "academimal"
