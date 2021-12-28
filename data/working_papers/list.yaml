@@ -1,13 +1,20 @@
 works:
 
 
-- title: "Learning in the Household"
-  pdflink: "/pdf/Learning in the Household.pdf"
-  coauthors: "John Conlon, Malavika Mani, Matthew Ridley and Frank Schilbach"
-  book: "Revise and Resubmit, Econometrica"
-  note: "Current Version: May 2021"
+- title: "Labor Market Consequences of Domestic Outsourcing: Evidence from Legalization in Brazil"
+  pdflink: "http://economics.mit.edu/files/22108"
+  coauthors: "Mayara Felix"
+  book: "Job Market Paper"
+  note: "Last Updated: November 2021"
   links:
-    - url: "https://www.socialscienceregistry.org/trials/4253"
-      text: "Pre-Registration"
+    - url: "https://twitter.com/mbwong/status/1452659761300844546"
+      text: "Twitter thread"
+  abstract: >
+      We analyze the effect of domestic outsourcing on labor markets using Brazil's unexpected legalization of outsourcing in 1993, which sharply increased outsourcing among security guards. First, we show that legalization led to a wave of occupational layoffs. Incumbent security guards affected by these layoffs moved to lower-wage firms and experienced persistent wage reductions. Second, we estimate the market-level effects of outsourcing legalization using a triple-difference specification that leverages regional variation in pre-legalization permissiveness of labor courts and compares security guards with less impacted occupations. We find that outsourcing legalization reallocated jobs from older to younger workers, increased total employment of guards by 8-15%, and raised their wages by 2-4%. Interpreted through an economic framework, our results imply that outsourcing legalization generated overall efficiency gains that benefitted entrant workers. If laid-off incumbent workers were fully compensated for their earnings losses, social breakeven would be achieved in one to five years.
+
+
+- title: "What is Money? Evidence from Introducing Digital Currency to a Barter Community"
+  pdflink: "http://economics.mit.edu/files/22266"
+  note: "Last Updated: October 2021"
   abstract: >
       We study social learning between spouses using an experiment in Chennai, India. We vary whether individuals discover information themselves or must instead learn what their spouse discovered via a discussion. Women treat their `own' and their husband's information the same. In sharp contrast, men's beliefs respond less than half as much to information that was discovered by their wife. This is not due to a lack of communication: husbands put less weight on their wife's signals even when perfectly informed of them. In a second experiment, when paired with mixed- and same-gender strangers, \textit{both} men and women heavily discount their teammate's information relative to their own. We conclude that people have a  tendency to underweight others' information relative to their own. The marital context creates a countervailing force for women, resulting in a gender difference in learning (only)  in the household.
