@@ -7,8 +7,8 @@ script:
 deploy:
     provider: pages
     skip_cleanup: true
-    local_dir: public
-    target-branch: master
+    local_dir: docs
+    target-branch: gh-pages
     github_token: $github_token
     on:
         branch: source
