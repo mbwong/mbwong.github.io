@@ -17,4 +17,20 @@ works:
   pdflink: "http://economics.mit.edu/files/22266"
   note: "Last Updated: October 2021"
   abstract: >
-      We study social learning between spouses using an experiment in Chennai, India. We vary whether individuals discover information themselves or must instead learn what their spouse discovered via a discussion. Women treat their `own' and their husband's information the same. In sharp contrast, men's beliefs respond less than half as much to information that was discovered by their wife. This is not due to a lack of communication: husbands put less weight on their wife's signals even when perfectly informed of them. In a second experiment, when paired with mixed- and same-gender strangers, \textit{both} men and women heavily discount their teammate's information relative to their own. We conclude that people have a  tendency to underweight others' information relative to their own. The marital context creates a countervailing force for women, resulting in a gender difference in learning (only)  in the household.
+      I present evidence that money functions as a medium of exchange by analyzing how digital currency issuance by a private online platform affected the volume of trade in a large barter community in Toronto. The community initially banned cash, but subsequently introduced a digital token that could be transferred among users and redeemed at designated local stores for retail goods. Using comprehensive transactions data, I show that a large monetary expansion persistently increased transaction volume by 70\% by enabling monetized trade. However, when token redemption was suddenly halted at a subset of stores, a run on the token ensued and transaction volume fell. The findings are consistent with a search-theoretic model wherein the use of money solves the problem of double coincidence. 
+
+
+- title: "The Effects of Partial Public Housing Privatization: Evidence from Hong Kong"
+  pdflink: "http://economics.mit.edu/files/22163"
+  note: "Last Updated: December 2021"
+  abstract: >
+      To boost homeownership, many governments sell public housing to sitting tenants but limit the resale and leasing of sold units. What is the impact of this partial privatization? I estimate the effects of Hong Kong’s Tenants Purchase Scheme using its staggered rollout across housing estates in 1998-2006. I find that total population and average household size fell in treated estates, while average household income rose. These findings are not explained by reallocation of housing units across households, which was rare due to stringent resale and leasing restrictions. Rather, the program relaxed household-size-contingent income limits and unit allocation rules for sitting tenants, which caused some household members to move out and others to increase labor supply.
+
+- title: "Ideological Bias and Trust in Information Sources"
+  coauthors: "Matthew Gentzkow", "Allen T. Zhang"
+  pdflink: "http://economics.mit.edu/files/21784"
+  note: "Last Updated: August 2021"
+  abstract: >
+      We study the role of endogenous trust in amplifying ideological bias. Agents in our model seek to learn a sequence of states using information from sources whose accuracy is ex ante uncertain. Agents rely on noisy feedback about the state from direct experience to learn the accuracy of sources. Small biases in this feedback can cause large ideological differences in the agents’ trust in information sources and their beliefs about the states, and may lead agents to become overconfident in their own judgment. Disagreements can be similar in magnitude whether agents see only ideologically aligned sources or see a diverse range of sources.
+
+
