@@ -1,3 +1,3 @@
-[submodule "themes/academimal"]
-	path = themes/academimal
-	url = https://github.com/yangl1996/academimal.git
+[submodule "themes/academimial"]
+	path = themes/academimial
+	url = https://github.com/mbwong/academimal.git
