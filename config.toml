@@ -5,6 +5,7 @@ theme = "academimal"
 sectionPagesMenu = "main"
 defaultContentLanguage = "en"
 ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
+publishDir = "docs"
 
 [params]
     shortbio = "PhD Student, MIT"
