@@ -1,3 +1,3 @@
-I am a PhD student in economics at MIT specializing in labor and monetary economics. My current research sheds light on the rise of domestic outsourcing and the microfoundations of money. I am on the 2021-2022 academic job market and available for interviews. 
+I am a PhD student in economics at MIT. My research interests include labor economics, public economics, household finance, and monetary economics. 
 
 Here is my __[CV](http://economics.mit.edu/grad/mbwong/cv)__. You can reach me at [mbwong@mit.edu](mbwong@mit.edu). 
