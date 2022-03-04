@@ -2,7 +2,7 @@ works:
 
 
 - title: "Labor Market Consequences of Domestic Outsourcing: Evidence from Legalization in Brazil"
-  pdflink: "/papers/outsourcing.pdf"
+  pdflink: "/pdf/outsourcing.pdf"
   coauthors: "Mayara Felix"
   book: "Job Market Paper"
   note: "Last Updated: December 2021"
@@ -13,21 +13,21 @@ works:
        We analyze the effect of domestic outsourcing on labor markets using Brazil's unexpected legalization of outsourcing in 1993, which sharply increased outsourcing among security guards. We show that outsourcing legalization led to a wave of occupational layoffs. Incumbent security guards affected by the layoffs moved to lower-wage firms and experienced persistent wage reductions. However, outsourcing legalization also had positive market-level effects, as revealed by a triple-difference specification that uses regional variation in the pre-legalization permissiveness of labor courts and compares security guards with less impacted occupations. Jobs were reallocated from older to younger workers. Total employment of security guards rose by 8-15% and their average wages increased by 2-4%. Interpreted through an economic framework, the results imply that outsourcing legalization benefitted entrant workers and generated lasting efficiency gains. If laid-off incumbent workers were fully compensated for their earnings losses, social breakeven would be achieved in one to five years.
 
 
-- title: "The Power of Money: Lessons from Introducing Digital Currency to a Barter Community"
-  pdflink: "/papers/Bunz.pdf"
-  note: "Last Updated: October 2021"
+- title: "What is Money? Lessons from Introducing Digital Currency to a Barter Community"
+  pdflink: "/pdf/Bunz.pdf"
+  note: "Last Updated: February 2022"
   abstract: >
       I analyze how digital currency issuance by a private online platform affected the volume of trade in a large barter community in Toronto. The community initially banned cash, but subsequently introduced a digital token that could be transferred among users and redeemed at designated local stores for retail goods. Using comprehensive transactions data, I show that a large monetary expansion persistently increased transaction volume by 70% by enabling monetized trade. However, when token redemption was suddenly halted at a subset of stores, a run on the token ensued and transaction volume fell. The findings are consistent with a search-theoretic model wherein money functions as a medium of exchange.
 
 
 - title: "The Effects of Partial Public Housing Privatization: Evidence from Hong Kong"
-  pdflink: "/papers/TPS.pdf"
+  pdflink: "/pdf/TPS.pdf"
   note: "Last Updated: March 2022"
   abstract: >
       Many governments sell public housing to sitting tenants but limit the resale and leasing of sold units. What is the impact of this partial privatization? I show that Hong Kong’s Tenants Purchase Scheme (TPS) did not lead to housing reallocation because of severe restrictions on resale and leasing. Nevertheless, quasi-experimental estimates reveal that TPS reduced household sizes and increased household incomes in treated estates. These effects are explained by the relaxation of household-size-contingent income limits and unit allocation rules. Well-off tenants therefore benefited, but the low-income population was hurt by a resulting reduction in the availability of affordable housing.
 
 - title: "Ideological Bias and Trust in Information Sources"
-  pdflink: "/papers/trust.pdf"
+  pdflink: "/pdf/trust.pdf"
   pdflink: "http://economics.mit.edu/files/21784"
   note: "Last Updated: August 2021"
   abstract: >
