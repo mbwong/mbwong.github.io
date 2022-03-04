@@ -2,10 +2,10 @@ works:
 
 
 - title: "Labor Market Consequences of Domestic Outsourcing: Evidence from Legalization in Brazil"
-  pdflink: "http://economics.mit.edu/files/22108"
+  pdflink: "/papers/outsourcing.pdf"
   coauthors: "Mayara Felix"
   book: "Job Market Paper"
-  note: "Last Updated: November 2021"
+  note: "Last Updated: December 2021"
   links:
     - url: "https://twitter.com/mbwong/status/1452659761300844546"
       text: "Twitter thread"
@@ -14,20 +14,20 @@ works:
 
 
 - title: "The Power of Money: Lessons from Introducing Digital Currency to a Barter Community"
-  pdflink: "http://economics.mit.edu/files/22266"
+  pdflink: "/papers/Bunz.pdf"
   note: "Last Updated: October 2021"
   abstract: >
-      I study the role of money as a medium of exchange by analyzing how digital currency issuance by a private online platform affected the volume of trade in a large barter community in Toronto. The community initially banned cash, but subsequently introduced a digital token that could be transferred among users and redeemed at designated local stores for retail goods. Using comprehensive transactions data, I show that a large monetary expansion persistently increased transaction volume by 70% by enabling monetized trade. However, when token redemption was suddenly halted at a subset of stores, a run on the token ensued and transaction volume fell. The findings are consistent with a search-theoretic model wherein the use of money solves the problem of double coincidence. 
+      I analyze how digital currency issuance by a private online platform affected the volume of trade in a large barter community in Toronto. The community initially banned cash, but subsequently introduced a digital token that could be transferred among users and redeemed at designated local stores for retail goods. Using comprehensive transactions data, I show that a large monetary expansion persistently increased transaction volume by 70% by enabling monetized trade. However, when token redemption was suddenly halted at a subset of stores, a run on the token ensued and transaction volume fell. The findings are consistent with a search-theoretic model wherein money functions as a medium of exchange.
 
 
 - title: "The Effects of Partial Public Housing Privatization: Evidence from Hong Kong"
-  pdflink: "http://economics.mit.edu/files/22163"
-  note: "Last Updated: December 2021"
+  pdflink: "/papers/TPS.pdf"
+  note: "Last Updated: March 2022"
   abstract: >
-      To boost homeownership, many governments sell public housing to sitting tenants but limit the resale and leasing of sold units. What is the impact of this partial privatization? I estimate the effects of Hong Kong’s Tenants Purchase Scheme using its staggered rollout across housing estates in 1998-2006. I find that total population and average household size fell in treated estates, while average household income rose. These findings are not explained by reallocation of housing units across households, which was rare due to stringent resale and leasing restrictions. Rather, the program relaxed household-size-contingent income limits and unit allocation rules for sitting tenants, which caused some household members to move out and others to increase labor supply.
+      Many governments sell public housing to sitting tenants but limit the resale and leasing of sold units. What is the impact of this partial privatization? I show that Hong Kong’s Tenants Purchase Scheme (TPS) did not lead to housing reallocation because of severe restrictions on resale and leasing. Nevertheless, quasi-experimental estimates reveal that TPS reduced household sizes and increased household incomes in treated estates. These effects are explained by the relaxation of household-size-contingent income limits and unit allocation rules. Well-off tenants therefore benefited, but the low-income population was hurt by a resulting reduction in the availability of affordable housing.
 
 - title: "Ideological Bias and Trust in Information Sources"
-  coauthors: "Matthew Gentzkow and Allen T. Zhang"
+  pdflink: "/papers/trust.pdf"
   pdflink: "http://economics.mit.edu/files/21784"
   note: "Last Updated: August 2021"
   abstract: >
