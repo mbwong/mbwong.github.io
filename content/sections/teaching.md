@@ -4,3 +4,4 @@
 - TA, Intermediate Microeconomic Theory (undergrad), MIT, Fall 2018-2020
 - TA, Applied Economics for Managers (EMBA), MIT, Fall 2019
 - TA, Organizational Economics (PhD), MIT, Fall 2018
+...
