@@ -1,5 +1,5 @@
-- Teaching Assistant, Industrial Organization II (PhD), MIT, Spring 2022
-- Teaching Assistant, Principles of Microeconomics (undergrad), MIT, Spring 2022
-- Teaching Assistant, Intermediate Microeconomic Theory (undergrad), MIT, Fall 2018-2020
-- Teaching Assistant, Applied Economics for Managers (EMBA), MIT, Fall 2019
-- Teaching Assistant, Organizational Economics (PhD), MIT, Fall 2018
+- TA, Industrial Organization II (PhD), MIT, Spring 2022
+- TA, Principles of Microeconomics (undergrad), MIT, Spring 2022
+- TA, Intermediate Microeconomic Theory (undergrad), MIT, Fall 2018-2020
+- TA, Applied Economics for Managers (EMBA), MIT, Fall 2019
+- TA, Organizational Economics (PhD), MIT, Fall 2018
