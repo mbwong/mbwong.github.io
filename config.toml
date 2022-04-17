@@ -1,5 +1,5 @@
 relativeURLs = true
-title = "Michael Wong"
+title = "Michael B. Wong"
 theme = "academimal"
 sectionPagesMenu = "main"
 defaultContentLanguage = "en"
@@ -7,6 +7,6 @@ ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 publishDir = "docs"
 
 [params]
-    shortbio = "PhD Student, MIT"
+    shortbio = "Incoming assistant professor, HKU"
     logo = "mw.png" 
     
