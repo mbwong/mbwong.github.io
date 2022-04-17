@@ -4,9 +4,11 @@ works:
 - title: "What is Money? Lessons from Introducing Digital Currency to a Barter Community"
   pdflink: "/pdf/Bunz.pdf"
   note: "Last Updated: February 2022"
+  links:
+    - url: "https://twitter.com/mbwong/status/1453385579308195842?s=20&t=2KZ23wzUGzl9ViykC8gzFg"
+      text: "Twitter thread"
   abstract: >
       I analyze how digital currency issuance by a private online platform affected the volume of trade in a large barter community in Toronto. The community initially banned cash, but subsequently introduced a digital token that could be transferred among users and redeemed at designated local stores for retail goods. Using comprehensive transactions data, I show that a large monetary expansion persistently increased transaction volume by 70% by enabling monetized trade. However, when token redemption was suddenly halted at a subset of stores, a run on the token ensued and transaction volume fell. The findings are consistent with a search-theoretic model wherein money functions as a medium of exchange.
-
 
 - title: "Labor Market Consequences of Domestic Outsourcing: Evidence from Legalization in Brazil"
   pdflink: "/pdf/outsourcing.pdf"
