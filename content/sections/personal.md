@@ -1,1 +1,1 @@
-I'm doing 200 hour yoga teacher training at [Down Under Yoga](https://www.downunderyoga.com/)!
+[Things I learned in Grad School (the Hard Way)](/pdf/Things_I_learned_in_Grad_School.pdf)
