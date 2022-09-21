@@ -50,7 +50,13 @@
 
 {{ with .GetPage "/sections/personal.md" }}
 <hr>
-<h2 id="other">Other</h2>
+<h2 id="other">Notes</h2>
+{{ .Content }}
+{{ end }}
+
+{{ with .GetPage "/sections/policy.md" }}
+<hr>
+<h2 id="other">Other Writing</h2>
 {{ .Content }}
 {{ end }}
 
