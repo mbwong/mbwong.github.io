@@ -1,7 +1,7 @@
-[What Caused Hong Kong's Housing Crisis?]((/pdf/Housing_Crisis.pdf)
- (Hong Kong Economic Policy Green Paper, 2022-09-28)
+[What Caused Hong Kong's Housing Crisis?](/pdf/Housing_Crisis.pdf)
+ (Hong Kong Economic Policy Green Paper, 2022-09-23)
 
-[香港房屋危機之謎](/pdf/Housing_Crisis.pdf) (香港經濟政策綠皮書, 2022-09-28)
+[香港房屋危機之謎](/pdf/香港房屋危機之謎.pdf) (香港經濟政策綠皮書, 2022-09-23)
 
 [In Hong Kong’s Olympic glory, a glimpse of a hopeful new future](/pdf/Olympic_Hope.pdf) (SCMP, 2021-8-4)
 
