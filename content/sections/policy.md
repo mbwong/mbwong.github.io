@@ -1,5 +1,5 @@
 [What Caused Hong Kong's Housing Crisis?](/pdf/Housing_Crisis.pdf)
- (Hong Kong Economic Policy Green Paper, 2022-9-23)
+ (Hong Kong Economic Policy Green Paper, 2022-9-23, [Twitter thread](https://twitter.com/mbwong/status/1574197778686742529))
 
 [香港房屋危機之謎](/pdf/香港房屋危機之謎.pdf) (香港經濟政策綠皮書, 2022-9-23)
 
