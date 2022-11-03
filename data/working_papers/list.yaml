@@ -1,5 +1,18 @@
 works:
 
+- title: "Does Outsourcing Smooth Labor Demand?"
+  pdflink: "/pdf/outsourcing_dynamics.pdf"
+  coauthors: "Duoxi Li"
+  note: "Last Updated: November 2022"
+  abstract: >
+       We develop and test a model of labor market dynamics with domestic outsourcing, productivity shocks, and endogenous separations. In the model, outsourcing may reduce worker rents, smooth labor demand, or both. Depending on the relative strengths of these two effects, outsourcing has different effects on worker hazard into non-employment. We use comprehensive administrative data on security guards and cleaners from Brazil to quantify the two effects. The estimates suggest that outsourcing significantly smoothed labor demand among security guards but did not significantly reduce their rents. By contrast, outsourcing had both demand-smoothing and large rent-stripping effects on the lower-wage occupation of cleaners.
+
+- title: "The Effects of Partial Public Housing Privatization: Evidence from Hong Kong"
+  pdflink: "/pdf/TPS.pdf"
+  note: "Last Updated: June 2022"
+  book: "Under review"
+  abstract: >
+       Many governments sell public housing to sitting tenants but limit the resale and leasing of sold units. What is the impact of this partial privatization? I present quasi-experimental evidence that fifteen years after its introduction, Hong Kong’s Tenants Purchase Scheme reduced household sizes in treated estates by 7 percent and increased household incomes by 23 percent. There was little reallocation of housing across households, however. These effects are instead driven by the relaxation of household-size-contingent income limits and unit allocation rules, which increased labor supply and altered household composition. 
 
 - title: "What is Money? Evidence from Introducing Digital Currency to a Barter Community"
   pdflink: "/pdf/Bunz.pdf"
@@ -21,14 +34,6 @@ works:
       text: "Twitter thread"
   abstract: >
        We analyze the effect of domestic outsourcing on labor markets using Brazil's unexpected legalization of outsourcing in 1993, which sharply increased outsourcing among security guards. We show that outsourcing legalization led to a wave of occupational layoffs. Incumbent security guards affected by the layoffs moved to lower-wage firms and experienced persistent wage reductions. However, outsourcing legalization also had positive market-level effects, as revealed by a triple-difference specification that uses regional variation in the pre-legalization permissiveness of labor courts and compares security guards with less impacted occupations. Jobs were reallocated from older to younger workers. Total employment of security guards rose by 8-15% and their average wages increased by 2-4%. Interpreted through an economic framework, the results imply that outsourcing legalization benefitted entrant workers and generated lasting efficiency gains. If laid-off incumbent workers were fully compensated for their earnings losses, social breakeven would be achieved in one to five years.
-
-
-- title: "The Effects of Partial Public Housing Privatization: Evidence from Hong Kong"
-  pdflink: "/pdf/TPS.pdf"
-  note: "Last Updated: June 2022"
-  book: "Under review"
-  abstract: >
-       Many governments sell public housing to sitting tenants but limit the resale and leasing of sold units. What is the impact of this partial privatization? I present quasi-experimental evidence that fifteen years after its introduction, Hong Kong’s Tenants Purchase Scheme reduced household sizes in treated estates by 7 percent and increased household incomes by 23 percent. There was little reallocation of housing across households, however. These effects are instead driven by the relaxation of household-size-contingent income limits and unit allocation rules, which increased labor supply and altered household composition. 
 
 - title: "Ideological Bias and Trust in Information Sources"
   pdflink: "/pdf/trust.pdf"
