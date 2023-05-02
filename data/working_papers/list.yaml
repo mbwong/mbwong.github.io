@@ -28,12 +28,12 @@ works:
   abstract: >
       I analyze how digital currency issuance by a private online platform affected the volume of trade in a large barter community in Toronto. The community initially banned cash, but subsequently introduced a digital token that could be transferred among users and redeemed at designated local stores for retail goods. Using comprehensive transactions data, I show that a large monetary expansion persistently increased transaction volume by 70% by enabling monetized trade. However, when token redemption was suddenly halted at a subset of stores, a run on the token ensued and transaction volume fell. The findings are consistent with a search-theoretic model wherein money functions as a medium of exchange.
 
-- title: "The Effects of Partial Public Housing Privatization: Evidence from Hong Kong"
+- title: "The Design of Public Housing Programs: Evidence from Hong Kong"
   pdflink: "/pdf/TPS.pdf"
-  note: "Last Updated: June 2022"
-  book: "Under review"
+  note: "Last Updated: May 2023"
   abstract: >
-       Many governments sell public housing to sitting tenants but limit the resale and leasing of sold units. What is the impact of this partial privatization? I present quasi-experimental evidence that fifteen years after its introduction, Hong Kong’s Tenants Purchase Scheme reduced household sizes in treated estates by 7 percent and increased household incomes by 23 percent. There was little reallocation of housing across households, however. These effects are instead driven by the relaxation of household-size-contingent income limits and unit allocation rules, which increased labor supply and altered household composition. 
+       When designing public housing programs, governments must choose whether to rent or sell, whether to conduct regular income checks, and whether to allow transfer of sold units. This paper analyzes how the transferability and contingency of occupancy rights granted to public housing participants affect program efficiency and targeting. Specifically, I study Hong Kong’s Tenants Purchase Scheme, which converted 120,000 rental units into ownership units with transfer restrictions. Leveraging its staggered roll-out between 1998 and 2006, I show that the scheme reduced household sizes and increased incomes in treated estates, did not reduce misallocation, and likely worsened targeting of low-income households. 
+
 
 - title: "Ideological Bias and Trust in Information Sources"
   pdflink: "/pdf/trust.pdf"
