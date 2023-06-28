@@ -1,21 +1,21 @@
 works:
 
+- title: "Labor Market Effects of Domestic Outsourcing: Evidence from Legalization in Brazil"
+  pdflink: "/pdf/outsourcing.pdf"
+  coauthors: "Mayara Felix"
+  note: "Last Updated: June 2023"
+  links:
+    - url: "https://twitter.com/mbwong/status/1452659761300844546"
+      text: "Twitter thread"
+  abstract: >
+       We estimate the effect of domestic outsourcing on labor markets using Brazil's 1993 legalization, which sharply increased the outsourcing of security guards. We use a triple-differences design that leverages North-South variation in pre-legalization court permissiveness and compares guards to less affected occupations. We find that outsourcing legalization persistently increased total employment of security guards in more restrictive regions by 8% and reduced their average age by two years. The average wage of security guards did not fall in more restrictive regions, with some specifications showing a small positive effect. However, there was a wave of layoffs that reallocated incumbent security guards to other occupations and lower-wage firms. A simple model implies that the market-level efficiency gains from outsourcing legalization more than offset the earnings losses of incumbent workers.
+
 - title: "Does Outsourcing Smooth Labor Demand?"
   pdflink: "/pdf/outsourcing_dynamics.pdf"
   coauthors: "Duoxi Li"
   note: "Last Updated: November 2022"
   abstract: >
        We develop and test a model of labor market dynamics with domestic outsourcing, productivity shocks, and endogenous separations. In the model, outsourcing may reduce worker rents, smooth labor demand, or both. Depending on the relative strengths of these two effects, outsourcing has different effects on worker hazard into non-employment. We use comprehensive administrative data on security guards and cleaners from Brazil to quantify the two effects. The estimates suggest that outsourcing significantly smoothed labor demand among security guards but did not significantly reduce their rents. By contrast, outsourcing had both demand-smoothing and large rent-stripping effects on the lower-wage occupation of cleaners.
-
-- title: "Labor Market Consequences of Domestic Outsourcing: Evidence from Legalization in Brazil"
-  pdflink: "/pdf/outsourcing.pdf"
-  coauthors: "Mayara Felix"
-  note: "Last Updated: December 2021"
-  links:
-    - url: "https://twitter.com/mbwong/status/1452659761300844546"
-      text: "Twitter thread"
-  abstract: >
-       We analyze the effect of domestic outsourcing on labor markets using Brazil's unexpected legalization of outsourcing in 1993, which sharply increased outsourcing among security guards. We show that outsourcing legalization led to a wave of occupational layoffs. Incumbent security guards affected by the layoffs moved to lower-wage firms and experienced persistent wage reductions. However, outsourcing legalization also had positive market-level effects, as revealed by a triple-difference specification that uses regional variation in the pre-legalization permissiveness of labor courts and compares security guards with less impacted occupations. Jobs were reallocated from older to younger workers. Total employment of security guards rose by 8-15% and their average wages increased by 2-4%. Interpreted through an economic framework, the results imply that outsourcing legalization benefitted entrant workers and generated lasting efficiency gains. If laid-off incumbent workers were fully compensated for their earnings losses, social breakeven would be achieved in one to five years.
 
 - title: "What is Money? Evidence from Introducing Digital Currency to a Barter Community"
   pdflink: "/pdf/Bunz.pdf"
