@@ -32,7 +32,8 @@ works:
   pdflink: "/pdf/TPS.pdf"
   note: "Last Updated: September 2023"
   abstract: >
-       When designing public housing programs, governments must choose whether to rent or sell units, whether to conduct income checks, and whether to restrict transfers. To inform these choices, this study examines Hong Kong's Tenants Purchase Scheme. This scheme sold ownership of 120,000 public rental units to sitting tenants at discounted prices, but with restrictions on leasing and resale. By analyzing its staggered roll-out between 1998 and 2006, I find that the scheme reduced household sizes in treated estates by 5-7% and increased household incomes by 23%. These effects suggest that social welfare declined due to worsened targeting of housing subsidies.
+       This paper analyzes how a large-scale privatization of public housing affected population sorting and social welfare in Hong Kong. To estimate its effects, I leverage the scheme's staggered roll-out between 1998 and 2006. I find that privatization reduced average household sizes by 5-7% and increased average household income by 23% in treated estates over the following fifteen years. I also find very little leasing and resale after initial sale due to stringent restrictions. Interpreted through a model, my findings indicate that the scheme discouraged higher-income residents from vacating, worsened targeting of housing subsidies, deepened housing misallocation, and reduced social welfare.  
+
 
 
 - title: "Ideological Bias and Trust in Information Sources"
