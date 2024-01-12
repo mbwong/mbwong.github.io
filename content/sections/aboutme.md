@@ -2,4 +2,4 @@ I am an assistant professor in management and strategy with a joint appointment 
 
 I study applied microeconomics. My current projects cover topics including labor service outsourcing, theory of the firm, affordable housing, and money and barter. Here is my __[CV](/pdf/CV.pdf)__. You can reach me at [mbwong@hku.hk](mailto:mbwong@hku.hk) or DM me on [Twitter](https://twitter.com/mbwong). 
 
-If you're a research-track student at HKU interested in economics, I'm occasionally looking for RAs. Feel free to email me! 
+I am hiring a pre-doctoral research assistant for 2024-2025 or 2025-2026. Feel free to email me! 
