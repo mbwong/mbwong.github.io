@@ -1,3 +1,6 @@
+[The Solution to Hong Kong’s Subdivided Housing Crisis](/pdf/subdividedhouses.pdf)
+ (Translated from Hong Kong Economic Journal, 2024-2-14)
+
 [Brain Drain, Brain Gain, and The Future of Hong Kong: Evidence from LinkedIn Profiles](/pdf/Brain_Drain.pdf)
  (Hong Kong Economic Policy Green Paper, 2024-1-10, with Alan P. Kwan and Heiwai Tang)
 
@@ -10,6 +13,8 @@
 [In Hong Kong’s Olympic glory, a glimpse of a hopeful new future](/pdf/Olympic_Hope.pdf) (South China Morning Post, 2021-8-4)
 
 [Liberal or conservative, Hongkongers must learn to listen to those they disagree with](/pdf/Liberal_Conservative.pdf) (South China Morning Post, 2019-9-7, with Spike Lee and Josephine Au)
+
+[香港劏房問題之出路](/pdf/香港劏房問題之出路.pdf) (香港信報, 2024-2-14)
 
 [人才得失與香港前景：領英社交資料佐證](/pdf/人才得失與香港前景.pdf) (香港經濟政策綠皮書, 2024-1-10, 與關穎倫和鄧希煒)
 
