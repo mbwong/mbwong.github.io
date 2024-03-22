@@ -37,11 +37,12 @@ works:
   abstract: >
       I analyze how digital currency issuance by a private online platform affected the volume of trade in a large barter community in Toronto. The community initially banned cash, but subsequently introduced a digital token that could be transferred among users and redeemed at designated local stores for retail goods. Using comprehensive transactions data, I show that a large monetary expansion persistently increased transaction volume by 70% by enabling monetized trade. However, when token redemption was suddenly halted at a subset of stores, a run on the token ensued and transaction volume fell. The findings are consistent with a search-theoretic model wherein money functions as a medium of exchange.
 
-- title: "Targeting Housing Assistance with Rent Notches: Quasi-experimental Evidence from Hong Kong"
+- title: "Targeting Housing Assistance with Rent Notches: Evidence from a Quasi-experiment"
   pdflink: "/pdf/TPS.pdf"
   note: "Last Updated: March 2024"
   abstract: >
-       This paper studies the effects of rent notches on the household composition and incomes of Hong Kong's public housing tenants. I leverage the staggered roll-out of the Tenants Purchase Scheme between 1998 and 2006, which allowed 183,700 tenants to buy permanent occupancy rights at discounted prices and thereby removed rent notches. Difference-in-difference estimates reveal that household sizes declined by 4-5 percent in the treated estates, while average households income rose by 23 percent. The average schooling of younger adults increased by one year. These results suggest that the removal of rent notches worsened the targeting of housing assistance towards low-income populations, partly due to endogenous changes in household formation. 
+       This paper studies the effects of rent notches on the household composition and average incomes of Hong Kong's public housing residents. I leverage the staggered roll-out of the Tenants Purchase Scheme between 1998 and 2006, which allowed 183,700 tenants to buy permanent occupancy rights at discounted prices and thereby removed rent notches. Difference-in-difference estimates reveal that household sizes declined by 4-5 percent in the treated estates, while average households income rose by 23 percent. The average schooling of younger adults increased by one year. These results suggest that the removal of rent notches worsened the targeting of housing assistance towards low-income populations, partly due to endogenous changes in household formation. 
+
 
 
 - title: "Ideological Bias and Trust in Information Sources"
