@@ -25,16 +25,12 @@ works:
   abstract: >
        We develop and test a model of labor market dynamics with domestic outsourcing, productivity shocks, and endogenous separations. In the model, outsourcing may reduce worker rents, smooth labor demand, or both. Depending on the relative strengths of these two effects, outsourcing has different effects on worker hazard into non-employment. We use comprehensive administrative data on security guards and cleaners from Brazil to quantify the two effects. The estimates suggest that outsourcing significantly smoothed labor demand among security guards but did not significantly reduce their rents. By contrast, outsourcing had both demand-smoothing and large rent-stripping effects on the lower-wage occupation of cleaners.
 
-- title: "What is Money? Evidence from Introducing Digital Currency to a Barter Community"
+- title: "The Life and Death of a Digital Currency: Lessons on Money and Barter from the Field"
   pdflink: "/pdf/Bunz.pdf"
-  note: "Last Updated: February 2022"
-  links:
-    - url: "https://twitter.com/mbwong/status/1453385579308195842?s=20&t=2KZ23wzUGzl9ViykC8gzFg"
-      text: "Twitter thread"
-    - url: "https://www.youtube.com/watch?v=BYnDGDY33vQ"
-      text: "Presentation Video (September 2022)"
+  note: "Last Updated: March 2024"
   abstract: >
-      I analyze how digital currency issuance by a private online platform affected the volume of trade in a large barter community in Toronto. The community initially banned cash, but subsequently introduced a digital token that could be transferred among users and redeemed at designated local stores for retail goods. Using comprehensive transactions data, I show that a large monetary expansion persistently increased transaction volume by 70% by enabling monetized trade. However, when token redemption was suddenly halted at a subset of stores, a run on the token ensued and transaction volume fell. The findings are consistent with a search-theoretic model wherein money functions as a medium of exchange.
+      This paper documents the rise and fall of a redeemable digital currency in a Toronto-based barter community using unique high-frequency transaction data. The observed effects of unexpected monetary events are compared with predictions from models in monetary economics. I find that a large expansion of token supply persistently increased monetized transactions without generating inflation. A subsequent reduction in redeemability did not reduce token prices or supply, but it decreased token acceptance and transactions. When redemption was fully halted, token prices still did not change and barter volume was largely unaffected, but token acceptance declined and monetized exchange dwindled. These findings are consistent only with models of money as a medium of exchange with price coordination frictions. 
+
 
 - title: "Targeting Housing Assistance with Rent Notches: Evidence from a Quasi-experiment"
   pdflink: "/pdf/TPS.pdf"
