@@ -5,7 +5,8 @@ works:
   coauthors: "Duoxi Li"
   note: "Last Updated: March 2024"
   abstract: >
-       Many transaction costs deemed important in the theory of the firm are not necessary for the existence of centralized intermediaries that coordinate exchange. We develop a repeated-game model of an economy in which buyers may frictionlessly enter relational contracts with either producers or intermediaries. We show that centralized intermediaries that monitor and allocate producers can emerge in a setting only with demand fluctuations, moral hazard, and limited observability. In our model, intermediaries lengthen the duration of productive contracting by reassigning producers across buyers, and thereby strengthen performance incentives. We generate realistic predictions regarding the existence and boundaries of firms in many real-world applications, including for professional service firms, supply chains, franchises, online platforms, schools, and hospitals.
+       Many transaction costs deemed important in the theory of the firm are not necessary for the existence of centralized intermediaries that coordinate exchange. We develop a repeated-game model of an economy in which buyers may frictionlessly enter relational contracts with either producers or intermediaries. We show that centralized intermediaries emerge to monitor and allocate producers when buyers with short-lived demand can only observe the performance of the producers who directly provide them with services. In this environment, the presence of intermediaries who monitor and reassign producers across buyers strengthens the producers’ incentives to perform. We derive realistic predictions regarding the existence and boundaries of firms. We discuss applications to professional service firms, supply chains, franchises, online platforms, schools, and hospitals.
+
 
 
 
