@@ -36,12 +36,3 @@ works:
   abstract: >
        This paper studies the effects of rent notches on the household composition and average incomes of Hong Kong's public housing residents. I leverage the staggered roll-out of the Tenants Purchase Scheme between 1998 and 2006, which allowed 183,700 tenants to buy permanent occupancy rights at discounted prices and thereby removed rent notches. Difference-in-difference estimates reveal that household sizes declined by 4-5 percent in the treated estates, while average households income rose by 23 percent. The average schooling of younger adults increased by one year. These results suggest that the removal of rent notches worsened the targeting of housing assistance towards low-income populations, partly due to endogenous changes in household formation. 
 
-
-
-- title: "Ideological Bias and Trust in Information Sources"
-  pdflink: "/pdf/trust.pdf"
-  coauthors: "Matthew Gentzkow and Allen T. Zhang"
-  note: "Last Updated: March 2024"
-  book: "Revise and resubmit, AEJ: Micro"
-  abstract: >
-       We study the role of endogenous trust in amplifying ideological bias. Agents in our model learn a sequence of states from sources whose accuracy is ex ante uncertain. Agents learn these accuracies by comparing their own reasoning about the states based on introspection or direct experience to the sources' reports. Small biases in this reasoning can cause large ideological differences in the agents' trust in information sources and their beliefs about the states, and may lead agents to become overconfident in their own reasoning. Disagreements can be similar in magnitude whether agents see only ideologically aligned sources or diverse sources.
