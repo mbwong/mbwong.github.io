@@ -1,3 +1,5 @@
+[Hong Kong must stop letting the well-off hog public rental housing](/pdf/welloff.pdf) (with Jimmy Ho, 2024-5-4) 
+
 [The Solution to Hong Kong’s Subdivided Housing Crisis](/pdf/subdividedhouses.pdf)
  (Translated from Hong Kong Economic Journal, 2024-2-14)
 
