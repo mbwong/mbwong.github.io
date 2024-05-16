@@ -1,4 +1,4 @@
-[Hong Kong must stop letting the well-off hog public rental housing](/pdf/welloff.pdf) (with Jimmy Ho, 2024-5-4) 
+[Hong Kong must stop letting the well-off hog public rental housing](/pdf/welloff.pdf) (South China Morning Post, 2024-5-4, with Jimmy Ho) 
 
 [The Solution to Hong Kong’s Subdivided Housing Crisis](/pdf/subdividedhouses.pdf)
  (Translated from Hong Kong Economic Journal, 2024-2-14)
@@ -15,6 +15,8 @@
 [In Hong Kong’s Olympic glory, a glimpse of a hopeful new future](/pdf/Olympic_Hope.pdf) (South China Morning Post, 2021-8-4)
 
 [Liberal or conservative, Hongkongers must learn to listen to those they disagree with](/pdf/Liberal_Conservative.pdf) (South China Morning Post, 2019-9-7, with Spike Lee and Josephine Au)
+
+[加強富戶審查 劏房戶免受苦？](/pdf/加強富戶審查 劏房戶免受苦？.pdf) (明報, 2024-5-16, 與何漢樑)
 
 [香港劏房問題之出路](/pdf/香港劏房問題之出路.pdf) (香港信報, 2024-2-14)
 
