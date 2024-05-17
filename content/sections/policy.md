@@ -16,7 +16,7 @@
 
 [Liberal or conservative, Hongkongers must learn to listen to those they disagree with](/pdf/Liberal_Conservative.pdf) (South China Morning Post, 2019-9-7, with Spike Lee and Josephine Au)
 
-[加強富戶審查 劏房戶免受苦？](/pdf/加強富戶審查 劏房戶免受苦？.pdf) (明報, 2024-5-16, 與何漢樑)
+[加強富戶審查 劏房戶免受苦？](/pdf/加強富戶審查劏房戶免受苦.pdf) (明報, 2024-5-16, 與何漢樑)
 
 [香港劏房問題之出路](/pdf/香港劏房問題之出路.pdf) (香港信報, 2024-2-14)
 
