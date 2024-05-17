@@ -1,6 +1,6 @@
 [Hong Kong must stop letting the well-off hog public rental housing](/pdf/welloff.pdf) (South China Morning Post, 2024-5-4, with Jimmy Ho) 
 
-[Why is Hong Kong Housing So Expensive](/pdf/HKU_FOSS.pdf) (HKU FOSS presentation, 2024-3-6) 
+[Why is Hong Kong Housing So Expensive?](/pdf/HKU_FOSS.pdf) (HKU FOSS presentation, 2024-3-6) 
 
 [The Solution to Hong Kong’s Subdivided Housing Crisis](/pdf/subdividedhouses.pdf)
  (Translated from Hong Kong Economic Journal, 2024-2-14)
