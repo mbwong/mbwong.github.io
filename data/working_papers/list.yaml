@@ -14,7 +14,7 @@ works:
   coauthors: "Duoxi Li"
   note: "Last Updated: June 2024"
   abstract: >
-       We study intermediation in markets for relational contracts. We show that centralized intermediaries that aggregate demand, monitor producers, and direct allocations can efficiently emerge even when matching is frictionless. The presence of intermediaries reduces the rents of producers, but intermediaries themselves require an incentive rent. Bilateral and intermediated contracts therefore coexist in a unique steady-state equilibrium. A buyer’s optimal contractual choice depends on demand volatility, gains from specialization, market tightness, the extent of the market, and reputation concerns. A decline in communication frictions may increase intermediation. We discuss applications to professional service outsourcing, franchises, and online platforms.
+    We study intermediation in markets for relational contracts. We show that centralized intermediaries that aggregate demand, monitor producers, and direct allocations can efficiently emerge in the absence of matching frictions. The presence of intermediaries reduces the rents needed to motivate producers, but intermediaries themselves require an incentive rent. Bilateral and intermediated contracts therefore coexist in a unique steady-state equilibrium. A buyer’s optimal contractual choice depends on demand volatility, gains from specialization, market tightness, the extent of the market, and reputation concerns. A decline in communication frictions may increase intermediation. We discuss applications to professional service outsourcing, franchises, and online platforms.
 
 
 - title: "Does Outsourcing Smooth Labor Demand?"
