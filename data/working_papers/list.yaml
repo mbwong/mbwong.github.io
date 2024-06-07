@@ -9,14 +9,6 @@ works:
        We study intermediation in markets for relational contracts. We show that centralized intermediaries that aggregate demand, monitor producers, and direct allocations can efficiently emerge in the absence of matching frictions. Such intermediaries prevent idleness and separation and thereby reduce producer incentive rents. However, they require an additional incentive rent, so bilateral and intermediated contracts coexist in a unique steady-state equilibrium. A buyer’s optimal contractual choice depends on demand volatility, gains from specialization, market tightness, the extent of the market, and reputation concerns. A decline in communication frictions may increase intermediation. We discuss applications to service outsourcing, franchises, and online platforms.
 
 
-- title: "The Employment Effects of Domestic Outsourcing"
-  pdflink: "/pdf/outsourcing.pdf"
-  coauthors: "Mayara Felix"
-  note: "Last Updated: April 2024"
-  abstract: >
-       The rise of domestic outsourcing is documented to have reduced the wages of low-wage workers, but little is known about its effects on employment and on higher-wage occupations. This paper estimates the effects of domestic outsourcing using Brazil’s 1993 court-ordered outsourcing legalization, which sharply increased outsourcing in the large and professionalized occupation of security guards. We find that legalization led to a wave of occupational layoffs that affected 7-9% of the occupation. These layoffs temporarily reduced the employment of direct-hire incumbent guards and persistently reduced their wages, due to transitions to other occupations and lower-wage firms. By contrast, on-site outsourcing, where workers flowed to contract firms, was rare. We then estimate the effect of legalization on local labor markets, using a triple-differences design that leverages North-South variation in pre-legalization court permissiveness and compares guards to less affected occupations. We find that legalization persistently increased total guard employment by 5.2% and shifted the occupation’s demographic composition towards younger workers, while having no effect on demographic-adjusted wages. Roughly half of the employment increase was driven by workers coming from outside formality. A simple framework suggests that outsourcing legalization increased efficiency in Brazil’s security service sector, with only limited effects on worker surplus.
-
-
 - title: "Domestic Outsourcing and Employment Security"
   pdflink: "/pdf/outsourcing_dynamics.pdf"
   coauthors: "Naijia Guo and Duoxi Li"
@@ -24,6 +16,14 @@ works:
   abstract: >
        Domestic outsourcing is robustly associated with lower transitions into unemployment among cleaners and security guards in Brazil during their first few years of tenure. This difference is not explained by worker characteristics or differential exposure to labor market conditions. We explain this novel fact by developing a search-theoretic model wherein intermediary firms can reassign outsourced workers across client firms when negative productivity shocks hit. The estimated model fits observed wage differentials and hazard profiles tightly. By easing reassignment across firms, domestic outsourcing had more positive welfare effects on workers upon job entry than implied by wage differentials alone.
        
+       
+- title: "The Employment Effects of Domestic Outsourcing"
+  pdflink: "/pdf/outsourcing.pdf"
+  coauthors: "Mayara Felix"
+  note: "Last Updated: April 2024"
+  abstract: >
+       The rise of domestic outsourcing is documented to have reduced the wages of low-wage workers, but little is known about its effects on employment and on higher-wage occupations. This paper estimates the effects of domestic outsourcing using Brazil’s 1993 court-ordered outsourcing legalization, which sharply increased outsourcing in the large and professionalized occupation of security guards. We find that legalization led to a wave of occupational layoffs that affected 7-9% of the occupation. These layoffs temporarily reduced the employment of direct-hire incumbent guards and persistently reduced their wages, due to transitions to other occupations and lower-wage firms. By contrast, on-site outsourcing, where workers flowed to contract firms, was rare. We then estimate the effect of legalization on local labor markets, using a triple-differences design that leverages North-South variation in pre-legalization court permissiveness and compares guards to less affected occupations. We find that legalization persistently increased total guard employment by 5.2% and shifted the occupation’s demographic composition towards younger workers, while having no effect on demographic-adjusted wages. Roughly half of the employment increase was driven by workers coming from outside formality. A simple framework suggests that outsourcing legalization increased efficiency in Brazil’s security service sector, with only limited effects on worker surplus.
+
 
 - title: "The Life and Death of a Digital Currency: Lessons on Money and Barter from the Field"
   pdflink: "/pdf/Bunz.pdf"
