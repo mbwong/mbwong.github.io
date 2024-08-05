@@ -6,7 +6,8 @@ works:
   coauthors: "Duoxi Li"
   note: "Last Updated: August 2024"
   abstract: >
-       Intermediaries that monitor performance and direct allocations pervade economic exchange. We develop repeated-game models showing why and when such intermediaries arise in frictionless markets for relational contracts. We show that monitoring intermediaries can reduce producer idleness and incentive rents by aggregating fluctuating demand and coordinating assignments. However, intermediaries require an additional incentive rent. In equilibrium, buyers sort into decentralized bilateral exchange and centralized managerial coordination. Their optimal choice depends on demand volatility, gains from specialization, market tightness, market size, and communication frictions. We use this theory to think about supply chains, franchises, online platforms, and the labor boundaries of firms.
+       Intermediaries that monitor performance and direct allocations pervade economic exchange. We develop repeated-game models showing why and when such intermediaries arise in frictionless markets for relational contracts. We show that monitoring intermediaries can reduce producer idleness and incentive rents by aggregating fluctuating demand and coordinating assignments, but they require an additional incentive rent. In equilibrium, buyers sort into decentralized bilateral exchange and centralized managerial coordination. Their optimal choice depends on their demand volatility, their need for specialized services, market tightness, market size, and reputation effects. Managerial coordination increases output and specialization but reduces the welfare of incumbent producers.
+
        
 
 - title: "Domestic Outsourcing and Employment Security"
