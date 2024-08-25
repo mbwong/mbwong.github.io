@@ -12,8 +12,11 @@ works:
 - title: "Money and Barter in the Field: Evidence from the Life and Death of a Digital Currency"
   pdflink: "/pdf/Bunz.pdf"
   note: "Last Updated: August 2024"
+  links:
+    - url: "/pdf/Bunz_slides.pdf"
+      text: "Slides"
   abstract: >
-      This paper studies the rise and fall of a redeemable digital currency using unique high-frequency data on the universe of barter and monetized transactions in a large Toronto-based community for trading used goods. The observed effects of unexpected monetary experiments are compared with predictions from monetary theories. I find that a large expansion of token supply persistently increased monetized transactions and reduced token velocity without generating inflation. Moreover, neither a partial nor complete halt in redemption meaningfully changed posted token prices or token supply. They instead sharply decreased token acceptance, transactions, and velocity. Only New Monetarist models with price coordination frictions can account for this evidence. 
+      This paper studies the rise and fall of a redeemable digital currency using comprehensive and high-frequency data on barter and monetized transactions in a large Toronto-based community for trading used goods. The observed effects of unexpected monetary experiments are compared with predictions from monetary theories. I find that a large expansion of token supply persistently increased monetized transactions and reduced token velocity without generating inflation. Moreover, neither a partial nor complete halt in redemption meaningfully changed posted token prices or token supply. They instead sharply decreased token acceptance, transactions, and velocity. Only New Monetarist models with price coordination frictions can account for this evidence. 
 
 - title: "Domestic Outsourcing and Employment Security"
   pdflink: "/pdf/outsourcing_dynamics.pdf"
