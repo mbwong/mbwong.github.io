@@ -1,6 +1,6 @@
 I am an assistant professor in management and strategy with a joint appointment in economics at [HKU Business School](https://www.hkubs.hku.hk/). I received my PhD from MIT in 2022 and my BA from Harvard University in 2012. 
 
-My research focuses on (1) the role of intermediaries in labor markets, (2) the role of monetary institutions in exchange, and (3) the role of housing in economic inequality and prosperity. My approach combines novel datasets, quasi-experimental and structural methods, and parsimonious model-making. My work contributes to organizational economics, labor economics, monetary economics, and urban economics. 
+My research combines theory and evidence to study (1) the role of intermediaries in labor markets, (2) the role of monetary institutions in exchange, and (3) the role of housing in urban inequality. My work contributes to organizational economics, labor economics, monetary economics, and urban economics. 
 
 I am a Fellow of the [HKU Centre on Contemporary China and the World](https://cccw.hku.hk/), a member of the [HKU Real Estate Lab](https://relab.hku.hk/), and a board member of local policy research think tank [Citizen Action Design](https://www.projectchange.hk/about-us/our-story/#about-cadl). My writings have been featured in publications such as SCMP, Ming Pao, HKEJ, and HKET. 
 
