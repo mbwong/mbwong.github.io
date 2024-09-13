@@ -19,7 +19,7 @@ works:
     - url: "/pdf/Bunz_slides.pdf"
       text: "Slides"
   abstract: >
-      This paper studies the rise and fall of a redeemable digital currency in a large Toronto-based barter community using comprehensive and high-frequency data on barter and monetized transactions. The observed effects of unexpected monetary experiments are compared with predictions from monetary theories. I find that a large expansion of token supply persistently increased monetized transactions and reduced token velocity without generating inflation. Moreover, neither a partial nor complete halt in redemption meaningfully changed posted token prices or token supply. They instead sharply decreased token acceptance, transactions, and velocity. Only New Monetarist models with price coordination frictions can account for this evidence.
+      This paper studies the rise and fall of a redeemable digital currency in a large Toronto-based barter community using comprehensive and high-frequency data on barter and monetized transactions. The observed effects of unexpected monetary experiments are compared with New Monetarist predictions. I find that monetary expansion persistently increased monetized transactions, reduced token velocity, and did not affect barter. A partial and complete halt in redemption changed neither posted token prices or token supply, but sharply decreased token acceptance, transactions, and velocity. My findings highlight important roles for partial acceptability, endogenous redemption, and price coordination frictions in response to monetary events. 
 
 - title: "The Reallocation Effects of Domestic Outsourcing"
   pdflink: "/pdf/outsourcing.pdf"
