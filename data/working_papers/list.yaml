@@ -4,12 +4,10 @@ works:
 - title: "A Theory of the Visible Hand: Intermediation and Coordination in Markets for Relational Contracts"
   pdflink: "/pdf/nexus.pdf"
   coauthors: "Duoxi Li"
-  note: "Last Updated: September 2024"
-  links:
-    - url: "https://twitter.com/mbwong/status/1831170662792347681"
-      text: "Twitter thread"
+  note: "Last Updated: October 2024"
   abstract: >
-       Intermediaries that monitor performance and direct allocations pervade economic exchange. We develop repeated-game models showing why and when such intermediaries arise in frictionless markets for relational contracts. We show that monitoring intermediaries can reduce producer idleness and incentive rents by aggregating fluctuating demand and coordinating assignments. However, such intermediaries must be motivated by an incentive rent. In equilibrium, buyers sort into decentralized bilateral exchange and centralized managerial coordination. Their optimal choice depends on their demand volatility, their need for specialized services, market tightness, market size, and reputation effects. Our theory explains the observed determinants and effects of professional service outsourcing.
+       The modern economy is riddled with intermediaries that monitor performance and coordinate allocations. We develop repeated-game models showing when and why the visible hand of intermediaries efficiently replaces the invisible hand of competitive markets in determining allocations. We show that when trust is lacking and demand fluctuates, intermediaries can redress market misallocation by entering relational contracts on both sides of the market and coordinating assignments. However, such intermediaries require an incentive rent. In equilibrium, buyers sort into decentralized bilateral exchange and centralized managerial coordination. Our theory explains the observed determinants and effects of professional service outsourcing.
+
 
 
 - title: "Money and Barter in the Field: Evidence from the Life and Death of a Digital Currency"
