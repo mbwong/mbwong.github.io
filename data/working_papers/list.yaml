@@ -17,8 +17,7 @@ works:
     - url: "/pdf/Bunz_slides.pdf"
       text: "Slides"
   abstract: >
-      This paper provides real-world evidence for theories of money as a medium of exchange using unique transaction-level data from a Toronto-based barter community that introduced a redeemable digital currency. I leverage an unexpected and large increase in the level of token supply, as well as subsequent partial and complete halts in token redemption. The effects of these events on transaction activity are measured using interrupted time-series designs. My findings confirm that money overcomes the inefficiencies of barter. They also suggest, contrary to popular monetary models, that redeemability was needed for money circulation and that price rigidities can be highly persistent. 
-
+      This paper provides real-world evidence for theories of money as a medium of exchange using unique transaction-level data from a Toronto-based barter community that introduced a redeemable digital currency. I leverage an unexpected and large increase in the level of token supply, as well as subsequent partial and complete halts in token redemption. Their effects are measured using interrupted time-series designs. My findings confirm that money overcomes the inefficiencies of barter. They suggest, contrary to popular models of fiat money, that redeemability was needed for money circulation. They also provide rare evidence for the possibility of inefficient long-run price levels.
       
 
 - title: "The Reallocation Effects of Domestic Outsourcing"
