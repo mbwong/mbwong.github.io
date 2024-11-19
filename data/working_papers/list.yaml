@@ -9,7 +9,6 @@ works:
        Intermediaries that monitor performance and direct allocations pervade economic exchange. We develop repeated-game models showing why and when such intermediaries arise in frictionless markets for relational contracts. We show that monitoring intermediaries can reduce producer idleness and incentive rents by aggregating fluctuating demand and coordinating assignments. However, such intermediaries must be motivated by an incentive rent. In equilibrium, buyers sort into decentralized bilateral exchange and centralized managerial coordination. Their optimal choice depends on their demand volatility, their need for specialized services, market tightness, market size, and reputation effects. Our theory explains the observed determinants and effects of professional service outsourcing.
 
 
-
 - title: "Money and Barter in the Field: Evidence from the Life and Death of a Digital Currency"
   pdflink: "/pdf/Bunz.pdf"
   note: "Last Updated: November 2024"
@@ -17,7 +16,7 @@ works:
     - url: "/pdf/Bunz_slides.pdf"
       text: "Slides"
   abstract: >
-    This paper presents real-world evidence for theories of money as a medium of exchange using unique transaction-level data from a Toronto-based barter community that introduced a redeemable digital currency. I use interrupted time-series designs to measure the impacts of three unexpected events: a large increase in the level of token supply and subsequent partial and complete halts in token redemption. My findings confirm that money overcomes the inefficiencies of barter. They reveal, consistent with credit theories and contrary to popular models of fiat money, that redeemability was essential for money circulation. They also substantiate the possibility of inefficient long-run prices.
+    This paper presents real-world evidence for theories of money as a medium of exchange using unique transaction-level data from a Toronto-based barter community that introduced a redeemable digital currency. I use interrupted time-series designs to measure the impacts of three unexpected events: a large increase in the level of token supply, and subsequent partial and complete halts in token redemption. The findings confirm that money overcame the inefficiencies of barter. However, consistent with credit theories of money and contrary to popular monetary models, redeemability was necessary for money circulation. The long-run price of fiat money was also rigid and inefficient.
       
 
 - title: "The Reallocation Effects of Domestic Outsourcing"
