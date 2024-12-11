@@ -8,17 +8,6 @@ works:
   abstract: >
        We develop repeated-game models showing when and why managers replace anonymous matching markets in coordinating assignments between buyers and producers. In the models, managers function as centralized monitor-coordinators and endogenously emerge as nexuses of relational contracts. We show that managers redress misallocation and reduce producer rents, but they require an additional incentive rent. In equilibrium, buyers sort into decentralized exchange and managerial coordination. Their optimal choice depends on their demand volatility, their need for specialized services, market tightness, market size, and communication frictions. Our theory provides a new lens for understanding the labor boundaries of firms. 
 
-
-- title: "Money and Barter in the Field: Evidence from the Life and Death of a Digital Currency"
-  pdflink: "/pdf/Bunz.pdf"
-  note: "Last Updated: December 2024"
-  links:
-    - url: "/pdf/Bunz_slides.pdf"
-      text: "Slides"
-  abstract: >
-    This paper presents real-world evidence for theories of money as a medium of exchange using unique transaction-level data from a Toronto-based barter community that introduced a redeemable digital currency. I use interrupted time-series designs to measure the impacts of three unexpected events: a large increase in the level of token supply, and subsequent partial and complete halts in token redemption. The findings confirm that money overcame the inefficiencies of barter. However, contrary to popular monetary models, redeemability was necessary for money circulation, and the long-run price of fiat was rigid and inefficient. Simple modifications to canonical models explain the findings.
-      
-
 - title: "The Reallocation Effects of Domestic Outsourcing"
   pdflink: "/pdf/outsourcing.pdf"
   coauthors: "Mayara Felix"
@@ -34,7 +23,17 @@ works:
   abstract: >
        Domestic outsourcing is robustly associated with reduced exit from formal employment among cleaners and security guards in Brazil during their first few years of tenure. This difference is not explained by worker characteristics or differential exposure to labor market conditions. We explain this novel fact by developing a search-theoretic model wherein intermediary firms can reassign outsourced workers across client firms when negative productivity shocks hit. The estimated model fits observed wage differentials and hazard profiles tightly. By easing reassignment across firms, domestic outsourcing had more positive welfare effects on workers upon job entry than implied by wage differentials alone. 
        
-       
+
+- title: "Money and Barter in the Field: Evidence from the Life and Death of a Digital Currency"
+  pdflink: "/pdf/Bunz.pdf"
+  note: "Last Updated: December 2024"
+  links:
+    - url: "/pdf/Bunz_slides.pdf"
+      text: "Slides"
+  abstract: >
+    This paper presents real-world evidence for theories of money as a medium of exchange using unique transaction-level data from a Toronto-based barter community that introduced a redeemable digital currency. I use interrupted time-series designs to measure the impacts of three unexpected events: a large increase in the level of token supply, and subsequent partial and complete halts in token redemption. The findings confirm that money overcame the inefficiencies of barter. However, contrary to popular monetary models, redeemability was necessary for money circulation, and the long-run price of fiat was rigid and inefficient. Simple modifications to canonical models explain the findings.
+      
+             
 - title: "Targeting Housing Assistance with Rent Notches: Evidence from a Quasi-experiment"
   pdflink: "/pdf/TPS.pdf"
   note: "Last Updated: March 2024"
