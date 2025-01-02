@@ -32,7 +32,7 @@ works:
     - url: "/pdf/Bunz_slides.pdf"
       text: "Slides"
   abstract: >
-    This paper presents real-world evidence for theories of money as a medium of exchange. I leverage unique transaction-level data from a Toronto-based barter community that introduced a redeemable digital currency. I use interrupted time-series designs to measure the impacts of three unexpected events---a large increase in the level of token supply and subsequent partial and complete halts in redemption---on token redemption, on token acceptance, token velocity, and the number of barter and token-mediated transactions. My findings are explained by a search-theoretic model of money in which money is essential, prices are persistently rigid, and redeemability is necessary for money circulation. 
+    This paper presents real-world evidence for theories of money as a medium of exchange. I leverage unique transaction-level data from a Toronto-based barter community that introduced a redeemable digital currency. I use interrupted time-series designs to measure the impacts of three unexpected monetary events--a large increase in the level of token supply and subsequent partial and complete halts in redemption--on token acceptance, token velocity, and the number of barter and token-mediated transactions. My findings are best explained by a search-theoretic model in which money is essential, prices are persistently rigid, and redeemability is necessary for money circulation. 
 
       
              
