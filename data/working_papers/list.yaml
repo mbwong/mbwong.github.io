@@ -27,12 +27,13 @@ works:
 
 - title: "Money and Barter in the Field: Evidence from the Life and Death of a Digital Currency"
   pdflink: "/pdf/Bunz.pdf"
-  note: "Last Updated: December 2024"
+  note: "Last Updated: January 2025"
   links:
     - url: "/pdf/Bunz_slides.pdf"
       text: "Slides"
   abstract: >
-    This paper presents real-world evidence for theories of money as a medium of exchange using unique transaction-level data from a Toronto-based barter community that introduced a redeemable digital currency. I use interrupted time-series designs to measure the impacts of three unexpected events: a large increase in the level of token supply, and subsequent partial and complete halts in token redemption. The findings confirm that money overcame the inefficiencies of barter. However, contrary to popular monetary models, redeemability was necessary for money circulation, and the long-run price of fiat was rigid and inefficient. Simple modifications to canonical models explain the findings.
+    This paper presents real-world evidence for theories of money as a medium of exchange. I leverage unique transaction-level data from a Toronto-based barter community that introduced a redeemable digital currency. I use interrupted time-series designs to measure the impacts of three unexpected events---a large increase in the level of token supply and subsequent partial and complete halts in redemption---on token redemption, on token acceptance, token velocity, and the number of barter and token-mediated transactions. My findings are explained by a search-theoretic model of money in which money is essential, prices are persistently rigid, and redeemability is necessary for money circulation. 
+
       
              
 - title: "Targeting Housing Assistance with Rent Notches: Evidence from a Quasi-experiment"
