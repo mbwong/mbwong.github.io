@@ -1,3 +1,6 @@
+[Anatomy of a Housing Affordability Crisis: Hong Kong, 2001-2021](/pdf/Anatomy.pdf)
+ (Hong Kong Economic Policy Green Paper, 2025-1-9, with Jimmy Ho and Yulin Hong)
+
 [Hong Kong’s economic recovery hinges on having enough adequate housing](/pdf/Housing_Economy.pdf) (South China Morning Post, 2024-8-9) 
 
 [Hong Kong must stop letting the well-off hog public rental housing](/pdf/welloff.pdf) (South China Morning Post, 2024-5-4, with Jimmy Ho) 
