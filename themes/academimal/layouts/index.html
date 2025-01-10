@@ -42,6 +42,12 @@
 {{ end }} 
 
 
+{{ with .GetPage "/sections/lab.md" }}
+<hr>
+<h2 id="teaching">Lab</h2>
+{{ .Content }}
+{{ end }}
+
 {{ with .GetPage "/sections/teaching.md" }}
 <hr>
 <h2 id="teaching">Teaching</h2>
