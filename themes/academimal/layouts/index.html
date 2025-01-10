@@ -41,10 +41,15 @@
 {{ end }}
 {{ end }} 
 
-
-{{ with .GetPage "/sections/lab.md" }}
+{{ with .GetPage "/sections/policy.md" }}
 <hr>
-<h2 id="teaching">Lab</h2>
+<h2 id="policy">Policy Writing</h2>
+{{ .Content }}
+{{ end }}
+
+{{ with .GetPage "/sections/chinese.md" }}
+<hr>
+<h2 id="chinese">中文文章</h2>
 {{ .Content }}
 {{ end }}
 
@@ -60,15 +65,9 @@
 {{ .Content }}
 {{ end }}
 
-{{ with .GetPage "/sections/policy.md" }}
+{{ with .GetPage "/sections/lab.md" }}
 <hr>
-<h2 id="policy">Policy Writing</h2>
-{{ .Content }}
-{{ end }}
-
-{{ with .GetPage "/sections/chinese.md" }}
-<hr>
-<h2 id="chinese">中文文章</h2>
+<h2 id="lab">Lab</h2>
 {{ .Content }}
 {{ end }}
 
