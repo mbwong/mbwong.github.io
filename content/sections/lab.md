@@ -1,6 +1,6 @@
 I'm interested in collaboration! My current projects are to:
 
-1. Develop general equilibrium models of relational contracting networks to study the structure of markets and hierarchies;
+1. Develop general equilibrium models of relational contracting networks, markets, and hierarchies;
 1. Measure the impact of housing policy on inequality and welfare;
 1. Study money and barter in the field. 
 
