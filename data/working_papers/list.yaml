@@ -42,10 +42,10 @@ works:
     Many currencies are backed by promises of redemption---including stablecoins, pegged currencies, bank deposits, and asset-backed securities---but it is unclear why redemption is important when redemption volumes are often low. We show in a search-theoretic model of money that when agents are homogeneous, redeemability can coordinate agents on a monetary equilibrium despite zero steady-state redemption volume. However, either mispricing of the redemption good or a lack of confidence can trigger a run. Moreover, with heterogeneity in agent preferences, redeemability may become both costly and necessary for money circulation. We test the predictions of our model using unique transaction-level data from a real-world used-goods trading platform and novel cross-sectional variation in redemption convenience. The evidence lead to new insights regarding the benefits, costs, risks, and real effects of currency redemption policy.  
 
       
-             
-- title: "Targeting Housing Assistance with Rent Notches: Evidence from a Quasi-experiment"
+- title: "Targeting Housing Assistance: Evidence from a Subsidized Sale of Public Housing in Hong Kong"
   pdflink: "/pdf/TPS.pdf"
-  note: "Last Updated: March 2024"
+  note: "Last Updated: March 2025"
   abstract: >
-       This paper studies the effects of rent notches on the household composition and average incomes of Hong Kong's public housing residents. I leverage the staggered roll-out of the Tenants Purchase Scheme between 1998 and 2006, which allowed 183,700 tenants to buy permanent occupancy rights at discounted prices and thereby removed rent notches. Difference-in-difference estimates reveal that household sizes declined by 4-5 percent in the treated estates, while average households income rose by 23 percent. The average schooling of younger adults increased by one year. These results suggest that the removal of rent notches worsened the targeting of housing assistance towards low-income populations, partly due to endogenous changes in household formation. 
+       This paper compares the targeting efficiency of subsidized ownership and rental housing programs. I leverage the staggered roll-out of Hong Kong's Tenants Purchase Scheme, which allowed 183,700 regularly means-tested public housing tenants to buy permanent occupancy rights between 1998 and 2006. A difference-in-difference design reveals that the switch to subsidized ownership caused average household sizes to fall in treated estates, with the share of households residing with extended family and the share of married persons sharply falling in treated estates. Average schooling of young adult residents rose by a year, while average incomes increased by 23 percent. These effects are attributable to the removal of regular income tests, which altered household formation and thereby worsened the targeting of needy populations. 
+
 
