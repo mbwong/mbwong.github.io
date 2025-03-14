@@ -46,6 +46,7 @@ works:
   pdflink: "/pdf/TPS.pdf"
   note: "Last Updated: March 2025"
   abstract: >
-       This paper compares the targeting efficiency of subsidized ownership and rental housing programs. I leverage the staggered roll-out of Hong Kong's Tenants Purchase Scheme, which allowed 183,700 regularly means-tested public housing tenants to buy permanent occupancy rights between 1998 and 2006. A difference-in-difference design reveals that the switch to subsidized ownership caused average household sizes to fall in treated estates, with the share of households residing with extended family and the share of married persons sharply falling in treated estates. Average schooling of young adult residents rose by a year, while average incomes increased by 23 percent. These effects are attributable to the removal of regular income tests, which altered household formation and thereby worsened the targeting of needy populations. 
+       This paper compares the targeting efficiency of subsidized ownership and rental housing programs. I leverage the staggered roll-out of Hong Kong's Tenants Purchase Scheme, which allowed 183,700 regularly means-tested public housing tenants to buy permanent occupancy rights between 1998 and 2006. Using a difference-in-difference design, I find that the switch to subsidized ownership caused average household sizes to decrease by 5 percent and average incomes to increase by 23 percent in treated estates. Average schooling of younger adult residents rose by a year, while the share of households residing with extended family and the share of married persons sharply fell. These effects are attributable to the removal of regular income tests, which altered household formation and thereby worsened the targeting of needy populations. 
+
 
 
