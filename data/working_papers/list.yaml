@@ -48,5 +48,14 @@ works:
   abstract: >
        This paper compares the targeting efficiency of subsidized ownership and rental housing programs. I leverage the staggered roll-out of Hong Kong's Tenants Purchase Scheme, which allowed 183,700 regularly means-tested public housing tenants to buy permanent occupancy rights between 1998 and 2006. Using a difference-in-difference design, I find that the switch to subsidized ownership caused average household sizes to decrease by 5 percent and average incomes to increase by 23 percent in treated estates. Average schooling of younger adult residents rose by a year, while the share of households residing with extended family and the share of married persons sharply fell. These effects are attributable to the removal of regular income tests, which altered household formation and thereby worsened the targeting of needy populations. 
 
+- title: "Housing Expenditure and Misallocation in a Rent Regulated City"
+  coauthors: "Jimmy Ho, Yulin Hong, and Zhongji Wei"  
+  pdflink: "/pdf/Housing_Inequality.pdf"
+  note: "Last Updated: March 2025"
+  abstract: >
+       We present novel theory and evidence on the equilibrium effects of rent regulation. Departing from prior work, our model highlights that rent regulation can generate divergent price effects on unregulated low- and high-quality units as housing becomes misallocated across income segments. To test this prediction, we analyze the evolution of a major urban housing market with large-scale rent-regulated public housing using disaggregated data from Hong Kong. Consistent with our model, we find that rent-regulated units were increasingly misallocated between 2006 and 2016. The increase in misallocation coincided with disproportionate rent inflation in the low-quality unregulated segment. Our results suggest that rent regulation benefited incumbent tenants at the expense of younger cohorts and lower-income migrants and may have thereby constrained urban growth.
+
+
+
 
 
