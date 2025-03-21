@@ -1,8 +1,6 @@
 I am an assistant professor in management and strategy with a joint appointment in economics at [HKU Business School](https://www.hkubs.hku.hk/). I received my PhD from MIT in 2022 and my BA from Harvard University in 2012. 
 
-I am a labor and organizational economist by training. I am broadly interested in understanding the microeconomic structure of firms, organizations, and markets. My current research is focused on domestic outsourcing, relational contracting markets, public housing, and digital currencies. 
-
-The Hong Kong economy, especially its fiscal and housing issues, is another area of my research. I believe that Hong Kong will have an important role in world history for a long time to come. Its benefits to humanity will be greatly enhanced by a deeper understanding of its unique economy and society.
+I am a labor and organizational economist by training. I am broadly interested in understanding the microeconomic structure of firms, organizations, and markets. My current research is focused on domestic outsourcing, relational contracting markets, public housing, and digital currencies. I also study the Hong Kong economy, especially its fiscal and housing issues.
 
 My approach as a scholar combines formal theoretical and empirical methods with detailed data and fieldwork. This combination has helped me identify and quantify important economic forces. It has also blessed me with wonderful conversations with diverse peoples, including security guards in Brazil, bartering hipsters in Toronto, and social workers in Hong Kong.
 
