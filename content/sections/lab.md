@@ -1,4 +1,4 @@
-I'm hiring a [research associate for JC PROJECT LIFT](/pdf/Voyage_JD). Please apply! 
+I'm hiring a [research associate for JC PROJECT LIFT](/pdf/Voyage_JD.pdf). Please apply! 
 
 I'm also recruiting graduate students at HKU. My current projects are to:
 
