@@ -1,6 +1,6 @@
 I am an assistant professor in management and strategy with a joint appointment in economics at [HKU Business School](https://www.hkubs.hku.hk/). I received my PhD from MIT in 2022 and my BA from Harvard University in 2012. 
 
-My current projects are on domestic outsourcing, affordable housing, and digital currency. My research combines detailed data, natural experiments, and mathematical models to shed light on the microstructure of markets and organizations. My works contribute to labor economics, organizational economics, urban economics, and monetary economics. 
+My current projects are on domestic outsourcing, affordable housing, and digital currency. I like to combine detailed data, natural experiments, and mathematical models to shed light on the microstructure of markets and organizations. 
 
 I am a Fellow of the [HKU CCCW](https://cccw.hku.hk/), an affiliate researcher of the [HKU Jockey Club ESG Research Institute](https://hkujcesgri.hku.hk/), a member of the [HKU Real Estate Lab](https://relab.hku.hk/), and a board member of local policy research think tank [Citizen Action Design](https://www.projectchange.hk/about-us/our-story/#about-cadl). My writings have been featured in publications such as SCMP, Ming Pao, HKEJ, and HKET. 
 
