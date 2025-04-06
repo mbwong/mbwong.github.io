@@ -25,14 +25,12 @@ works:
        Domestic outsourcing is known to reduce worker wages, but its effect on employment security---a key dimension of job quality---has not been studied. Using Brazil's comprehensive employee-employer data, we robustly find that outsourcing reduces exit from formal employment among cleaners and security guards during their first few years of tenure. The observed reduction in employment hazard is larger in cities with greater volatility in labor demand. Our findings are not attributable to differences in worker characteristics or changes in local market conditions. To explain the findings, we develop a search-theoretic model in which outsourcing both alters wage setting and eases reassignment across firms. The estimated model suggest that outsourcing had more positive welfare effects on workers upon job entry than implied by wage differentials alone. 
        
 
-- title: "Money and Barter in the Field: Evidence from the Life and Death of a Digital Currency"
+- title: "Money and Barter in the Field"
   pdflink: "/pdf/Bunz.pdf"
-  note: "Last Updated: January 2025"
+  note: "Last Updated: April 2025"
   links:
-    - url: "/pdf/Bunz_slides.pdf"
-      text: "Slides"
   abstract: >
-    This paper presents real-world evidence for theories of money as a medium of exchange. I leverage unique transaction-level data from a Toronto-based barter community that introduced a redeemable digital currency. I use interrupted time-series designs to measure the impacts of three unexpected monetary events---a large increase in the level of token supply and subsequent partial and complete halts in redemption---on token acceptance, token velocity, and the number of barter and token-mediated transactions. My findings are best explained by a search-theoretic model in which money is essential, prices are persistently rigid, and redeemability is necessary for money circulation. 
+        Much of the theory in monetary economics supposes that money overcomes the inefficiencies of barter, but the theory has been untested because appropriate field data were unavailable. A new high-frequency transaction-level dataset from a Toronto-based barter community tests the predictions that money circulation increases trade volume, and that money redeemability may be necessary for money circulation. Using interrupted time-series designs, I find that a large increase in the level of digital currency supply persistently increased token-mediated trade without reducing barter trade. Subsequent partial and complete halts in redemption persistently reduced token acceptance, velocity, barter trade, as well as token-mediated trade. 
 
 - title: "The Economics of Currency Redemption"
   coauthors: "Baiyun Jing, Yang You, and Yulin Zhong"  
