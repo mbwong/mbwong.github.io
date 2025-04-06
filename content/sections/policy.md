@@ -1,3 +1,5 @@
+[How Hong Kong can reimagine its greatest asset: people’s homes](/pdf/Reimagine.pdf) (South China Morning Post, 2025-4-5, with Alex Ngau) 
+
 [Anatomy of a Housing Affordability Crisis: Hong Kong, 2001-2021](/pdf/Anatomy.pdf)
  (Hong Kong Economic Policy Green Paper, 2025-1-9, with Jimmy Ho and Yulin Hong)
 
