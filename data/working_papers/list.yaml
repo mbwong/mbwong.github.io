@@ -30,7 +30,7 @@ works:
   note: "Last Updated: April 2025"
   links:
   abstract: >
-        Much of the theory in monetary economics supposes that money overcomes the inefficiencies of barter, but the theory has been untested because appropriate field data were unavailable. A new high-frequency transaction-level dataset from a Toronto-based barter community tests the predictions that money circulation increases trade volume, and that money redeemability may be necessary for money circulation. Using interrupted time-series designs, I find that a large increase in the level of digital currency supply persistently increased token-mediated trade without reducing barter trade. Subsequent partial and complete halts in redemption persistently reduced token acceptance, velocity, barter trade, as well as token-mediated trade. 
+        Much of the theory in monetary economics supposes that money overcomes the inefficiencies of barter, but the theory has been untested because appropriate field data were unavailable. A new high-frequency transaction-level dataset from a Toronto-based barter community tests the predictions that money circulation increases trade, and that money redeemability may be necessary for money circulation. Using interrupted time-series designs, I find that a large increase in the level of digital currency supply persistently increased token-mediated trade without reducing barter trade. Partial and complete halts in redemption persistently reduced token acceptance and token-mediated trade, but did not affect posted token prices. 
 
 - title: "The Economics of Currency Redemption"
   coauthors: "Baiyun Jing, Yang You, and Yulin Zhong"  
