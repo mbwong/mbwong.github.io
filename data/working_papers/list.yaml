@@ -1,21 +1,18 @@
 works:
 
-
+- title: "Money and Barter in the Field"
+  pdflink: "/pdf/Bunz.pdf"
+  note: "Last Updated: May 2025"
+  links:
+  abstract: >
+        Much of the theory in monetary economics supposes that money overcomes the inefficiencies of barter, but the theory has been untested because appropriate field data were unavailable. A new high-frequency transaction-level dataset from a Toronto-based barter community tests the predictions that money circulation increases trade, and that money redeemability may be necessary for money circulation. Using interrupted time-series designs, I find that a large increase in the level of digital currency supply persistently increased token-mediated trade without reducing barter trade. Partial and complete halts in redemption persistently reduced token acceptance and token-mediated trade, but did not affect posted token prices. 
+        
 - title: "Managers and Markets: A Theory of Centralized Allocation in Relational Contracting Networks"
   pdflink: "/pdf/nexus.pdf"
   coauthors: "Duoxi Li"
   note: "Last Updated: May 2025"
   abstract: >
-       Why and when do managers replace markets in allocating resources? We develop a general equilibrium model of an exchange economy in which managers partly supplant anonymous matching markets in coordinating assignments between buyers and producers. In the model, managers emerge as centralized nodes in endogenous relational contracting networks. They do so to mitigate a fundamental conflict between incentive provision and flexible allocations. We show that the presence of managers strengthens performance incentives and reduces misallocation, but leads to double marginalization of incentive rents. Because of this trade-off, market participants sort into decentralized exchange and managerial coordination. Their optimal choice depends on individual-level demand volatility and need for specialization. Moreover, managerial coordination may increase as communication frictions fall. The model not only explains how managerial hierarchies emerge from market-based mechanisms, it also sheds light on the equilibrium structure, boundaries, and distributional effects of firm-like organizations.
-
-
-- title: "The Reallocation Effects of Domestic Outsourcing"
-  pdflink: "/pdf/outsourcing.pdf"
-  coauthors: "Mayara Felix"
-  note: "Last Updated: August 2024"
-  abstract: >
-       This paper estimates the wage, employment, and reallocation effects of non-core activity outsourcing using Brazil’s unexpected 1993 court-ordered outsourcing legalization. We leverage North-South variation in pre-legalization court permissiveness and compare security guards to less affected occupations. We find that older incumbent security guards were adversely impacted through occupational layoffs, loss of firm-level wage premia, and exit from the occupation. At the same time, increased numbers of younger workers entered the formal sector and became employed at contract firms. On net, legalization increased guard employment by 5%, led by a 50% increase in employment for guards aged 18-24, and had no effect on demographically-adjusted guard wages. The observed labor reallocation effects are explained by the fact that contract firms persistently employ demographically different workers than direct employers.
-
+       This paper develops a general equilibrium model of an exchange economy in which resource-allocating managers endogenously emerge in decentralized matching markets as central nodes in relational contracting networks. In the model, managers mitigate a fundamental conflict between incentive provision and flexible allocations. Their presence strengthens performance incentives and reduces misallocation, but leads to double marginalization of incentive rents. Because of this trade-off, market participants sort into decentralized exchange and managerial coordination. Their optimal choice depends on individual-level demand volatility and need for specialization. Managerial coordination may increase as communication frictions fall. The model provides a novel explanation for when and why centralized allocators supplant decentralized markets. It also sheds new light on the equilibrium structure, boundaries, and distributional effects of firm-like organizations.
 
 - title: "Domestic Outsourcing and Employment Security"
   pdflink: "/pdf/outsourcing_dynamics.pdf"
@@ -24,14 +21,19 @@ works:
   book: "Revise and resubmit, Journal of Development Economics"
   abstract: >
        Domestic outsourcing is known to reduce worker wages, but its effect on employment security---a key dimension of job quality---has not been studied. Using Brazil's comprehensive employee-employer data, we robustly find that outsourcing reduces exit from formal employment among cleaners and security guards during their first few years of tenure. The observed reduction in employment hazard is larger in cities with greater volatility in labor demand. Our findings are not attributable to differences in worker characteristics or changes in local market conditions. To explain the findings, we develop a search-theoretic model in which outsourcing both alters wage setting and eases reassignment across firms. The estimated model suggest that outsourcing had more positive welfare effects on workers upon job entry than implied by wage differentials alone. 
-       
 
-- title: "Money and Barter in the Field"
-  pdflink: "/pdf/Bunz.pdf"
-  note: "Last Updated: May 2025"
-  links:
+- title: "The Reallocation Effects of Domestic Outsourcing"
+  pdflink: "/pdf/outsourcing.pdf"
+  coauthors: "Mayara Felix"
+  note: "Last Updated: August 2024"
   abstract: >
-        Much of the theory in monetary economics supposes that money overcomes the inefficiencies of barter, but the theory has been untested because appropriate field data were unavailable. A new high-frequency transaction-level dataset from a Toronto-based barter community tests the predictions that money circulation increases trade, and that money redeemability may be necessary for money circulation. Using interrupted time-series designs, I find that a large increase in the level of digital currency supply persistently increased token-mediated trade without reducing barter trade. Partial and complete halts in redemption persistently reduced token acceptance and token-mediated trade, but did not affect posted token prices. 
+       This paper estimates the wage, employment, and reallocation effects of non-core activity outsourcing using Brazil’s unexpected 1993 court-ordered outsourcing legalization. We leverage North-South variation in pre-legalization court permissiveness and compare security guards to less affected occupations. We find that older incumbent security guards were adversely impacted through occupational layoffs, loss of firm-level wage premia, and exit from the occupation. At the same time, increased numbers of younger workers entered the formal sector and became employed at contract firms. On net, legalization increased guard employment by 5%, led by a 50% increase in employment for guards aged 18-24, and had no effect on demographically-adjusted guard wages. The observed labor reallocation effects are explained by the fact that contract firms persistently employ demographically different workers than direct employers.
+
+- title: "Targeting Housing Assistance: Evidence from a Subsidized Sale of Public Housing in Hong Kong"
+  pdflink: "/pdf/TPS.pdf"
+  note: "Last Updated: March 2025"
+  abstract: >
+       This paper compares the targeting efficiency of subsidized ownership and rental housing programs. I leverage the staggered roll-out of Hong Kong's Tenants Purchase Scheme, which allowed 183,700 regularly means-tested public housing tenants to buy permanent occupancy rights between 1998 and 2006. Using a difference-in-difference design, I find that the switch to subsidized ownership caused average household sizes to decrease by 5 percent and average incomes to increase by 23 percent in treated estates. Average schooling of younger adult residents rose by a year, while the share of households residing with extended family and the share of married persons sharply fell. These effects are attributable to the removal of regular income tests, which altered household formation and thereby worsened the targeting of needy populations. 
 
 - title: "The Economics of Currency Redemption"
   coauthors: "Baiyun Jing, Yang You, and Yulin Zhong"  
@@ -39,13 +41,6 @@ works:
   note: "Last Updated: March 2025"
   abstract: >
     Many currencies are backed by promises of redemption---including stablecoins, pegged currencies, bank deposits, and asset-backed securities---but it is unclear why redemption is important when redemption volumes are often low. We show in a search-theoretic model of money that redeemability can coordinate agents on a monetary equilibrium despite zero steady-state redemption volume. However, either mispricing of the redemption good or a lack of confidence can trigger a run. Moreover, with heterogeneity in agent preferences, redeemability may become both costly and necessary for money circulation. We test the predictions of our model using unique transaction-level data from a real-world used-goods trading platform, as well as novel cross-sectional and time-series variation in redeemability. The evidence leads to new insights regarding the benefits, costs, risks, and optimal design of currency redemption.   
-
-      
-- title: "Targeting Housing Assistance: Evidence from a Subsidized Sale of Public Housing in Hong Kong"
-  pdflink: "/pdf/TPS.pdf"
-  note: "Last Updated: March 2025"
-  abstract: >
-       This paper compares the targeting efficiency of subsidized ownership and rental housing programs. I leverage the staggered roll-out of Hong Kong's Tenants Purchase Scheme, which allowed 183,700 regularly means-tested public housing tenants to buy permanent occupancy rights between 1998 and 2006. Using a difference-in-difference design, I find that the switch to subsidized ownership caused average household sizes to decrease by 5 percent and average incomes to increase by 23 percent in treated estates. Average schooling of younger adult residents rose by a year, while the share of households residing with extended family and the share of married persons sharply fell. These effects are attributable to the removal of regular income tests, which altered household formation and thereby worsened the targeting of needy populations. 
 
 - title: "Housing Expenditure and Misallocation in a Rent Regulated City"
   coauthors: "Jimmy Ho, Yulin Hong, and Zhongji Wei"  
