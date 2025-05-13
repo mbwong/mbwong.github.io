@@ -40,17 +40,4 @@ works:
   pdflink: "/pdf/Token_Adoption.pdf"
   note: "Last Updated: March 2025"
   abstract: >
-    Many currencies are backed by promises of redemption---including stablecoins, pegged currencies, bank deposits, and asset-backed securities---but it is unclear why redemption is important when redemption volumes are often low. We show in a search-theoretic model of money that redeemability can coordinate agents on a monetary equilibrium despite zero steady-state redemption volume. However, either mispricing of the redemption good or a lack of confidence can trigger a run. Moreover, with heterogeneity in agent preferences, redeemability may become both costly and necessary for money circulation. We test the predictions of our model using unique transaction-level data from a real-world used-goods trading platform, as well as novel cross-sectional and time-series variation in redeemability. The evidence leads to new insights regarding the benefits, costs, risks, and optimal design of currency redemption.   
-
-- title: "Housing Expenditure and Misallocation in a Rent Regulated City"
-  coauthors: "Jimmy Ho, Yulin Hong, and Zhongji Wei"  
-  pdflink: "/pdf/Housing_Inequality.pdf"
-  note: "Last Updated: March 2025"
-  abstract: >
-       We present new theory and evidence on the equilibrium effects of rent regulation. Departing from existing models, we develop a framework showing that rent regulation may generate divergent price effects on high- and low-quality unregulated units, as housing becomes misallocated across income groups. The model helps explain the recent evolution of the housing market in Hong Kong—--a global metropolis where nearly one-third of residents occupy rent-regulated public housing. Leveraging detailed population census data from 2006 to 2016, we document increasing misallocation of public housing to higher-income tenants over time. Concurrently, rent growth in lower-quality private-sector units significantly outpaced rent growth in higher-quality segments. Our analysis suggests that although rent regulation shielded incumbent public tenants from market pressures, it exacerbated affordability challenges for younger generations and migrants. 
-
-
-
-
-
-
+    Many currencies are backed by promises of redemption---including stablecoins, pegged currencies, bank deposits, and asset-backed securities---but it is unclear why redemption is important when redemption volumes are often low. We show in a search-theoretic model of money that redeemability can coordinate agents on a monetary equilibrium despite zero steady-state redemption volume. However, either mispricing of the redemption good or a lack of confidence can trigger a run. Moreover, with heterogeneity in agent preferences, redeemability may become both costly and necessary for money circulation. We test the predictions of our model using unique transaction-level data from a real-world used-goods trading platform, as well as novel cross-sectional and time-series variation in redeemability. The evidence leads to new insights regarding the benefits, costs, risks, and optimal design of currency redemption. 
