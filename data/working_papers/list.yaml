@@ -1,11 +1,11 @@
 works:
 
-- title: "Money and Barter in the Field"
+- title: "Money and Barter in the Field: Lessons from the Life and Death of a Digital Currency"
   pdflink: "/pdf/Bunz.pdf"
   note: "Last Updated: May 2025"
   links:
   abstract: >
-        Much of the theory in monetary economics supposes that money overcomes the inefficiencies of barter, but the theory has been untested because appropriate field data were unavailable. A new high-frequency transaction-level dataset from a Toronto-based barter community tests the predictions that money circulation increases trade, and that money redeemability may be necessary for money circulation. Using interrupted time-series designs, I find that a large increase in the level of digital currency supply persistently increased token-mediated trade without reducing barter trade. Partial and complete halts in redemption persistently reduced token acceptance and token-mediated trade, but did not affect posted token prices. 
+        Much of the theory in monetary economics supposes that money overcomes the inefficiencies of barter, but the theory has been untested because appropriate field data were unavailable. A new transaction-level dataset from a Toronto-based barter community tests the predictions of a search-theoretic model of money. Three unexpected monetary events are analyzed: a large increase in the supply of redeemable digital currency and subsequent partial and complete halts in currency redemption. Their impacts on token prices, token acceptance, token-mediated trade, and barter trade are measured using interrupted time-series designs. The findings confirm that (1) money facilitates trade, (2) redeemability is important for money circulation, (3) persistent price coordination failures are possible, and (4) reputation concerns help to discipline currency redemption. Models with partial acceptability and endogenous redemption dynamics are needed to better match the data. 
         
 - title: "The Emergence of Managers: A Theory of Centralized Resource Allocation in Relational Contracting Markets"
   pdflink: "/pdf/nexus.pdf"
