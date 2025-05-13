@@ -7,7 +7,7 @@ works:
   abstract: >
         Much of the theory in monetary economics supposes that money overcomes the inefficiencies of barter, but the theory has been untested because appropriate field data were unavailable. A new high-frequency transaction-level dataset from a Toronto-based barter community tests the predictions that money circulation increases trade, and that money redeemability may be necessary for money circulation. Using interrupted time-series designs, I find that a large increase in the level of digital currency supply persistently increased token-mediated trade without reducing barter trade. Partial and complete halts in redemption persistently reduced token acceptance and token-mediated trade, but did not affect posted token prices. 
         
-- title: "The Emergence of Managers: A Theory of Centralized Allocation in Relational Contracting Markets"
+- title: "The Emergence of Managers: A Theory of Centralized Resource Allocation in Relational Contracting Markets"
   pdflink: "/pdf/nexus.pdf"
   coauthors: "Duoxi Li"
   note: "Last Updated: May 2025"
