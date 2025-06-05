@@ -2,6 +2,6 @@ I am an assistant professor in management and strategy with a joint appointment 
 
 I study the microeconomic structure of markets and organizations. My projects examine structural shifts in labor, housing, and money markets, and their implications for inequality and institutional adaptation. 
 
-I am a Fellow of the [HKU CCCW](https://cccw.hku.hk/), an affiliate researcher of the [HKU Jockey Club ESG Research Institute](https://hkujcesgri.hku.hk/), a member of the [HKU Real Estate Lab](https://relab.hku.hk/), and a board member of local policy research think tank [Citizen Action Design](https://www.projectchange.hk/about-us/our-story/#about-cadl). My writings have been featured in publications such as SCMP, Ming Pao, HKEJ, and HKET. 
+I am the research director of local policy research think tank [Citizen Action Design](https://www.projectchange.hk/about-us/our-story/#about-cadl). I am also a Fellow of the [HKU CCCW](https://cccw.hku.hk/), an affiliate researcher of the [HKU Jockey Club ESG Research Institute](https://hkujcesgri.hku.hk/), and a member of the [HKU Real Estate Lab](https://relab.hku.hk/). My writings have been featured in publications such as SCMP, Ming Pao, HKEJ, and HKET. 
 
-Here is my __[CV](/pdf/CV.pdf)__ and [disclosure statement](/pdf/disclosure.pdf). You can reach me at [mbwong@hku.hk](mailto:mbwong@hku.hk) or DM me on [Twitter](https://twitter.com/mbwong). 
+Here is my __[CV](/pdf/CV.pdf)__, [bio](/pdf/bio.pdf), and [disclosure statement](/pdf/disclosure.pdf). You can reach me at [mbwong@hku.hk](mailto:mbwong@hku.hk). 
