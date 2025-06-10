@@ -2,7 +2,7 @@ works:
 
 - title: "Money and Barter in the Field: Lessons from the Life and Death of a Digital Currency"
   pdflink: "/pdf/Bunz.pdf"
-  note: "Last Updated: May 2025"
+  note: "Last Updated: June 2025"
   links:
   abstract: >
         Much of the theory in monetary economics supposes that money overcomes the inefficiencies of barter, but the theory has been untested because appropriate field data were unavailable. A new transaction-level dataset from a Toronto-based barter community tests the predictions of a search-theoretic model of money. Three unexpected monetary events are analyzed: a large increase in the supply of redeemable digital currency and subsequent partial and complete halts in currency redemption. Their impacts on token prices, token acceptance, token-mediated trade, and barter trade are measured using interrupted time-series designs. The findings confirm that (1) money facilitates trade and (2) redeemability is important for money circulation, while suggesting that (3) persistent price coordination failures are possible and (4) reputation concerns help to discipline currency redemption. Models with partial acceptability and endogenous redemption dynamics are needed to better match the data. 
@@ -33,7 +33,7 @@ works:
   pdflink: "/pdf/TPS.pdf"
   note: "Last Updated: June 2025"
   abstract: >
-       How important are regular income tests for targeting housing assistance? This paper estimates the impact of Hong Kong's Tenants Purchase Scheme, which allowed 183,700 public housing tenants to avoid regular income tests by buying permanent occupancy rights. Leveraging its staggered and incomplete roll-out between 1998 and 2006, I find that the scheme caused average household sizes to decrease by 5 percent and average incomes to increase by 23 percent in treated housing estates. Average schooling of younger adult residents rose by a year, while the share of households residing with extended family and the share of married persons sharply fell. These large effects are attributable to changes in co-residence within extended family networks, indicating substantial self-selection of less needy populations into subsidized units. 
+       How important are regular income tests for targeting housing assistance? This paper estimates the impact of Hong Kong's Tenants Purchase Scheme, which allowed 183,700 public housing tenants to avoid regular income tests by buying permanent occupancy rights. Leveraging its staggered and incomplete roll-out between 1998 and 2006, I find that the scheme caused average household sizes to decrease by 5 percent and average incomes to increase by 23 percent in treated housing estates. Average schooling of younger adult residents rose by a year, while the share of households residing with extended family and the share of married persons sharply fell. These large effects are mostly attributable to changes in co-residence within extended family networks, indicating substantial self-selection of less needy populations into subsidized units. 
 
 - title: "The Economics of Currency Redemption"
   coauthors: "Baiyun Jing, Yang You, and Yulin Zhong"  
