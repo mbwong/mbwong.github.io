@@ -1,11 +1,11 @@
 works:
 
-- title: "Money and Barter in the Field: Lessons from the Life and Death of a Digital Currency"
+- title: "Money and Barter in the Field: Evidence from the Life and Death of a Digital Currency"
   pdflink: "/pdf/Bunz.pdf"
   note: "Last Updated: June 2025"
   links:
   abstract: >
-        The rise of stablecoins has reignited theoretic inquiry into privately issued monies, but real-world validation for theories of money and barter is rare. This paper tests a search-theoretic model of money using a unique transaction-level dataset that captures the rise and fall of a platform-issued redeemable digital currency. The impacts of an unexpected increase in token supply and subsequent partial and complete halts in token redemption on token prices, token acceptance, barter, and token-mediated trades are measured. The data confirm that private money issuance facilitates trade. However, redeemability was important for sustaining money circulation. Moreover, reputation concerns were insufficient to ensure redeemability. After redemption was halted, prices were persistently rigid, token acceptance immediately fell, and even barter trade persistently declined. The main predictions of the model are confirmed, but models with partial acceptance, redemption dynamics, and reputation concerns are needed to better match the evidence. 
+        The idea that money enables trade is a cornerstone of monetary economics, yet real-world evidence for theories of money and barter is rare. This paper assesses the empirical validity of a search-theoretic model of money by studying the rise and fall of a redeemable digital currency in a contemporary barter community. A unique transaction-level dataset is used to measure the impacts of three unexpected events: a large increase in token supply, and subsequent partial and complete halts in token redemption. It is found that money issuance increased trade, while redeemability was important for sustaining money circulation. Moreover, prices remained rigid after redemption was halted, while token acceptance and barter both persistently fell. The evidence confirms the predictions of a basic search-theoretic model, while highlighting the relevance of models with partial acceptability, redemption dynamics, and reputation concerns.
         
 - title: "The Emergence of Managers: A Theory of Centralized Resource Allocation in Relational Contracting Markets"
   pdflink: "/pdf/nexus.pdf"
