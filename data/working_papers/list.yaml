@@ -27,7 +27,9 @@ works:
   note: "Last Updated: June 2025"
   links:
   abstract: >
-        This paper uses a unique dataset that captures the rise and fall of a redeemable digital currency in a Toronto-based barter community to validate models of money as a medium of exchange. The impacts of an unexpected increase in token supply and subsequent partial and complete halts in token redemption are measured. The high-frequency transaction-level data show that token issuance persistently increased trade, and that redeemability was important for sustaining token circulation. The findings confirm the predictions of a search-theoretic model of redeemable money with price rigidity. They also highlight the empirical relevance of models with agent heterogeneity, partial acceptability, redemption dynamics, and community enforcement of redemption promises.
+        This paper uses a unique dataset that captures the rise and fall of a digital currency in a Toronto-based used-goods trading platform to validate models of money and barter. A unique feature is that the platform banned cash, but introduced a token that can be transferred among users and redeemed at designated stores for retail goods. Using comprehensive transaction-level data, I measure the impacts of a large increase in token issuance and subsequent partial and complete halts in token redemption at high frequency. I find that token issuance persistently increased trade. However, when redemption was halted, a currency run ensued and trade persistently declined. The findings are consistent with a search-theoretic model of redeemable money with price rigidity. They also highlight the empirical relevance of models with agent heterogeneity, partial acceptability, redemption dynamics, and community enforcement of redemption promises.
+
+
 
 - title: "The Economics of Currency Redemption"
   coauthors: "Baiyun Jing, Yang You, and Yulin Zhong"  
