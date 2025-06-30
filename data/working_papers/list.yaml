@@ -20,7 +20,7 @@ works:
   coauthors: "Duoxi Li"
   note: "Last Updated: June 2025"
   abstract: >
-       Managers who enforce norms and allocate resources are ubiquitous in economic exchange. We develop a repeated-game model to explain the emergence of managerial coordination in relational contracting environments. We show that managers resolve a fundamental tension between incentive provision and allocation flexibility, but require incentive rents, leading to endogenous organizational sorting: agents choose managerial coordination or decentralized exchange based on idiosyncratic demand volatility and specialization needs. Further, when managers face reputation concerns, managerial coordination increases as communication frictions decline. Our analysis provides novel microfoundations for the structure, boundaries, and distributional impacts of organizations such as professional service firms, global sourcing firms, and online platforms.
+       Managers who enforce norms and allocate resources are ubiquitous in economic exchange. We develop a repeated-game model to explain the emergence of resource-allocating managers in relational contracting markets. In the model, managers resolve a fundamental tension between incentive provision and allocation flexibility, but require additional incentive rents, leading to endogenous organizational sorting: agents choose managerial coordination or decentralized exchange based on idiosyncratic demand volatility and specialization needs. Furthermore, managerial coordination may increase as communication frictions decline. Our analysis provides novel microfoundations for the structure, boundaries, and distributional impacts of organizations such as professional service firms, global sourcing firms, and online platforms.
 
 
 - title: "Money and Barter in the Field: Evidence from the Life and Death of a Digital Currency"
@@ -28,8 +28,7 @@ works:
   note: "Last Updated: June 2025"
   links:
   abstract: >
-        This paper uses comprehensive transaction data from a digital currency experiment within a Toronto used-good barter economy to test theories of money and barter. Leveraging individual-level interrupted time-series designs, the causal impacts of three unexpected monetary events are measured: (1) a large increase in issuance persistently boosted trade; (2) a partial redemption halt triggered a run, persistently reducing token acceptance and trade; (3) a complete halt further reduced acceptance and trade, but left token prices rigid. The findings are consistent with a search-theoretic model of redeemable money featuring price rigidity, and underscore the critical roles that endogenous redemption-run dynamics and community enforcement of redemption promises can play in determining currency system outcomes. 
-
+        Using unique transaction-level data from digital currency experiments in a Toronto used-goods barter economy, this paper tests core predictions of search-theoretic monetary models. Three unexpected monetary events are used as natural experiments to measure causal effects. Results show that (1) a large increase in issuance persistently boosted trade; (2) a partial halt in redemption triggered a run and persistently reduced token acceptance and trade; and (3) a complete halt further reduced acceptance and trade, while leaving token prices unchanged. These findings are consistent with a model of redeemable money with price rigidity. The evidence also highlights how redemption-run risks and community enforcement of redemption promises shape the viability of currency systems.
 
 - title: "The Economics of Currency Redemption"
   coauthors: "Baiyun Jing, Yang You, and Yulin Zhong"  
