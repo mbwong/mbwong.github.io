@@ -22,13 +22,12 @@ works:
   abstract: >
        Managers who enforce norms and allocate resources pervade economic exchange. We develop repeated-game models to explain when and why resource-allocating managers emerge in relational contracting environments. In our models, managers mitigate a fundamental tension between incentive provision and flexible allocations. Managers require incentive rents, however, leading to endogenous sorting into organizational arrangements. Agents choose managerial coordination over decentralized exchange when their idiosyncratic demand is volatile and specialized services are needed. Managerial coordination also increases as communication frictions decline. Our models provide novel microfoundations for the structure, boundaries, and distributional impacts of centralized organizations, including professional service firms, global sourcing firms, and online platforms.
 
-
 - title: "Money and Barter in the Field: Evidence from the Life and Death of a Digital Currency"
   pdflink: "/pdf/Bunz.pdf"
   note: "Last Updated: June 2025"
   links:
   abstract: >
-        Using unique transaction-level data from digital currency experiments in a Toronto used-goods barter economy, this paper tests core predictions of search-theoretic monetary models. Three unexpected monetary events are used as natural experiments to measure causal effects. Results show that (1) a large increase in issuance persistently boosted trade; (2) a partial halt in redemption triggered a run and persistently reduced token acceptance and trade; and (3) a complete halt further reduced acceptance and trade, while leaving token prices unchanged. These findings are consistent with a model of redeemable money with price rigidity. The evidence also highlights how redemption-run risks and community enforcement of redemption promises shape the viability of currency systems.
+        Using unique transaction-level data from digital currency experiments in a Toronto used-goods barter economy, this paper tests core predictions of search-theoretic monetary models. Three unexpected monetary events are used as natural experiments to measure causal effects. Results show that (1) a large increase in token issuance persistently boosted trade; (2) a partial halt in token redemption triggered a run and persistently reduced token acceptance and trade; and (3) a complete halt in token redemption further reduced token acceptance and trade, while leaving token prices unchanged. These findings are consistent with a model of redeemable money with price rigidity. The evidence also highlights how redemption-run dynamics and community enforcement of redemption promises shape the viability of currency systems.
 
 - title: "The Economics of Currency Redemption"
   coauthors: "Baiyun Jing, Yang You, and Yulin Zhong"  
