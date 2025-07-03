@@ -36,9 +36,9 @@ works:
   abstract: >
     Many currencies are backed by promises of redemption---including stablecoins, pegged currencies, bank deposits, and asset-backed securities---but it is unclear why redemption is important when redemption volumes are often low. We show in a search-theoretic model of money that redeemability can coordinate agents on a monetary equilibrium despite zero steady-state redemption volume. However, either mispricing of the redemption good or a lack of confidence can trigger a run. Moreover, with heterogeneity in agent preferences, redeemability may become both costly and necessary for money circulation. We test the predictions of our model using unique transaction-level data from a real-world used-goods trading platform, as well as novel cross-sectional and time-series variation in redeemability. The evidence leads to new insights regarding the benefits, costs, risks, and optimal design of currency redemption. 
 
-- title: "The Targeting Advantage of Subsidized Rental Housing: Evidence from Public Housing Sales in Hong Kong"
+- title: "The Cost of Homeownership: Regular Income Tests and Targeting Efficiency of Public Housing in Hong Kong"
   pdflink: "/pdf/TPS.pdf"
-  note: "Last Updated: June 2025"
+  note: "Last Updated: July 2025"
   abstract: >
        Subsidized rental housing is known to benefit recipients less than subsidized homeownership, yet regular income tests are crucial for maximizing targeting efficiency. This paper assesses the importance of regular income tests using a unique housing reform in Hong Kong, which allowed 183,700 public housing tenants to avoid regular income tests by purchasing permanent occupancy rights. Leveraging the reform's incomplete roll-out, I estimate that it increased average household incomes by 23% over 15 years, reduced average household sizes, and persistently altered household demographic composition in treated estates. These impacts are consistent with incumbent families strategically altering co-residence choices to obtain additional public housing units. Consequently, the reform undermined targeting efficiency, increasing wait times for low-income households. Back-of-the-envelope calculations suggest it significantly contributed to the proliferation of tiny subdivided private-sector units.
 
