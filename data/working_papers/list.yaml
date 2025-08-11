@@ -27,7 +27,7 @@ works:
   note: "Last Updated: August 2025"
   links:
   abstract: >
-        This paper investigates how private digital currency issuance affected the exchange of used goods on a Toronto-based barter platform. Three unexpected monetary events and unique transaction-level data are used to measure causal effects. The results confirm the predictions of a search-theoretic model of money and barter: a large increase in token issuance persistently increased trade; a partial halt in redemption triggered a redemption-run and persistently reduced acceptance and trade; and a complete halt in redemption further reduced acceptance and trade. Perhaps surprisingly, the platform's breach of trust not only harmed money circulation, but also hurt barter, revealing key roles for trust and community enforcement in shaping currency system dynamics. 
+        This paper investigates how private digital currency issuance affected the exchange of used goods in a Toronto-based barter community. Three unexpected monetary events and unique transaction-level data are used to measure causal effects. The results confirm the predictions of a search-theoretic model of money and barter: a large increase in token issuance persistently increased trade; a partial halt in redemption triggered a redemption-run and persistently reduced acceptance and trade; and a complete halt in redemption further reduced acceptance and trade. Perhaps surprisingly, the platform's breach of trust not only harmed money circulation, but also hurt barter, revealing key roles for trust and community enforcement in shaping currency system dynamics. 
 
 - title: "Optimal Currency Redemption: Theory and Evidence from a Digital Platform"
   coauthors: "Baiyun Jing, Yang You, and Yulin Zhong"  
