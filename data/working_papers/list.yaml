@@ -6,7 +6,7 @@ works:
   note: "Last Updated: February 2025"
   book: "Revise and resubmit, Journal of Development Economics"
   abstract: >
-       Domestic outsourcing is known to reduce worker wages, but its effect on employment security---a key dimension of job quality---has not been studied. Using Brazil's comprehensive employee-employer data, we robustly find that outsourcing reduces exit from formal employment among cleaners and security guards during their first few years of tenure. The observed reduction in employment hazard is larger in cities with greater volatility in labor demand. Our findings are not attributable to differences in worker characteristics or changes in local market conditions. To explain the findings, we develop a search-theoretic model in which outsourcing both alters wage setting and eases reassignment across firms. The estimated model suggest that outsourcing had more positive welfare effects on workers upon job entry than implied by wage differentials alone. 
+       Domestic outsourcing is known to reduce worker wages, but its effect on employment security-a key dimension of job quality-has not been studied. Using Brazil's comprehensive employee-employer data, we robustly find that outsourcing reduces exit from formal employment among cleaners and security guards during their first few years of tenure. The observed reduction in employment hazard is larger in cities with greater volatility in labor demand. Our findings are not attributable to differences in worker characteristics or changes in local market conditions. To explain the findings, we develop a search-theoretic model in which outsourcing both alters wage setting and eases reassignment across firms. The estimated model suggest that outsourcing had more positive welfare effects on workers upon job entry than implied by wage differentials alone. 
 
 - title: "The Reallocation Effects of Domestic Outsourcing"
   pdflink: "/pdf/outsourcing.pdf"
@@ -18,27 +18,27 @@ works:
 - title: "The Emergence of Managers in Relational Contracting Markets"
   pdflink: "/pdf/nexus.pdf"
   coauthors: "Duoxi Li"
-  note: "Last Updated: July 2025"
+  note: "Last Updated: August 2025"
   abstract: >
-       Managers who enforce norms and allocate resources pervade economic exchange. We develop repeated-game models to explain when and why managers emerge in relational contracting environments. In our models, managers mitigate a fundamental tension between incentive provision and flexible allocations, but require incentive rents, leading to endogenous sorting into organizational arrangements. Agents choose managerial coordination over decentralized exchange when their idiosyncratic demand is volatile and specialized services are needed. Managerial coordination also increases as communication frictions decline. The models provide novel microfoundations for the structure, boundaries, and distributional impacts of organizations such as professional service firms, global sourcing firms, and online platforms.
+       Managers who enforce norms and allocate resources are ubiquitous. We develop repeated-game models to explain why and when managers emerge in relational contracting markets. In the models, managers mitigate a fundamental tension between incentive provision and flexible allocations, but require incentive rents, leading to endogenous sorting into organizational arrangements. Agents choose managerial coordination over decentralized exchange when their idiosyncratic demand is volatile and specialized services are needed. Managerial coordination also increases as communication frictions decline. Our models have implications for the structure, boundaries, and distributional impacts of professional service firms, global sourcing firms, and online platforms.
 
-- title: "Money and Barter in the Field: Evidence from the Life and Death of a Digital Currency"
+- title: "Money and Barter in the Field: Evidence from a Digital Currency Experiment"
   pdflink: "/pdf/Bunz.pdf"
-  note: "Last Updated: June 2025"
+  note: "Last Updated: August 2025"
   links:
   abstract: >
-        Using unique transaction-level data from digital currency experiments in a Toronto used-goods barter economy, this paper tests core predictions of search-theoretic monetary models. Three unexpected monetary events are used to measure causal effects. Results show that (1) a large increase in token issuance persistently increased trade; (2) a partial halt in token redemption triggered a run and persistently reduced token acceptance and trade; and (3) a complete halt in token redemption further reduced token acceptance and trade, while leaving token prices unchanged. These findings are consistent with a model of redeemable money with price rigidity. The evidence highlights how redemption-run dynamics and community enforcement of redemption promises shape the viability of currency systems.
+        This paper tests theories of money and barter using unique transaction data from a Toronto used-good barter platform that introduced its own digital currency. Three unexpected monetary events are used to measure causal effects. The results confirm the predictions of a model of money as a medium of exchange: (1) a large increase in token issuance persistently increased trade, (2) a partial halt in redemption triggered a redemption-run and persistently reduced acceptance and trade, and (3) a complete halt in redemption further reduced acceptance and trade. Perhaps surprisingly, the platform's breach of trust not only harmed money circulation, but also hurt barter. This finding reveals that trust and community enforcement played key roles in shaping currency system dynamics. 
 
-- title: "The Economics of Currency Redemption"
+- title: "Optimal Currency Redemption: Theory and Evidence from a Digital Platform"
   coauthors: "Baiyun Jing, Yang You, and Yulin Zhong"  
   pdflink: "/pdf/Token_Adoption.pdf"
-  note: "Last Updated: March 2025"
+  note: "Last Updated: August 2025"
   abstract: >
-    Many currencies are backed by promises of redemption---including stablecoins, pegged currencies, bank deposits, and asset-backed securities---but it is unclear why redemption is important when redemption volumes are often low. We show in a search-theoretic model of money that redeemability can coordinate agents on a monetary equilibrium despite zero steady-state redemption volume. However, either mispricing of the redemption good or a lack of confidence can trigger a run. Moreover, with heterogeneity in agent preferences, redeemability may become both costly and necessary for money circulation. We test the predictions of our model using unique transaction-level data from a real-world used-goods trading platform, as well as novel cross-sectional and time-series variation in redeemability. The evidence leads to new insights regarding the benefits, costs, risks, and optimal design of currency redemption. 
+    Many currencies are backed by promises of redemption-including pegged currencies, asset-backed securities, and stablecoins-but little theory or evidence informs the optimal design of currency redemption policy. We study the impact of redemption policy on currency acceptance and steady-state flows using unique transaction data from a digital trading platform and a search-theoretic framework. We show that in theory, redeemability can coordinate agents on a monetary equilibrium with zero steady-state redemption costs. However, the evidence is more consistent with a heterogeneous agent model in which redeemability is both costly and necessary for money circulation. A key implication is that optimal policy may impose some degree of redemption friction. 
 
-- title: "The Cost of Homeownership: Regular Income Tests and Targeting Efficiency of Public Housing in Hong Kong"
+- title: "The Cost of Homeownership: Evidence from Subsidized Public Housing Sales in Hong Kong"
   pdflink: "/pdf/TPS.pdf"
-  note: "Last Updated: July 2025"
+  note: "Last Updated: August 2025"
   abstract: >
        Subsidized rental housing is known to benefit recipients less than subsidized homeownership, yet regular income tests are crucial for maximizing targeting efficiency. This paper assesses the importance of these tests using a unique housing reform in Hong Kong, which allowed 183,700 public housing tenants to avoid regular income tests by purchasing permanent occupancy rights. Leveraging the reform's incomplete roll-out between 1998 and 2006, I estimate that it increased average household incomes by 23% over 15 years, reduced average household sizes, and persistently altered household demographic composition in treated estates. These impacts are consistent with incumbent families strategically altering co-residence choices to obtain additional public housing units. Consequently, the reform undermined targeting efficiency and increased wait times for low-income households. Back-of-the-envelope calculations suggest it significantly contributed to the proliferation of tiny subdivided private-sector units.
 
