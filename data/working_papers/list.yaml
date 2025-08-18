@@ -36,8 +36,6 @@ works:
   abstract: >
     Many currencies are backed by promises of redemption-including historical gold-backed currencies, historical free bank notes, and emerging stablecoins-but little theory or evidence informs the optimal design of currency redemption policy. We study the impact of redemption policy on currency acceptance and steady-state flows using unique transaction data from a digital trading platform. We show in a search-theoretic framework that redeemability can coordinate agents on a monetary equilibrium with zero steady-state redemption costs. However, the evidence is more consistent with a heterogeneous agent model in which redeemability is both costly and necessary for money circulation. A key implication is that optimal policy may impose some degree of redemption friction. 
 
-
-
 - title: "The Cost of Homeownership: Evidence from Subsidized Public Housing Sales in Hong Kong"
   pdflink: "/pdf/TPS.pdf"
   note: "Last Updated: August 2025"
