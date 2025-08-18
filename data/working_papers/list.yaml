@@ -8,12 +8,12 @@ works:
   abstract: >
        Domestic outsourcing is known to reduce worker wages, but its effect on employment security-a key dimension of job quality-has not been studied. Using Brazil's comprehensive employee-employer data, we robustly find that outsourcing reduces exit from formal employment among cleaners and security guards during their first few years of tenure. The observed reduction in employment hazard is larger in cities with greater volatility in labor demand. Our findings are not attributable to differences in worker characteristics or changes in local market conditions. To explain the findings, we develop a search-theoretic model in which outsourcing both alters wage setting and eases reassignment across firms. The estimated model suggest that outsourcing had more positive welfare effects on workers upon job entry than implied by wage differentials alone. 
 
-- title: "The Reallocation Effects of Domestic Outsourcing"
+- title: "Outsourcing, Labor Market Frictions, and Employment"
   pdflink: "/pdf/outsourcing.pdf"
   coauthors: "Mayara Felix"
-  note: "Last Updated: August 2024"
+  note: "Last Updated: August 2025"
   abstract: >
-       This paper estimates the wage, employment, and reallocation effects of non-core activity outsourcing using Brazil’s unexpected 1993 court-ordered outsourcing legalization. We leverage North-South variation in pre-legalization court permissiveness and compare security guards to less affected occupations. We find that older incumbent security guards were adversely impacted through occupational layoffs, loss of firm-level wage premia, and exit from the occupation. At the same time, increased numbers of younger workers entered the formal sector and became employed at contract firms. On net, legalization increased guard employment by 5%, led by a 50% increase in employment for guards aged 18-24, and had no effect on demographically-adjusted guard wages. The observed labor reallocation effects are explained by the fact that contract firms persistently employ demographically different workers than direct employers.
+       We estimate the labor market impacts of Brazil’s 1993 outsourcing legalization using North-South variation in pre-legalization court permissiveness, and comparing security guards to less-affected occupations. We find that outsourcing legalization persistently reallocated jobs from older incumbent guards to younger entrants. Total employment of guards and their entry from informality persistently increased, while average demographic-adjusted wages remained constant. Meanwhile, a wave of occupational layoffs displaced some incumbent guards from high-wage firms. The evidence suggests that the rise of non-core activity outsourcing reduced labor market frictions, facilitated by firm-level economies of scale in human resources and spillovers to non-adopting firms. 
 
 - title: "The Emergence of Managers in Relational Contracting Markets"
   pdflink: "/pdf/nexus.pdf"
