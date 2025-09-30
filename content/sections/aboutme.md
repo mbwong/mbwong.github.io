@@ -1,4 +1,4 @@
-I am an assistant professor in management and strategy with a joint appointment in economics at [HKU Business School](https://www.hkubs.hku.hk/). I received my PhD from MIT in 2022 and my BA from Harvard University in 2012. 
+I am an assistant professor in management and strategy at [HKU Business School](https://www.hkubs.hku.hk/), with a joint appointment in economics. I received my PhD from MIT in 2022 and my BA from Harvard University in 2012. 
 
 I am an economist. I study the microstructure of labor, housing, and money markets. My current research focuses on domestic outsourcing, managerial coordination, digital money, and affordable housing policy. 
 
