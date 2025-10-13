@@ -1,4 +1,4 @@
-I am an economist interested in labor, housing, and monetary economics. My work focuses on market microstructure, and its implications for welfare and inequality. My current research focuses on domestic outsourcing, managerial coordination, redeemable money, and affordable housing policy. 
+I am an economist interested in labor, housing, and monetary economics. My work focuses on market microstructure, and its implications for welfare and inequality. My current research studies domestic outsourcing, managerial coordination, redeemable money, and affordable housing policy. 
 
 I am an assistant professor in management and strategy with a joint appointment in economics at [HKU Business School](https://www.hkubs.hku.hk/). I received my PhD from MIT in 2022 and my BA from Harvard in 2012. 
 
