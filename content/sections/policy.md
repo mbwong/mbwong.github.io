@@ -1,3 +1,5 @@
+[Hong Kong's Labor Force Participation Rate is Rapidly Declining Due to Population Aging](/pdf/LFPR_and_Aging.pdf) (Technical note, 2025-10-29, with Yiran He) 
+
 [How Hong Kong can reimagine its greatest asset: people’s homes](/pdf/Reimagine.pdf) (South China Morning Post, 2025-4-5, with Alex Ngau) 
 
 [Anatomy of a Housing Affordability Crisis: Hong Kong, 2001-2021](/pdf/Anatomy.pdf)
