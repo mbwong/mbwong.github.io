@@ -1,4 +1,4 @@
-I am an applied microeconomist. I study labor, housing, and currency markets, with a particular focus on understanding how institutions overcome market imperfections and shape economic outcomes. 
+I am an applied microeconomist. I study labor, housing, and currency markets, with a particular interest in understanding how institutions overcome market imperfections and shape economic outcomes. 
 
 I am an assistant professor in management and strategy with a joint appointment in economics at [HKU Business School](https://www.hkubs.hku.hk/). I received my PhD from MIT in 2022 and my BA from Harvard in 2012. 
 
