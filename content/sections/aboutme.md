@@ -1,4 +1,4 @@
-I am an applied microeconomist. My current research focuses on the role of institutions and policy in labor, housing, and money markets. 
+I am an applied microeconomist. My research focuses on the role of institutions and policy in labor, housing, and money markets. 
 
 I am an assistant professor in management and strategy with a joint appointment in economics at [HKU Business School](https://www.hkubs.hku.hk/). I received my PhD from MIT in 2022 and my BA from Harvard in 2012. 
 
