@@ -1,4 +1,4 @@
-I am an applied microeconomist. My research focuses on the economic impacts of institutions and policies, with a particular focus on labor, housing, and currency markets. 
+I am an applied microeconomist. My research focuses on understanding the economic impacts of market institutions, with a particular focus on labor, housing, and currency markets. 
 
 I am an assistant professor in management and strategy with a joint appointment in economics at [HKU Business School](https://www.hkubs.hku.hk/). I received my PhD from MIT in 2022 and my BA from Harvard in 2012. 
 
