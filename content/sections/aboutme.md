@@ -1,4 +1,4 @@
-Hello! I am an assistant professor in management and strategy with a joint appointment in economics at [HKU Business School](https://www.hkubs.hku.hk/). 
+Hello! I am an assistant professor in management and strategy, with a joint appointment in economics, at [HKU Business School](https://www.hkubs.hku.hk/). 
 
 I am an applied microeconomist. I study labor, housing, and money markets, with a particular interest in understanding how market institutions shape economic outcomes. 
 
