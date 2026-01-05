@@ -32,7 +32,7 @@ works:
   abstract: >
         This paper studies the promise and perils of platform money using unique transaction-level data from a Toronto‑based barter community that introduced a redeemable platform currency and later experienced a currency crisis. Three unanticipated events provide quasi‑experimental variation: a five‑fold increase in token supply, a sharp restriction of redemption opportunities, and a complete halt of redemption. Using interrupted time‑series designs, I show that the monetary expansion raised total trades by around 57 per cent, entirely via token‑mediated trades, with barter unchanged. Restricting and then halting redemption reduced token acceptance and token‑mediated trade, with the initial breach of trust also lowering barter, via reductions in platform use and new user entry. These results show how platform redemption promises enable money circulation and facilitate trade. They also highlight how reputational enforcement may magnify the real costs of platform currency crises.
 
-- title: "Redeemability, Digital Currency Adoption, and Flows"
+- title: "Redemption Design and Digital Currency Adoption"
   coauthors: "Baiyun Jing, Yang You, and Yulin Zhong"  
   pdflink: "/pdf/Token_Adoption.pdf"
   note: "Last Updated: January 2026"
