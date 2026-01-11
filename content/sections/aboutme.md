@@ -4,4 +4,4 @@ I am a founding director of [Hong Kong Future Economy Institute](https://hkfei.o
 
 Here is my __[CV](/pdf/CV.pdf)__, [bio](/pdf/bio.pdf), and [disclosure statement](/pdf/disclosure.pdf). You can reach me at [mbwong@hku.hk](mailto:mbwong@hku.hk). 
 
-I am hiring full-time predoctoral research assistants to begin in summer of 2027 and part-time research assistants. Please email me with a CV if you are interested. 
+I am hiring full-time predoctoral research assistants to begin in summer of 2026 and part-time research assistants. Please email me with a CV if you are interested. 
