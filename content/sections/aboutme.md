@@ -1,4 +1,4 @@
-I am an assistant professor in management and strategy at [HKU Business School](https://www.hkubs.hku.hk/), with a joint appointment in economics, and a courtesy appointment at [HKU School of Governance and Policy](https://sgp.hku.hk/). My reaearch focuses on understanding the impacts of institutional design in labor, housing, and money markets. 
+I am an assistant professor in management and strategy at [HKU Business School](https://www.hkubs.hku.hk/), with a joint appointment in economics, and a courtesy appointment at [HKU School of Governance and Policy](https://sgp.hku.hk/). My research focuses on understanding the impacts of institutional design in labor, housing, and money markets. 
 
 I am a founding director of [Hong Kong Future Economy Institute](https://hkfei.org.hk/). I am affiliated with [Rockwool Foundation](https://www.rfberlin.com/author/mbwonghku-hk/), [HKU Org Econ](https://www.orgecon.hku.hk/), [HKU CCCW](https://cccw.hku.hk/), [HKU Jockey Club ESG Research Institute](https://hkujcesgri.hku.hk/), and [HKU Real Estate Lab](https://relab.hku.hk/). My writings have been featured in publications such as SCMP, Ming Pao, HKEJ, and HKET. 
 
