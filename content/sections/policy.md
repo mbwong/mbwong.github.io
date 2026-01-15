@@ -1,4 +1,4 @@
-[Housing Affordability and Homeownership in Hong Kong, 1985-2023](/pdf/GreenPaper2026_English.pdf) (Hong Kong Economic Policy Green Paper, 2025-1-14, with Allen W. Huang and Alex Ngau)
+[Housing Affordability and Homeownership in Hong Kong, 1985-2023](/pdf/GreenPaper2026_English.pdf) (Hong Kong Economic Policy Green Paper, 2026-1-14, with Allen W. Huang and Alex Ngau)
 
 [Hong Kong's Labor Force Participation Rate is Rapidly Declining Due to Population Aging](/pdf/LFPR_and_Aging.pdf) (Technical note, 2025-10-29, with Yiran He) 
 
