@@ -2,7 +2,7 @@ I am an applied economist and an assistant professor in management and strategy 
 
 I am also the founding director of [Hong Kong Future Economy Institute](https://hkfei.org.hk/) (HKFEI), an independent think tank that brings rigorous economic research to bear on Hong Kong's policy challenges. 
 
-I study how people respond to institutions — and why those responses rarely match what designers intended. The contexts vary: housing and labor markets in Hong Kong, outsourcing in Brazil, platform currencies in Toronto, how firms coordinate work. The thread is the same: formal structures generate informal behaviors that architects may not anticipate.
+I study how people respond to institutions — and why those responses rarely match what designers intended. The contexts vary: housing and labor markets in Hong Kong, outsourcing in Brazil, platform currencies in Toronto, how firms coordinate work. The thread is the same: formal structures generate informal behaviors that architects fail to anticipate.
 
 I am affiliated with [Rockwool Foundation](https://www.rfberlin.com/author/mbwonghku-hk/), [HKU Org Econ](https://www.orgecon.hku.hk/), [HKU CCCW](https://cccw.hku.hk/), [HKU Jockey Club ESG Research Institute](https://hkujcesgri.hku.hk/), and [HKU Real Estate Lab](https://relab.hku.hk/).
 
