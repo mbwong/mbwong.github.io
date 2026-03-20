@@ -1,4 +1,4 @@
-I am an assistant professor in management and strategy at [HKU Business School](https://www.hkubs.hku.hk/), with a joint appointment in economics, and a courtesy appointment at [HKU School of Governance and Policy](https://sgp.hku.hk/). 
+I am an applied economist and an assistant professor in management and strategy at [HKU Business School](https://www.hkubs.hku.hk/), with a joint appointment in economics, and a courtesy appointment at [HKU School of Governance and Policy](https://sgp.hku.hk/). 
 
 I am also the founding director of [Hong Kong Future Economy Institute](https://hkfei.org.hk/) (HKFEI), an independent think tank that brings rigorous economic research to bear on Hong Kong's policy challenges. 
 
