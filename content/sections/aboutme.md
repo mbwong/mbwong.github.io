@@ -2,7 +2,7 @@ I am an applied economist and an assistant professor in management and strategy 
 
 I study how people respond to institutions — and how those responses determine what institutions actually achieve. My work traces that logic across contexts: housing policy in Hong Kong, labor regulations in Brazil, platform currency design in Toronto, the organizational structure of firms.
 
-I am the founding director of [Hong Kong Future Economy Institute](https://hkfei.org.hk/) (HKFEI), an independent public-policy think tank focused on fostering policy entrepreneurship and innovation in Hong Kong. I am also member of the Housing Authority Subsidised Housing Committee. 
+I am the founding director of [Hong Kong Future Economy Institute](https://hkfei.org.hk/) (HKFEI), an independent public-policy think tank focused on fostering policy entrepreneurship and innovation in Hong Kong. I am also a member of the Housing Authority Subsidised Housing Committee. 
 
 I am affiliated with [IZA](https://www.iza.org/), [Rockwool Foundation](https://www.rfberlin.com/author/mbwonghku-hk/), [HKU Org Econ](https://www.orgecon.hku.hk/), [HKU CCCW](https://cccw.hku.hk/), [HKU CAMO](https://camo.hku.hk/), [HKU Jockey Club ESG Research Institute](https://hkujcesgri.hku.hk/), and [HKU Real Estate Lab](https://relab.hku.hk/).
 
