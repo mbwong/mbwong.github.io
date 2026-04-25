@@ -1,6 +1,6 @@
 I am an applied economist and an assistant professor in management and strategy at [HKU Business School](https://www.hkubs.hku.hk/), with a joint appointment in economics, and a courtesy appointment at [HKU School of Governance and Policy](https://sgp.hku.hk/). 
 
-I study how people respond to institutions — and how those responses determine what institutions actually achieve. My work traces that logic across contexts: housing policy in Hong Kong, labor regulations in Brazil, platform currency design in Toronto, the organizational structure of firms.
+I study how people respond to technology and institutions — and how those responses determine equilibrium outcomes. My work traces that logic across contexts: housing policy in Hong Kong, labor regulations in Brazil, platform currency design in Toronto, the organizational structure of firms, the impacts of AI.
 
 I am the founding director of [Hong Kong Future Economy Institute](https://hkfei.org.hk/) (HKFEI), an independent public-policy think tank focused on fostering policy entrepreneurship and innovation in Hong Kong. I am also a member of the Housing Authority Subsidised Housing Committee. 
 
