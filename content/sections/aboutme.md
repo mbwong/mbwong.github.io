@@ -1,6 +1,6 @@
 I am an applied economist and an assistant professor in management and strategy at [HKU Business School](https://www.hkubs.hku.hk/), with a joint appointment in economics, and a courtesy appointment at [HKU School of Governance and Policy](https://sgp.hku.hk).
 
-My research combines search, assignment, and relational contracting theory with evidence to make sense of real-world markets and organizations. My work applies this lens across contexts: housing policy in Hong Kong, labor regulation in Brazil, platform currency design, firm organization, and the economics of artificial intelligence.
+My research combines search, assignment, and relational contracting theory with evidence to make sense of real-world markets and organizations. My work spans contexts: firm organizational structure, housing policy in Hong Kong, platform currency design, and the economics of artificial intelligence.
 
 I am the founding director of [Hong Kong Future Economy Institute](https://hkfei.org.hk/) (HKFEI), an independent public-policy think tank dedicated to evidence-based policy innovation in Hong Kong. 
 
