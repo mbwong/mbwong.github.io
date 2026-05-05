@@ -1,13 +1,5 @@
 works:
 
-- title: "Domestic Outsourcing and Employment Security"
-  pdflink: "/pdf/outsourcing_dynamics.pdf"
-  coauthors: "Naijia Guo and Duoxi Li"
-  note: "Last Updated: May 2026"
-  book: "Revise and resubmit, Journal of Development Economics"
-  abstract: >
-       Domestic outsourcing is known to reduce worker wages, but its effect on employment security—a key dimension of job quality—has not been studied. Using Brazil’s comprehensive employee-employer linked data, we find that outsourcing reduces exit from formal employment among cleaners and security guards during their first few years of tenure. The observed reduction in employment hazard is larger in cities with greater volatility in labor demand. The reduction is not attributable to differences in worker characteristics or differential exposure to local labor market shocks. The estimates suggest that outsourcing had larger positive effects on the net present value of worker earnings than implied by wage differentials alone. The patterns are consistent with a search-theoretic model in which outsourcing eases reassignment across firms.
-
 - title: "Outsourcing, Labor Market Frictions, and Employment"
   pdflink: "/pdf/outsourcing.pdf"
   coauthors: "Mayara Felix"
