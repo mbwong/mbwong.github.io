@@ -4,6 +4,6 @@ My research combines search, assignment, and relational contracting theory with 
 
 I am the founding director of [Hong Kong Future Economy Institute](https://hkfei.org.hk/) (HKFEI), an independent public-policy think tank dedicated to evidence-based policy innovation in Hong Kong. 
 
-I am affiliated with [IZA](https://www.iza.org/), [Rockwool Foundation](https://www.rfberlin.com/author/mbwonghku-hk/), [HKU Org Econ](https://www.orgecon.hku.hk/), [HKU CCCW](https://cccw.hku.hk/), [HKU CAMO](https://camo.hku.hk/), [HKU Jockey Club ESG Research Institute](https://hkujcesgri.hku.hk/), and [HKU Real Estate Lab](https://relab.hku.hk/). I serve on the Housing Authority Subsidised Housing Committee.
+I am affiliated with [IZA](https://www.iza.org/), [Rockwool Foundation](https://www.rfberlin.com/author/mbwonghku-hk/), [HKU Org Econ](https://www.orgecon.hku.hk/), [HKU CCCW](https://cccw.hku.hk/), [HKU CAMO](https://camo.hku.hk/), [HKU Stone Centre](https://stonecentre.hku.hk/), [HKU Jockey Club ESG Research Institute](https://hkujcesgri.hku.hk/), and [HKU Real Estate Lab](https://relab.hku.hk/). I serve on the Housing Authority Subsidised Housing Committee.
 
 Here is my **[CV](/pdf/CV.pdf)**, [bio](/pdf/bio.pdf), and [disclosure statement](/pdf/disclosure.pdf). You can reach me at [mbwong@hku.hk](mailto:mbwong@hku.hk).
