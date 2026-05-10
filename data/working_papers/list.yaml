@@ -1,5 +1,11 @@
 works:
 
+- title: "The Skill Content of AI: First-personal Experience and Returns to Human Capital"
+  pdflink: "/pdf/human.pdf"
+  note: "Last Updated: May 2026"
+  abstract: >
+    AI has a structural limit: its training data contains no first-personal experience. Many exposure measures miss this — they track cognitive complexity but are largely silent on whether tasks require first-personal skill. We study optimal human capital investment in a model where humans and AI are symmetric learners, identical except in compute and data. Tasks combine distributional and first-personal skills, and are assigned to either humans or AI. Tasks with sufficient first-personal content remain permanently in the human domain, regardless of how cheap AI becomes. As AI cheapens, a Baumol channel raises the wage of first-personal skill, which overtakes ordinary cognitive skill if human-exclusive tasks are sufficiently first-personal-skill intensive. Optimal investment shifts toward first-personal skill; investment in distributional skill is non-monotone — falling as routine cognitive work moves to AI, then recovering.
+
 - title: "Managerial Coordination in Decentralized Markets"
   pdflink: "/pdf/nexus.pdf"
   coauthors: "Duoxi Li"
@@ -18,13 +24,6 @@ works:
   abstract: >
         This paper analyzes the effects of platform money issuance on user trade activity using microdata from a Toronto-based barter community that introduced a redeemable platform currency and later experienced a crisis. Three unanticipated events provide exogenous variation: a five‑fold increase in token supply, a sharp restriction of redemption opportunities, and a complete halt of redemption. Using event study designs, I show that monetary expansion raised total trades by around 57 percent, entirely via token‑mediated trades, with barter unchanged. Restricting and then halting redemption reduced token acceptance and token‑mediated trade, with the initial restriction also lowering barter, via reductions in platform use and new user entry. The findings highlight how platform money may increase trade, but caution that reputational enforcement may amplify the costs of a redemption crisis. 
 
-- title: "Outsourcing, Labor Market Frictions, and Employment"
-  pdflink: "/pdf/outsourcing.pdf"
-  coauthors: "Mayara Felix"
-  note: "Last Updated: August 2025"
-  abstract: >
-       We estimate the labor market impacts of Brazil’s 1993 outsourcing legalization using North-South variation in pre-legalization court permissiveness, and comparing security guards to less-affected occupations. We find that outsourcing legalization persistently reallocated jobs from older incumbent guards to younger entrants. Total employment of guards and their entry from informality persistently increased, while average demographic-adjusted wages remained constant. Meanwhile, a wave of occupational layoffs displaced some incumbent guards from high-wage firms. The evidence suggests that the rise of non-core activity outsourcing reduced labor market frictions, facilitated by firm-level economies of scale in human resources and spillovers to non-adopting firms. 
-
 - title: "Redemption Design and Digital Currency Adoption"
   coauthors: "Baiyun Jing, Yang You, and Yulin Zhong"  
   pdflink: "/pdf/Token_Adoption.pdf"
@@ -32,11 +31,12 @@ works:
   abstract: >
     Many digital currencies are backed by redemption promises, but little evidence or theory informs currency redemption policy. We study the impact of redemption policy on digital currency adoption and flows, leveraging novel geographical variation in redemption convenience and transaction data from a peer-to-peer used goods trading platform. We show in a search-theoretic framework that redeemability may induce digital currency adoption at zero steady-state cost. However, the evidence is more consistent with a heterogeneous-agent model, in which tokens flowed on average towards users who were closer to redemption opportunities and redeemability is both costly and necessary for digital money circulation. A key implication is that optimal policy may impose some degree of redemption friction. 
 
-- title: "The Skill Content of AI: First-personal Experience and Returns to Human Capital"
-  pdflink: "/pdf/human.pdf"
-  note: "Last Updated: May 2026"
+- title: "Outsourcing, Labor Market Frictions, and Employment"
+  pdflink: "/pdf/outsourcing.pdf"
+  coauthors: "Mayara Felix"
+  note: "Last Updated: August 2025"
   abstract: >
-    AI has a structural limit: its training data contains no first-personal experience. Many exposure measures miss this — they track cognitive complexity but are largely silent on whether tasks require first-personal skill. We study optimal human capital investment in a model where humans and AI are symmetric learners, identical except in compute and data. Tasks combine distributional and first-personal skills, and are assigned to either humans or AI. Tasks with sufficient first-personal content remain permanently in the human domain, regardless of how cheap AI becomes. As AI cheapens, a Baumol channel raises the wage of first-personal skill, which overtakes ordinary cognitive skill if human-exclusive tasks are sufficiently first-personal-skill intensive. Optimal investment shifts toward first-personal skill; investment in distributional skill is non-monotone — falling as routine cognitive work moves to AI, then recovering.
+       We estimate the labor market impacts of Brazil’s 1993 outsourcing legalization using North-South variation in pre-legalization court permissiveness, and comparing security guards to less-affected occupations. We find that outsourcing legalization persistently reallocated jobs from older incumbent guards to younger entrants. Total employment of guards and their entry from informality persistently increased, while average demographic-adjusted wages remained constant. Meanwhile, a wave of occupational layoffs displaced some incumbent guards from high-wage firms. The evidence suggests that the rise of non-core activity outsourcing reduced labor market frictions, facilitated by firm-level economies of scale in human resources and spillovers to non-adopting firms. 
 
 
 
