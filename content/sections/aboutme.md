@@ -1,4 +1,4 @@
-I am an applied economist. My research studies markets and organizations by combining evidence with search, assignment, and relational contracting theory. My work spans contexts: firm organization in Brazil, the economics of artificial intelligence, housing policy in Hong Kong, and platform currency design in Toronto.
+I am an applied economist. I study markets and organizations using causal inference techniques and search, assignment, and relational contracting theory. My work spans contexts: firm organization in Brazil, the economics of artificial intelligence, housing policy in Hong Kong, and platform currency design in Toronto.
 
 I work as an assistant professor in management and strategy at [HKU Business School](https://www.hkubs.hku.hk/), with a joint appointment in economics, and a courtesy appointment at [HKU School of Governance and Policy](https://sgp.hku.hk).
 
