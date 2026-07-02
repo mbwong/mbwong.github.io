@@ -1,1 +1,0 @@
-I am hiring full-time predoctoral research assistants to begin in summer of 2027. I am also hiring part-time research assistants. Email me if you are interested. Please include a CV and a concise description of your relevant experience and interests. 
