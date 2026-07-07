@@ -5,14 +5,6 @@ works:
   abstract: >
         Why do some intermediaries specialize narrowly while others operate broadly? I study this question in a model where intermediaries choose scope and employ producers they must monitor and coordinate, with all contracts sustained relationally. Broader scope deepens buyer-manager relationships but requires larger scale, diluting monitoring and raising wages. Fees are a multiplicative markup on wages, and markups are higher for infrequent buyers, so the cost of breadth falls hardest on those whose demand is most intermittent. The central prediction reverses the naive one-stop-shop intuition: a buyer whose demand is rare uses a narrow specialist even when her task needs are diversified, because a broad manager's markup grows steeply with infrequency. Scope expansion raises total output but can harm remaining specialist buyers through a pool composition externality that worsens monitoring quality. 
 
-- title: "Managerial Coordination in Decentralized Markets"
-  pdflink: "/pdf/nexus.pdf"
-  coauthors: "Duoxi Li"
-  note: "Last Updated: July 2026"
-  book: "Revise and resubmit, Economic Journal"
-  abstract: >
-        This paper develops a model of managerial coordination in decentralized relational contracting markets. Intermediaries aggregate fluctuating buyer demand and coordinate the assignment of producers, lengthening productive relationships and relaxing dynamic enforcement constraints. This demand-smoothing benefit must be weighed against double marginalization: intermediaries themselves require incentive rents. The trade-off endogenously sorts buyers into managerial coordination or decentralized exchange. In equilibrium, managed producers earn lower, more compressed pay with lower separation rates. The introduction of intermediaries increases trade but redistributes surplus from producers to buyers. We extend the model to show that managerial coordination promotes specialization. The framework applies to professional service firms, global sourcing intermediaries, and digital matching platforms.
-
 - title: "Promise and Perils of Platform Money: Evidence from a Barter Community"
   pdflink: "/pdf/Bunz.pdf"
   note: "Last Updated: January 2026"
