@@ -1,5 +1,13 @@
 works:
 
+- title: "Managerial Coordination in Decentralized Markets"
+  pdflink: "/pdf/nexus.pdf"
+  coauthors: "Duoxi Li"
+  note: "Last Updated: July 2026"
+  book: "Conditionally accepted, Economic Journal"
+  abstract: >
+        This paper develops a model of managerial coordination in decentralized relational contracting markets. Intermediaries aggregate fluctuating buyer demand and coordinate the assignment of producers, lengthening productive relationships and relaxing dynamic enforcement constraints. This demand-smoothing benefit must be weighed against double marginalization: intermediaries themselves require incentive rents. The trade-off endogenously sorts buyers into managerial coordination or decentralized exchange. In equilibrium, managed producers earn lower, more compressed pay with lower separation rates. The introduction of intermediaries increases trade but redistributes surplus from producers to buyers. We extend the model to show that managerial coordination promotes specialization. The framework applies to professional service firms, global sourcing intermediaries, and digital matching platforms.
+
 - title: "Domestic Outsourcing and Employment Security"
   pdflink: "/pdf/outsourcing_dynamics.pdf"
   coauthors: "Naijia Guo and Duoxi Li"
