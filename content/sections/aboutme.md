@@ -2,7 +2,7 @@ I work as an assistant professor in management and strategy at [HKU Business Sch
 
 I am the founding director of [Hong Kong Future Economy Institute](https://hkfei.org.hk/) (HKFEI), an independent public-policy think tank dedicated to evidence-based policy innovation in Hong Kong. 
 
-I am an economist. I am fascinated by the impacts of technology and policy on social inequality. My research focuses firm organization, relational contracts, artificial intelligence, housing policy, and currency design.
+I am an economist. I am fascinated by the impacts of technology and policy on social inequality. My research focuses on the roles of firm organization, relational contracts, artificial intelligence, housing policy, and currency design.
 
 I am affiliated with [IZA](https://www.iza.org/), [Rockwool Foundation](https://www.rfberlin.com/author/mbwonghku-hk/), [HKU Org Econ](https://www.orgecon.hku.hk/), [HKU CAMO](https://camo.hku.hk/), [HKU Stone Centre](https://stonecentre.hku.hk/), [HKU CCCW](https://cccw.hku.hk/), [HKU Jockey Club ESG Research Institute](https://hkujcesgri.hku.hk/), and [HKU Real Estate Lab](https://relab.hku.hk/). I serve on the Housing Authority Subsidised Housing Committee.
 
