@@ -2,7 +2,7 @@ I work as an assistant professor in management and strategy at [HKU Business Sch
 
 I am the founding director of [Hong Kong Future Economy Institute](https://hkfei.org.hk/) (HKFEI), an independent public-policy think tank dedicated to evidence-based policy innovation in Hong Kong. 
 
-I am an applied microeconomist who likes to write models. My research focuses on firm organization, relational contracts, artificial intelligence, labor markets, housing policy, inequality, and digital currency. My work aims to uncover the often-surprising ways that micro-level frictions reshape market behavior. 
+I am an applied microeconomist who likes to write models. My research focuses on firm organization, relational contracts, artificial intelligence, labor markets, housing policy, inequality, and digital currency. I enjoy uncovering the often-surprising ways that micro-level frictions reshape market behavior. 
 
 I am affiliated with [IZA](https://www.iza.org/), [Rockwool Foundation](https://www.rfberlin.com/author/mbwonghku-hk/), [HKU Org Econ](https://www.orgecon.hku.hk/), [HKU CAMO](https://camo.hku.hk/), [HKU Stone Centre](https://stonecentre.hku.hk/), [HKU CCCW](https://cccw.hku.hk/), [HKU Jockey Club ESG Research Institute](https://hkujcesgri.hku.hk/), and [HKU Real Estate Lab](https://relab.hku.hk/). I serve on the Housing Authority Subsidised Housing Committee.
 
