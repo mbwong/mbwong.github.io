@@ -1,6 +1,6 @@
 I work as an assistant professor in management and strategy at [HKU Business School](https://www.hkubs.hku.hk/), with a joint appointment in economics, and a courtesy appointment at [HKU School of Governance and Policy](https://sgp.hku.hk). 
 
-I am an applied microeconomist and theorist. My research focuses on firm organization, relational contracts, artificial intelligence, labor markets, housing policy, inequality, and digital currency. 
+I am an applied microeconomist and theorist. My research focuses on labor markets, firm organization, relational contracts, artificial intelligence, housing policy, inequality, and digital currency. 
 
 I am affiliated with [IZA](https://www.iza.org/), [Rockwool Foundation](https://www.rfberlin.com/author/mbwonghku-hk/), [HKU Org Econ](https://www.orgecon.hku.hk/), [HKU CAMO](https://camo.hku.hk/), [HKU Stone Centre](https://stonecentre.hku.hk/), [HKU CCCW](https://cccw.hku.hk/), [HKU Jockey Club ESG Research Institute](https://hkujcesgri.hku.hk/), and [HKU Real Estate Lab](https://relab.hku.hk/). 
 
