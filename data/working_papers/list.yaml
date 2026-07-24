@@ -22,12 +22,22 @@ works:
   abstract: >
     Many digital currencies are backed by redemption promises, but little evidence or theory informs currency redemption policy. We study the impact of redemption policy on digital currency adoption and flows, leveraging novel geographical variation in redemption convenience and transaction data from a peer-to-peer used goods trading platform. We show in a search-theoretic framework that redeemability may induce digital currency adoption at zero steady-state cost. However, the evidence is more consistent with a heterogeneous-agent model, in which tokens flowed on average towards users who were closer to redemption opportunities and redeemability is both costly and necessary for digital money circulation. A key implication is that optimal policy may impose some degree of redemption friction. 
 
-- title: "Outsourcing, Labor Market Frictions, and Employment"
+- title: "Domestic Outsourcing and Young-worker Entry into the Formal Sector"
   pdflink: "/pdf/outsourcing.pdf"
   coauthors: "Mayara Felix"
-  note: "Last Updated: August 2025"
+  note: "Last Updated: July 2026"
+  links:
+    - url: "https://www.nber.org/papers/w34172"
+      text: "NBER Working Paper 34172"
   abstract: >
-       We estimate the labor market impacts of Brazil’s 1993 outsourcing legalization using North-South variation in pre-legalization court permissiveness, and comparing security guards to less-affected occupations. We find that outsourcing legalization persistently reallocated jobs from older incumbent guards to younger entrants. Total employment of guards and their entry from informality persistently increased, while average demographic-adjusted wages remained constant. Meanwhile, a wave of occupational layoffs displaced some incumbent guards from high-wage firms. The evidence suggests that the rise of non-core activity outsourcing reduced labor market frictions, facilitated by firm-level economies of scale in human resources and spillovers to non-adopting firms. 
+       We provide evidence that domestic outsourcing increases young-worker entry into the formal sector. Leveraging a pair of 1993–1994 Brazilian reforms that sharply reduced the relative cost of contracting out security guards, a triple-differences design shows that the reforms increased formal guard employment by 4% and hiring from unemployment or informality by 7%—with such entrants accounting for roughly half of the induced employment gains—while reallocating formal employment from older to younger workers and leaving demographic-adjusted wages unchanged. Census data corroborate the rise in formality, driven by the youngest cohorts. The compositional shift mirrors a general pattern in Brazil’s matched employer–employee records: conditional on total firm size, employers with greater occupation-specific scale hire younger workers, paid less at entry and more likely to be entering formal employment for the first time. The evidence is most consistent with contract firms supplying at scale the capabilities needed to hire productive workers from outside the formal sector—a demand-side channel for increasing formal sector employment.
+
+- title: "The Displacement Effects of Domestic Outsourcing"
+  pdflink: "/pdf/displacement.pdf"
+  coauthors: "Mayara Felix"
+  note: "Last Updated: July 2026"
+  abstract: >
+       How does domestic outsourcing affect the workers exposed to it? A large literature documents that outsourcing strips workers of firm wage premia, but direct evidence of displacement is scarce. We study Brazil’s 1993–1994 security-outsourcing reform, showing that the event most studied in this literature—the on-site transfer of a workforce to a contractor—was rare. The common margin was instead the occupational layoff: a firm sheds an entire occupation while keeping its other workers. Using a worker-level matched difference-in-differences design, we document that incumbent guards’ formal employment fell after these layoffs but largely recovered within five years. However, wages were about 12% lower five years out, and many guards switched to other occupations. Implied lifetime earnings losses average 1.2 to 1.5 years of pre-layoff earnings. These losses concentrate on workers from high-wage firms and stem largely from the loss of firm wage premia.
 
 
 
