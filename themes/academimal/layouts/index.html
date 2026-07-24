@@ -47,15 +47,27 @@
 {{ end }}
 {{ end }}
 
-{{ with .GetPage "/sections/policy.md" }}
+{{ with .GetPage "/sections/policy_reports.md" }}
 <hr>
-<h2 id="policy">Policy Writing</h2>
+<h2 id="policyreports">Policy Reports</h2>
 {{ .Content }}
 {{ end }}
 
-{{ with .GetPage "/sections/chinese.md" }}
+{{ with .GetPage "/sections/newspaper_articles.md" }}
 <hr>
-<h2 id="chinese">中文文章</h2>
+<h2 id="newspaperarticles">Newspaper Articles</h2>
+{{ .Content }}
+{{ end }}
+
+{{ with .GetPage "/sections/chinese_reports.md" }}
+<hr>
+<h2 id="chinesereports">政策報告</h2>
+{{ .Content }}
+{{ end }}
+
+{{ with .GetPage "/sections/chinese_articles.md" }}
+<hr>
+<h2 id="chinesearticles">報刊文章</h2>
 {{ .Content }}
 {{ end }}
 
