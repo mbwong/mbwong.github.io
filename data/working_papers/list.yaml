@@ -1,27 +1,4 @@
 works:
-- title: "Relational Contracts and the Scope of Intermediary Firms"
-  pdflink: "/pdf/scope.pdf"
-  note: "Last Updated: July 2026"
-  abstract: >
-        Why do some intermediaries specialize narrowly while others operate broadly? I study this question in a model where intermediaries choose scope and employ producers they must monitor and coordinate, with all contracts sustained relationally. Broader scope deepens buyer-manager relationships but requires larger scale, diluting monitoring and raising wages. Fees are a multiplicative markup on wages, and markups are higher for infrequent buyers, so the cost of breadth falls hardest on those whose demand is most intermittent. The central prediction reverses the naive one-stop-shop intuition: a buyer whose demand is rare uses a narrow specialist even when her task needs are diversified, because a broad manager's markup grows steeply with infrequency. Scope expansion raises total output but can harm remaining specialist buyers through a pool composition externality that worsens monitoring quality. 
-
-- title: "Promise and Perils of Platform Money: Evidence from a Barter Community"
-  pdflink: "/pdf/Bunz.pdf"
-  note: "Last Updated: January 2026"
-  book: "Revise and resubmit, Economic Journal"
-  links:
-    - url: "https://www.acrc.hku.hk/Case/Detail/2204"
-      text: "Teaching case"
-  abstract: >
-        This paper analyzes the effects of platform money issuance on user trade activity using microdata from a Toronto-based barter community that introduced a redeemable platform currency and later experienced a crisis. Three unanticipated events provide exogenous variation: a five‑fold increase in token supply, a sharp restriction of redemption opportunities, and a complete halt of redemption. Using event study designs, I show that monetary expansion raised total trades by around 57 percent, entirely via token‑mediated trades, with barter unchanged. Restricting and then halting redemption reduced token acceptance and token‑mediated trade, with the initial restriction also lowering barter, via reductions in platform use and new user entry. The findings highlight how platform money may increase trade, but caution that reputational enforcement may amplify the costs of a redemption crisis. 
-
-- title: "Redemption Design and Digital Currency Adoption"
-  coauthors: "Baiyun Jing, Yang You, and Yulin Zhong"  
-  pdflink: "/pdf/Token_Adoption.pdf"
-  note: "Last Updated: January 2026"
-  abstract: >
-    Many digital currencies are backed by redemption promises, but little evidence or theory informs currency redemption policy. We study the impact of redemption policy on digital currency adoption and flows, leveraging novel geographical variation in redemption convenience and transaction data from a peer-to-peer used goods trading platform. We show in a search-theoretic framework that redeemability may induce digital currency adoption at zero steady-state cost. However, the evidence is more consistent with a heterogeneous-agent model, in which tokens flowed on average towards users who were closer to redemption opportunities and redeemability is both costly and necessary for digital money circulation. A key implication is that optimal policy may impose some degree of redemption friction. 
-
 - title: "Domestic Outsourcing and Young-worker Entry into the Formal Sector"
   pdflink: "/pdf/outsourcing.pdf"
   coauthors: "Mayara Felix"
@@ -39,6 +16,28 @@ works:
   abstract: >
        How does domestic outsourcing affect the workers exposed to it? A large literature documents that outsourcing strips workers of firm wage premia, but direct evidence of displacement is scarce. We study Brazil’s 1993–1994 security-outsourcing reform, showing that the event most studied in this literature—the on-site transfer of a workforce to a contractor—was rare. The common margin was instead the occupational layoff: a firm sheds an entire occupation while keeping its other workers. Using a worker-level matched difference-in-differences design, we document that incumbent guards’ formal employment fell after these layoffs but largely recovered within five years. However, wages were about 12% lower five years out, and many guards switched to other occupations. Implied lifetime earnings losses average 1.2 to 1.5 years of pre-layoff earnings. These losses concentrate on workers from high-wage firms and stem largely from the loss of firm wage premia.
 
+- title: "Relational Contracts and the Scope of Intermediary Firms"
+  pdflink: "/pdf/scope.pdf"
+  note: "Last Updated: July 2026"
+  abstract: >
+        Why do some intermediaries specialize narrowly while others operate broadly? I study this question in a model where intermediaries choose scope and employ producers they must monitor and coordinate, with all contracts sustained relationally. Broader scope deepens buyer-manager relationships but requires larger scale, diluting monitoring and raising wages. Fees are a multiplicative markup on wages, and markups are higher for infrequent buyers, so the cost of breadth falls hardest on those whose demand is most intermittent. The central prediction reverses the naive one-stop-shop intuition: a buyer whose demand is rare uses a narrow specialist even when her task needs are diversified, because a broad manager's markup grows steeply with infrequency. Scope expansion raises total output but can harm remaining specialist buyers through a pool composition externality that worsens monitoring quality.
+
+- title: "Promise and Perils of Platform Money: Evidence from a Barter Community"
+  pdflink: "/pdf/Bunz.pdf"
+  note: "Last Updated: January 2026"
+  book: "Revise and resubmit, Economic Journal"
+  links:
+    - url: "https://www.acrc.hku.hk/Case/Detail/2204"
+      text: "Teaching case"
+  abstract: >
+        This paper analyzes the effects of platform money issuance on user trade activity using microdata from a Toronto-based barter community that introduced a redeemable platform currency and later experienced a crisis. Three unanticipated events provide exogenous variation: a five‑fold increase in token supply, a sharp restriction of redemption opportunities, and a complete halt of redemption. Using event study designs, I show that monetary expansion raised total trades by around 57 percent, entirely via token‑mediated trades, with barter unchanged. Restricting and then halting redemption reduced token acceptance and token‑mediated trade, with the initial restriction also lowering barter, via reductions in platform use and new user entry. The findings highlight how platform money may increase trade, but caution that reputational enforcement may amplify the costs of a redemption crisis.
+
+- title: "Redemption Design and Digital Currency Adoption"
+  coauthors: "Baiyun Jing, Yang You, and Yulin Zhong"
+  pdflink: "/pdf/Token_Adoption.pdf"
+  note: "Last Updated: January 2026"
+  abstract: >
+    Many digital currencies are backed by redemption promises, but little evidence or theory informs currency redemption policy. We study the impact of redemption policy on digital currency adoption and flows, leveraging novel geographical variation in redemption convenience and transaction data from a peer-to-peer used goods trading platform. We show in a search-theoretic framework that redeemability may induce digital currency adoption at zero steady-state cost. However, the evidence is more consistent with a heterogeneous-agent model, in which tokens flowed on average towards users who were closer to redemption opportunities and redeemability is both costly and necessary for digital money circulation. A key implication is that optimal policy may impose some degree of redemption friction.
 
 
 
