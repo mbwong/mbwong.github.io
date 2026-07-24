@@ -1,3 +1,5 @@
+[Anchoring Talent in the Northern Metropolis: Four Policy Proposals to Help Young Households Put Down Roots in Hong Kong's New Economic Engine](/pdf/Anchoring_Talent_NM.pdf) (HKFEI research report, 2026-7-12, with Alex Ngau)
+
 [Smaller and Smaller: Trends in the size of New Housing Units in Hong Kong, 1995-2024](/pdf/Smaller.pdf) (HKFEI research report, 2026-6-23, with Yuyang Ou and Alex Ngau)
 
 [Housing Affordability and Homeownership in Hong Kong, 1985-2023](/pdf/GreenPaper2026_English.pdf) (Hong Kong Economic Policy Green Paper, 2026-1-14, with Allen W. Huang and Alex Ngau)
