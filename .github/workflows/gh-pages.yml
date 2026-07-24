@@ -24,9 +24,16 @@ jobs:
       - name: Build
         run: hugo --minify
 
+      - name: Copy CNAME into publish dir
+        run: |
+          if [ -f CNAME ]; then
+            cp CNAME ./docs/CNAME
+          fi
+
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         if: github.ref == 'refs/heads/source'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./docs
+          cname: mbwong.com

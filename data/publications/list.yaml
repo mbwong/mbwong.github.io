@@ -1,5 +1,13 @@
 works:
 
+- title: "Managerial Coordination in Decentralized Markets"
+  pdflink: "/pdf/nexus.pdf"
+  coauthors: "Duoxi Li"
+  note: "Last Updated: July 2026"
+  book: "Conditionally accepted, Economic Journal"
+  abstract: >
+        Why do some buyers contract directly with producers, while others contract via an intermediary that coordinates assignments and monitors performance? We develop a repeated-game model in which intermediaries aggregate fluctuating demand, lengthening productive relationships and making cooperation easier to sustain. This benefit comes at the cost of double marginalization: an added layer of rents is needed to motivate the intermediary. The trade-off determines which buyers rely on an intermediary and which contract directly. In equilibrium, producers working through intermediaries earn lower, less variable pay but greater job security. Intermediaries expand trade, yet shift its gains from producers to buyers. Managerial coordination also promotes specialization. The framework sheds new light on professional service firms, global sourcing intermediaries, and digital matching platforms.
+
 - title: "Domestic Outsourcing and Employment Security"
   pdflink: "/pdf/outsourcing_dynamics.pdf"
   coauthors: "Naijia Guo and Duoxi Li"
