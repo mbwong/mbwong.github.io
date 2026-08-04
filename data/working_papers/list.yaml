@@ -4,6 +4,8 @@ works:
   coauthors: "Mayara Felix"
   note: "Last Updated: July 2026"
   links:
+    - url: "/pdf/outsourcing_appendix.pdf"
+      text: "Online Appendix"
     - url: "https://www.nber.org/papers/w34172"
       text: "NBER Working Paper 34172"
   abstract: >
@@ -13,6 +15,9 @@ works:
   pdflink: "/pdf/displacement.pdf"
   coauthors: "Mayara Felix"
   note: "Last Updated: July 2026"
+  links:
+    - url: "/pdf/displacement_appendix.pdf"
+      text: "Online Appendix"
   abstract: >
        Evidence that domestic outsourcing lowers pay comes largely from on-site transfers, in which workers move to a contractor but keep the same jobs. Displacement is rarely observed: whether workers lose their jobs, where they go, how earnings evolve. In Brazil’s 1993–1994 pro-outsourcing reforms, which differentially affected security guards, such transfers were rare; firms instead used occupational layoffs, shedding their guards while keeping other workers. Displaced guards’ employment recovered within five years, but many changed occupations and wages stayed about 12% lower. Lifetime losses average 1.2 to 1.5 years of pre-layoff earnings, concentrated among workers from high-wage firms, reflecting lost premia.
 
