@@ -11,12 +11,6 @@ works:
   abstract: >
        Contract firms often pool demand for non-core work—security, cleaning—that is thin at any one employer. We show that this pooling creates occupation-specific scale that substitutes for worker experience at hiring. In a novel pattern we document for all occupations in Brazil’s linked employer–employee data, hiring of youth who never had a formal sector job rises with employers’ occupation-specific scale. For security guards, 1990s pro-outsourcing reforms increased young-worker entry into the formal sector: a triple-differences design shows guard employment rose by 4% and hiring from unemployment or informality by 7%, reallocating employment toward younger workers at unchanged demographic-adjusted wages.
 
-- title: "Relational Contracts and the Scope of Intermediary Firms"
-  pdflink: "/pdf/scope.pdf"
-  note: "Last Updated: August 2026"
-  abstract: >
-        Why do some intermediaries specialize narrowly while others operate broadly? I study this question in a model where intermediaries choose scope and employ producers they must monitor and coordinate, with all contracts sustained relationally. Broader scope deepens buyer-manager relationships but requires larger scale, diluting monitoring and raising wages. Fees are a multiplicative markup on wages, and markups are higher for infrequent buyers, so the cost of breadth falls hardest on those whose demand is most intermittent. The central prediction reverses the naive one-stop-shop intuition: a buyer whose demand is rare uses a narrow specialist even when her task needs are diversified, because a broad manager's markup grows steeply with infrequency. Scope expansion raises total output and triggers a pool composition externality that operates through monitoring quality: remaining specialist buyers are harmed when broad entry removes the specialists' least frequent clients, and benefit when it removes their most frequent ones.
-
 - title: "The Displacement Effects of Domestic Outsourcing"
   pdflink: "/pdf/displacement.pdf"
   coauthors: "Mayara Felix"
