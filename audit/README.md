@@ -32,11 +32,62 @@ contact.
 
 ## Established
 
-**The platform is real and named.** Sex141, established 2002, is described in
-public sources as the most active sex-work advertising and information
-network in Hong Kong. This is no longer a hypothesis about "a 141 ecosystem";
-it is a specific site with a documented history, which also means it has a
-documented *pre-2020* history worth probing in the archive.
+**The platform is real, named, and its contents are documented.** Sex141,
+founded 2002, held a near-monopoly on online sex-work advertising in Hong
+Kong. Per secondary sources, a listing carries: multiple photographs (plus
+user-uploaded photos posted after encounters), physical attributes and
+measurements, ethnicity, an explicit service menu of what the worker will and
+will not do, price (typically HK$300-800 per 45-minute session), a direct
+contact number, and geography down to district, nearest transit stop and a
+Google Maps link. The platform itself categorises listings by district, by
+provider type (independent / hotel-based / agency-affiliated), and by
+ethnicity.
+
+That is a fuller hedonic dataset than expected: price, service menu, worker
+attributes and fine geography. The spatial precision in particular is better
+than most papers in this literature have, and it is what the building-level
+agglomeration design needs.
+
+**It is a paid directory, so the sample is selected on scale.** Listing costs
+roughly HK$1,200/month; reported revenue was around HK$60m. At HK$300-800 a
+session the fee is two to four sessions a month. This excludes the
+low-volume end outright, but it also gives a revealed lower bound on earnings
+for everyone listed, which is rare here. Treat all HK$ figures as indicative.
+
+**The review data is corrupted, and specifically so.** Reporting from 2013
+says the platform charged for positive reviews while encouraging negative
+ones, running ghostwriter services; one worker reportedly spent HK$10,000 a
+month on ghostwriting. Reviews alleging an STD destroyed business
+immediately, and workers had no practical way to monitor or rebut them.
+
+Do not model these ratings as a quality signal. But note what the object
+actually is: a monopolist platform monetising a reputation system it
+simultaneously corrupts. That sits between the intermediary rents of EJ 2026
+and the endogenous trust in sources of uncertain accuracy of AEJ Micro 2025,
+and it may be the most novel thing in this setting.
+
+**The platform was itself prosecuted as the banned intermediary.** In 2005
+both founders were convicted of conspiring to live on the earnings of
+prostitution arising from the ads, fined HK$100,000 each with eight months
+suspended. The server moved to the United States in 2006. In December 2013
+New Territories South Police shut the site down, raiding 38 locations and
+arresting 114. In May 2021 twelve were arrested for living on prostitution
+earnings, money laundering and loan-sharking, one of them already serving
+time for a previous version and believed to be behind go141.com. Successor
+domains include go141.com and nightlife141.com, the latter expanding into
+Macau, Taiwan and Thailand.
+
+This is the single most useful finding. It confirms the intermediation
+framing directly rather than by analogy: Hong Kong applied the
+living-on-earnings offence to the *platform*, so the digital intermediary was
+prosecuted as the banned intermediary. And it yields sharp, dated,
+platform-level shocks (2005, Dec 2013, May 2021), far cleaner than diffuse
+district raids, against a monopolist that reconstituted itself under new
+domains each time. That persistence is the phenomenon to explain.
+
+Both the 2005 conviction and the 2021 prosecutions should appear in HKLII.
+`02_hklii_census.py` already searches for exactly these offences, so this is
+checkable against primary sources on the first run.
 
 **Prior art exists but is qualitative.** There is a study titled "Online
 Platforms for Female Sex Workers in Hong Kong: A Qualitative Analysis of
@@ -86,7 +137,11 @@ in Hong Kong, not a formality.
 
 ## Unresolved, and decisive
 
-These two are the whole ballgame. Run `01_wayback_coverage.py` first.
+These two are the whole ballgame. Run `01_wayback_coverage.py` first, and run
+it against **all three domains** (sex141.com, go141.com, nightlife141.com).
+The December 2013 shutdown moved the population to successor domains, so a
+single-domain probe will show a false collapse at that date and read it as
+the market disappearing rather than migrating.
 
 1. **Does the archive hold pre-2020 snapshots?** If not, the border-closure
    design is dead. Adult sites are frequently excluded from the Wayback
@@ -161,6 +216,8 @@ pip install -r requirements.txt
 python test_parsers.py                                   # offline, no network
 
 python 01_wayback_coverage.py --domain sex141.com        # run this first
+python 01_wayback_coverage.py --domain go141.com         # successor domain
+python 01_wayback_coverage.py --domain nightlife141.com  # successor domain
 python 02_hklii_census.py --mode crawl --court hkdc --from 2005 --to 2025
 python 03_legco_enforcement.py --from 2015 --to 2015     # smoke test one year
 python 03_legco_enforcement.py --from 2005 --to 2026     # full harvest
