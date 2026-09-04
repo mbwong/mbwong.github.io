@@ -1,0 +1,4 @@
+# Coding pipeline. reliability.py and describe.py are standard library only,
+# so exhibits and gates can be recomputed by a referee with no install.
+anthropic>=1.0
+pydantic>=2.0

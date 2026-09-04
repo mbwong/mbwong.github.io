@@ -1,0 +1,10 @@
+# Never commit collected data, credentials, or the hashing salt.
+data/units.jsonl
+data/coded*.jsonl
+data/gold.jsonl
+data/events.json
+exhibits/
+.env
+salt.txt
+__pycache__/
+*.pyc

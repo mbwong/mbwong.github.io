@@ -1,0 +1,55 @@
+{
+  "_comment": [
+    "Event calendar template. `onsale_date` drives the E3 grievance clock, so a",
+    "wrong date silently distorts the headline time exhibit. Every date must be",
+    "sourced from the ticketing platform's own announcement, the venue calendar,",
+    "or contemporaneous press, and the source recorded in `source_note`.",
+    "",
+    "The entries below are PLACEHOLDERS with null dates. They will fail",
+    "load_events() until filled in. That is deliberate: an unsourced date is",
+    "worse than a missing one."
+  ],
+  "events": [
+    {
+      "key": "PLACEHOLDER_kai_tak_2025",
+      "label": "Kai Tak Stadium show, 2025",
+      "venue": "Kai Tak Stadium",
+      "venue_class": "OTHER",
+      "onsale_date": null,
+      "event_dates": [],
+      "real_name_registration": null,
+      "keywords": ["啟德", "Kai Tak"],
+      "source_note": "TODO: cite the on-sale announcement"
+    },
+    {
+      "key": "PLACEHOLDER_coliseum_2026",
+      "label": "Hong Kong Coliseum residency, 2026",
+      "venue": "Hong Kong Coliseum",
+      "venue_class": "LCSD_EXEMPT",
+      "onsale_date": null,
+      "event_dates": [],
+      "real_name_registration": null,
+      "keywords": ["紅館", "Coliseum"],
+      "source_note": "TODO: cite the on-sale announcement"
+    }
+  ],
+  "_field_notes": {
+    "venue_class": [
+      "LCSD_EXEMPT   - venue managed by LCSD and understood to fall outside the",
+      "                Places of Public Entertainment Ordinance licensing regime",
+      "                via the Cap. 172D exemption order. VERIFY against the",
+      "                primary legislation before this classification is used in",
+      "                any published claim; it is the paper's central legal fact.",
+      "OTHER         - all other venues.",
+      "This split is the closest thing the project has to a policy contrast:",
+      "it is an institutional classification, not a randomised assignment, so it",
+      "supports description and not a causal estimate."
+    ],
+    "real_name_registration": [
+      "true / false / null when unknown. Enables the descriptive contrast between",
+      "events that did and did not use real-name ticketing. Selection into",
+      "real-name registration is not random - high-demand shows adopt it - so",
+      "this contrast is suggestive only and must be labelled as such."
+    ]
+  }
+}

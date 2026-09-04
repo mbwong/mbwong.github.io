@@ -1,0 +1,30 @@
+// SYNTHETIC DATA. Every unit below was written by hand to exercise the coding
+// pipeline offline. None of it was collected from any platform, none of it is
+// real user speech, and none of it may appear in any analysis or publication.
+// It exists so the pipeline can be validated before it ever touches real data.
+{"unit_id": "syn-001", "source": "synthetic", "posted_at": "2026-03-02T10:05:00+08:00", "days_from_onsale": 0, "thread_title": "撲飛戰報", "text": "又係咁，公開發售得兩成飛，其餘全部內部認購。咁樣都叫公開發售？政府場地都唔管下嘅"}
+{"unit_id": "syn-002", "source": "synthetic", "posted_at": "2026-03-02T10:11:00+08:00", "days_from_onsale": 0, "thread_title": "撲飛戰報", "text": "撲咗成個鐘，個網一直轉圈，撳到最後話 sold out。我連付款頁面都入唔到過，究竟部 server 頂唔頂得順㗎"}
+{"unit_id": "syn-003", "source": "synthetic", "posted_at": "2026-03-03T21:40:00+08:00", "days_from_onsale": 1, "thread_title": "黃牛價", "text": "黃牛叫價 $8000 一張，原價 $1080。有冇搞錯，執法嘅人係咪瞓着咗"}
+{"unit_id": "syn-004", "source": "synthetic", "posted_at": "2026-03-20T14:02:00+08:00", "days_from_onsale": 18, "thread_title": "印錯飛", "text": "張飛印錯咗區，客服話唔可以退，淨係肯退返手續費 $150。咁我張飛而家算咩"}
+{"unit_id": "syn-005", "source": "synthetic", "posted_at": "2026-04-11T20:15:00+08:00", "days_from_onsale": 40, "thread_title": "入場情況", "text": "入場排咗成粒鐘，實名認證要對身份證，前面有個女仔被拒入場喊到收唔到聲。班工作人員都唔知點處理"}
+{"unit_id": "syn-006", "source": "synthetic", "posted_at": "2026-03-02T23:50:00+08:00", "days_from_onsale": 0, "thread_title": "撲飛戰報", "text": "香港買飛制度真係爛，講咗咁多年都係咁"}
+{"unit_id": "syn-007", "source": "synthetic", "posted_at": "2026-03-04T09:30:00+08:00", "days_from_onsale": 2, "thread_title": "黃牛價", "text": "俾多咗三千蚊買黃牛飛，但講到底公開發售得一成，你唔買黃牛買咩？源頭喺邊度大家心知肚明"}
+{"unit_id": "syn-008", "source": "synthetic", "posted_at": "2026-03-05T11:20:00+08:00", "days_from_onsale": 3, "thread_title": "實名制討論", "text": "好嘢，又係內部飛，多謝晒"}
+{"unit_id": "syn-009", "source": "synthetic", "posted_at": "2026-03-05T12:00:00+08:00", "days_from_onsale": 3, "thread_title": "實名制討論", "text": "其實實名制之後真係好咗好多，唔好乜都賴主辦。起碼今次我用原價買到"}
+{"unit_id": "syn-010", "source": "synthetic", "posted_at": "2026-03-06T18:45:00+08:00", "days_from_onsale": 4, "thread_title": "實名制討論", "text": "大家一齊去消委會投訴啦，唔好就咁算數。人多先有人理"}
+{"unit_id": "syn-011", "source": "synthetic", "posted_at": "2026-03-07T08:10:00+08:00", "days_from_onsale": 5, "thread_title": "實名制討論", "text": "習慣咗啦，香港買飛從來都係咁，認命"}
+{"unit_id": "syn-012", "source": "synthetic", "posted_at": "2026-02-26T19:00:00+08:00", "days_from_onsale": -4, "thread_title": "預售", "text": "銀行 presale 又係咁，冇張指定卡就乜都撲唔到。而家買飛要先買張信用卡係咪"}
+{"unit_id": "syn-013", "source": "synthetic", "posted_at": "2026-03-02T10:01:00+08:00", "days_from_onsale": 0, "thread_title": "撲飛戰報", "text": "10:00:03 就話全部售罄，你當我哋傻㗎。呢個速度唔係人買到嘅"}
+{"unit_id": "syn-014", "source": "synthetic", "posted_at": "2026-03-15T16:30:00+08:00", "days_from_onsale": 13, "thread_title": "騙案", "text": "喺 IG 買飛俾人呃咗 $2400，收咗錢就 block 咗我。已經報咗警但都唔抱期望"}
+{"unit_id": "syn-015", "source": "synthetic", "posted_at": "2026-03-22T13:00:00+08:00", "days_from_onsale": 20, "thread_title": "退票", "text": "個唱延期咗，主辦話唔設退票只可以換期。我張機票酒店點算？消費者權益喺邊"}
+{"unit_id": "syn-016", "source": "synthetic", "posted_at": "2026-04-12T22:30:00+08:00", "days_from_onsale": 41, "thread_title": "入場情況", "text": "個位寫住 restricted view 但買嗰陣個網完全冇提過，坐低先發現對住支柱"}
+{"unit_id": "syn-017", "source": "synthetic", "posted_at": "2026-03-02T10:30:00+08:00", "days_from_onsale": 0, "thread_title": "撲飛戰報", "text": "排到 queue number 4 萬幾，前面幾萬人。個系統話最多容納兩萬人同時上線，咁點解排到咁後"}
+{"unit_id": "syn-018", "source": "synthetic", "posted_at": "2026-03-08T15:00:00+08:00", "days_from_onsale": 6, "thread_title": "政策", "text": "應該學日本咁，炒飛直接刑事化，唔係罰兩千蚊當交稅。政府講咗六年都未做"}
+{"unit_id": "syn-019", "source": "synthetic", "posted_at": "2026-03-02T10:20:00+08:00", "days_from_onsale": 0, "thread_title": "撲飛戰報", "text": "付款嗰陣俾人踢咗出去，返到去個飛冇咗。銀行話已經 hold 咗錢，兩邊互相推"}
+{"unit_id": "syn-020", "source": "synthetic", "posted_at": "2026-03-09T11:11:00+08:00", "days_from_onsale": 7, "thread_title": "黃牛價", "text": "而家啲炒家開價 $15000，仲要話包入場。你話冇內部渠道我唔信"}
+{"unit_id": "syn-021", "source": "synthetic", "posted_at": "2026-03-10T09:00:00+08:00", "days_from_onsale": 8, "thread_title": "出讓", "text": "出讓兩張，原價，紅館 12/4，有意 pm"}
+{"unit_id": "syn-022", "source": "synthetic", "posted_at": "2026-03-10T09:05:00+08:00", "days_from_onsale": 8, "thread_title": "出讓", "text": "+1"}
+{"unit_id": "syn-023", "source": "synthetic", "posted_at": "2026-03-11T14:00:00+08:00", "days_from_onsale": 9, "thread_title": "海外", "text": "上個月去東京睇 show，買飛好順利，實名制行得好好，成個過程冇乜投訴"}
+{"unit_id": "syn-024", "source": "synthetic", "posted_at": "2026-03-12T17:20:00+08:00", "days_from_onsale": 10, "thread_title": "政策", "text": "The whole allocation system is opaque. Nobody publishes how many tickets actually go on public sale, and LCSD venues are exempt from the touting rules anyway."}
+{"unit_id": "syn-025", "source": "synthetic", "posted_at": "2026-03-13T10:45:00+08:00", "days_from_onsale": 11, "thread_title": "撲飛戰報", "text": "friend 幫我撲都撲唔到，最後係佢阿爸公司有配額先有飛。呢個就係香港"}
+{"unit_id": "syn-026", "source": "synthetic", "posted_at": "2026-04-12T23:10:00+08:00", "days_from_onsale": 41, "thread_title": "入場情況", "text": "散場人流管理完全冇規劃，成萬人迫喺一條天橋，好危險"}
