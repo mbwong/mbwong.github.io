@@ -20,6 +20,7 @@ sys.path.insert(0, str(ROOT / "src" / "collect"))
 
 import classify  # noqa: E402
 import normalise  # noqa: E402
+import youtube  # noqa: E402
 import describe  # noqa: E402
 import reliability  # noqa: E402
 from schema import CODEBOOK_VERSION, Coding, Stage, coding_json_schema  # noqa: E402
@@ -266,6 +267,115 @@ def main() -> int:
     except ValueError:
         template_rejected = True
     check("event template with null dates is refused", template_rejected)
+
+    print("\n[8] youtube collector (no key required)")
+    ledger = youtube.QuotaLedger(budget=250)
+    ledger.charge(youtube.SEARCH_COST)
+    ledger.charge(youtube.SEARCH_COST)
+    check("ledger accumulates spend", ledger.spent == 200, str(ledger.spent))
+    exhausted = False
+    try:
+        ledger.charge(youtube.SEARCH_COST)
+    except youtube.QuotaExhausted:
+        exhausted = True
+    check("ledger refuses to overspend the budget", exhausted)
+    check("overspend attempt is not counted", ledger.spent == 200, str(ledger.spent))
+
+    err = youtube.ApiError(
+        403,
+        json.dumps({"error": {"errors": [{"reason": "commentsDisabled"}]}}),
+    )
+    check("api error reason parses", err.reason == "commentsDisabled", err.reason)
+    check(
+        "unparseable error body degrades to empty reason",
+        youtube.ApiError(500, "<html>gateway</html>").reason == "",
+    )
+
+    thread = {
+        "snippet": {
+            "topLevelComment": {
+                "id": "top1",
+                "snippet": {
+                    "authorChannelId": {"value": "UC_a"},
+                    "publishedAt": "2026-03-02T02:05:00Z",
+                    "textOriginal": "又係內部飛",
+                },
+            }
+        },
+        "replies": {
+            "comments": [
+                {
+                    "id": "rep1",
+                    "snippet": {
+                        "authorChannelId": {"value": "UC_b"},
+                        "publishedAt": "2026-03-02T02:09:00Z",
+                        "textOriginal": "同意",
+                    },
+                },
+                {
+                    "id": "rep2",
+                    "snippet": {
+                        "publishedAt": "2026-03-02T02:10:00Z",
+                        "textOriginal": "   ",
+                    },
+                },
+            ]
+        },
+    }
+    records = youtube.flatten_thread(thread, {"video_id": "vid1", "title": "新聞"})
+    check("reply becomes its own unit", len(records) == 2, f"got {len(records)}")
+    check("empty comment is dropped", all(r["text"].strip() for r in records))
+    check("thread title carries onto records", records[0]["thread_title"] == "新聞")
+    check("deep link includes the comment id", "lc=top1" in records[0]["url"])
+
+    missing_author = youtube.flatten_thread(
+        {
+            "snippet": {
+                "topLevelComment": {
+                    "id": "c9",
+                    "snippet": {
+                        "publishedAt": "2026-03-02T02:11:00Z",
+                        "textOriginal": "冇 author id",
+                    },
+                }
+            }
+        },
+        {"video_id": "vid1", "title": "新聞"},
+    )
+    check(
+        "missing author id is flagged, not silently merged",
+        missing_author[0]["author_id"].startswith("anon:"),
+        missing_author[0]["author_id"],
+    )
+
+    piped = normalise.normalise(records[0], "youtube", salt="s")
+    check("records feed straight into normalise", piped["unit_id"] == "youtube-top1")
+    check("author is hashed on the way through", piped["author_key"] != "UC_a")
+
+    print("\n[9] live API reachability (no key, expects 403)")
+    live_ledger = youtube.QuotaLedger()
+    try:
+        youtube.get(
+            "commentThreads",
+            {"part": "snippet", "videoId": "x", "maxResults": 1},
+            "",
+            live_ledger,
+            youtube.COMMENT_COST,
+        )
+        check("live call reached the API", False, "expected a 403, got success")
+    except youtube.ApiError as exc:
+        check(
+            "live call reaches the YouTube API through the proxy",
+            exc.status == 403,
+            f"status {exc.status}",
+        )
+        check(
+            "403 is the missing-key error, not an egress block",
+            "unregistered callers" in exc.body or exc.reason == "forbidden",
+            exc.body[:120],
+        )
+    except Exception as exc:  # noqa: BLE001
+        check("live call reaches the YouTube API", False, f"{type(exc).__name__}: {exc}")
 
     print(f"\n{len(PASSED)} passed, {len(FAILED)} failed")
     for failure in FAILED:

@@ -1,0 +1,18 @@
+# Search queries for YouTube video discovery. One per line; # comments ignored.
+# Each line costs 100 quota units, so curate rather than sweep. Aim at news
+# coverage and discussion of ticketing controversies, not at concert footage.
+#
+# Discovery bias to keep in mind: these terms find videos ABOUT the controversy,
+# so the comment pool skews toward people engaged enough to watch news coverage.
+# That is a narrower group than ticket buyers. Record the query set with the
+# corpus so the selection is legible in the writeup.
+黃牛飛 香港
+炒飛 演唱會 香港
+紅館 門票 投訴
+城市售票網 訂飛 問題
+撲飛 演唱會 香港
+實名制 門票 香港
+啟德 演唱會 門票
+香港 演唱會 退票
+內部認購 門票
+Hong Kong concert ticket scalping
