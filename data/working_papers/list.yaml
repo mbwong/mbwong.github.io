@@ -1,4 +1,16 @@
 works:
+- title: "Promise and Perils of Redeemable Money: Evidence from a Barter Platform"
+  pdflink: "/pdf/Bunz.pdf"
+  note: "Last Updated: September 2026"
+  book: "Revise and resubmit, Economic Journal"
+  links:
+    - url: "/pdf/Bunz_appendix.pdf"
+      text: "Online Appendix"
+    - url: "https://www.acrc.hku.hk/Case/Detail/2204"
+      text: "Teaching case"
+  abstract: >
+        Many digital currencies are backed by promises of redemption. What happens when the promise is broken? This paper answers with transaction-level microdata and three unanticipated policy changes on a Toronto barter platform that operated a redeemable digital token. When the platform restricted and then halted redemption, token acceptance and token-mediated trade fell while the token’s posted price stayed at par. The first breach also reduced barter and cut entry of new regular users by two-thirds, as aggrieved users withdrew from the platform. The later halt of all remaining redemption, announced as a pause, provoked no comparable backlash. Before the crises, a five-fold expansion of the token supply had raised trade by 57 percent, entirely through token-mediated exchange, confirming that the token functioned as money. A search-theoretic model of redeemable money with reference-dependent participation organizes these patterns.
+
 - title: "Domestic Outsourcing and Young-worker Entry into the Formal Sector"
   pdflink: "/pdf/outsourcing.pdf"
   coauthors: "Mayara Felix"
@@ -22,16 +34,6 @@ works:
       text: "NBER Working Paper 35584"
   abstract: >
        Evidence that domestic outsourcing lowers pay comes largely from on-site transfers, in which workers move to a contractor but keep the same jobs. Displacement is rarely observed: whether workers lose their jobs, where they go, how earnings evolve. In Brazil’s 1993–1994 pro-outsourcing reforms, which differentially affected security guards, such transfers were rare; firms instead used occupational layoffs, shedding their guards while keeping other workers. Displaced guards’ employment recovered within five years, but many changed occupations and wages stayed about 12% lower. Lifetime losses average 1.2 to 1.5 years of pre-layoff earnings, concentrated among workers from high-wage firms, reflecting lost premia.
-
-- title: "Promise and Perils of Platform Money: Evidence from a Barter Community"
-  pdflink: "/pdf/Bunz.pdf"
-  note: "Last Updated: January 2026"
-  book: "Revise and resubmit, Economic Journal"
-  links:
-    - url: "https://www.acrc.hku.hk/Case/Detail/2204"
-      text: "Teaching case"
-  abstract: >
-        This paper analyzes the effects of platform money issuance on user trade activity using microdata from a Toronto-based barter community that introduced a redeemable platform currency and later experienced a crisis. Three unanticipated events provide exogenous variation: a five‑fold increase in token supply, a sharp restriction of redemption opportunities, and a complete halt of redemption. Using event study designs, I show that monetary expansion raised total trades by around 57 percent, entirely via token‑mediated trades, with barter unchanged. Restricting and then halting redemption reduced token acceptance and token‑mediated trade, with the initial restriction also lowering barter, via reductions in platform use and new user entry. The findings highlight how platform money may increase trade, but caution that reputational enforcement may amplify the costs of a redemption crisis.
 
 - title: "Redemption Design and Digital Currency Adoption"
   coauthors: "Baiyun Jing, Yang You, and Yulin Zhong"
