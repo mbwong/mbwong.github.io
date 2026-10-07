@@ -1,0 +1,196 @@
+<!doctype html>
+<html lang="zh-Hant-HK">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="color-scheme" content="light">
+  <meta name="robots" content="noindex, nofollow, noarchive, nosnippet">
+  <meta name="googlebot" content="noindex, nofollow, noarchive, nosnippet">
+  <title>街坊安心｜居民通報原型 V2</title>
+  <style>
+    :root {
+      --ink:#13211a; --muted:#607067; --bg:#f2f5f2; --paper:#fff; --soft:#f6f8f6;
+      --line:#d8e0da; --green:#087456; --green-dark:#075e47; --green-soft:#e4f3ed;
+      --amber:#9a5508; --amber-soft:#fff2dc; --red:#a82e2e; --red-soft:#fdebea;
+      --blue:#245e9e; --blue-soft:#eaf1fa; --shadow:0 16px 44px rgba(20,45,31,.10);
+    }
+    *{box-sizing:border-box} html{scroll-behavior:smooth}
+    body{margin:0;background:linear-gradient(180deg,#eaf1ec 0,#f5f7f5 320px);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"Noto Sans TC","PingFang TC","Microsoft JhengHei",sans-serif;line-height:1.45;min-height:100vh}
+    button,input,select,textarea{font:inherit} button{color:inherit}
+    button:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-visible{outline:3px solid rgba(8,116,86,.25);outline-offset:2px}
+    .app{width:min(100% - 24px,520px);margin:0 auto;padding:12px 0 54px}
+    .app.staff-mode{width:min(100% - 28px,1180px)}
+    .app.staff-mode .top-actions{display:none}
+    .app.status-mode{width:min(100% - 28px,920px)}
+    .topbar{display:flex;align-items:center;justify-content:space-between;gap:14px;padding:8px 4px 15px}
+    .brand{display:flex;align-items:center;gap:10px;font-weight:800;border:0;background:transparent;padding:0;cursor:pointer;text-align:left}.brand-mark{width:35px;height:35px;border-radius:11px;background:var(--green);display:grid;place-items:center;color:#fff}.brand-mark svg{width:21px}
+    .brand small{display:block;color:var(--muted);font-weight:600;font-size:.68rem;letter-spacing:.03em}
+    .top-actions{display:flex;gap:7px;align-items:center}.report-link,.staff-link,.ghost{border:1px solid var(--line);background:rgba(255,255,255,.76);border-radius:9px;padding:9px 11px;font-size:.78rem;font-weight:700;cursor:pointer}.report-link{background:var(--green);border-color:var(--green);color:#fff}
+    .screen{display:none}.screen.active{display:block}
+    .card{background:var(--paper);border:1px solid var(--line);border-radius:18px;box-shadow:var(--shadow)}
+    .home-card{overflow:hidden}.home-hero{padding:28px 24px 22px;background:linear-gradient(135deg,#fff 0,#f5faf7 100%);position:relative}.home-hero:after{content:"";position:absolute;width:160px;height:160px;border:28px solid rgba(8,116,86,.07);border-radius:50%;right:-74px;top:-70px}
+    .kicker{color:var(--green);font-size:.76rem;font-weight:800;letter-spacing:.08em;margin:0 0 11px}.home-hero h1{font-size:clamp(1.75rem,8vw,2.55rem);line-height:1.08;letter-spacing:-.045em;margin:0;max-width:420px}.home-hero p{color:var(--muted);margin:13px 0 0;font-size:.95rem;max-width:430px}
+    .home-actions{padding:20px 18px 22px;display:grid;gap:10px}.primary,.secondary,.danger-action{border:0;border-radius:12px;padding:15px 16px;font-weight:800;cursor:pointer;display:flex;align-items:center;justify-content:center;gap:9px;min-height:54px}.primary{background:var(--green);color:#fff}.primary:hover{background:var(--green-dark)}.secondary{background:var(--soft);border:1px solid var(--line)}.danger-action{background:var(--red-soft);color:var(--red);border:1px solid #f2c9c6}.primary svg,.secondary svg,.danger-action svg{width:19px}
+    .emergency{margin-top:13px;background:var(--paper);border:1px solid var(--line);border-radius:14px;padding:15px;display:flex;gap:12px;align-items:flex-start}.emergency-icon{width:34px;height:34px;border-radius:50%;background:var(--red-soft);color:var(--red);display:grid;place-items:center;flex:0 0 auto}.emergency-icon svg{width:18px}.emergency b{display:block;font-size:.9rem;margin-bottom:3px}.emergency p{margin:0;color:var(--muted);font-size:.79rem}.emergency a{color:var(--red);font-weight:800}
+    .trust{display:grid;grid-template-columns:repeat(3,1fr);gap:7px;margin-top:13px}.trust div{background:rgba(255,255,255,.72);border:1px solid var(--line);border-radius:11px;padding:11px 8px;text-align:center;color:var(--muted);font-size:.7rem}.trust svg{width:18px;color:var(--green);display:block;margin:0 auto 5px}
+    .wizard-head{margin-bottom:14px}.back{border:0;background:transparent;color:var(--green);font-weight:800;cursor:pointer;padding:8px 2px;display:flex;align-items:center;gap:5px}.back svg{width:18px}.progress{height:5px;background:#dae2dc;border-radius:10px;overflow:hidden;margin:5px 0 12px}.progress i{display:block;height:100%;background:var(--green);border-radius:inherit;transition:width .2s}.step-caption{display:flex;justify-content:space-between;color:var(--muted);font-size:.72rem;font-weight:700}
+    .flow-card{padding:22px}.flow-card h2{font-size:1.55rem;line-height:1.18;letter-spacing:-.025em;margin:0}.flow-card>.hint{color:var(--muted);font-size:.88rem;margin:8px 0 20px}.option-list{display:grid;gap:9px}.option{width:100%;border:1px solid var(--line);background:var(--paper);border-radius:12px;padding:13px;text-align:left;display:grid;grid-template-columns:42px 1fr 20px;gap:12px;align-items:center;cursor:pointer}.option:hover{border-color:var(--green)}.option.selected{border:2px solid var(--green);padding:12px;background:var(--green-soft)}.option-icon{width:42px;height:42px;border-radius:11px;background:var(--soft);display:grid;place-items:center;color:var(--green)}.option.selected .option-icon{background:#fff}.option-icon svg{width:22px}.option b{font-size:.91rem;display:block}.option small{display:block;color:var(--muted);font-size:.73rem;margin-top:2px}.check{width:20px;height:20px;border:1.5px solid var(--line);border-radius:50%}.option.selected .check{background:var(--green);border-color:var(--green);box-shadow:inset 0 0 0 5px var(--green-soft)}
+    .flow-footer{margin-top:20px}.flow-footer .primary{width:100%}.primary:disabled{opacity:.42;cursor:not-allowed}
+    .field{display:block;margin-bottom:15px}.field span{display:block;font-size:.78rem;font-weight:800;color:var(--muted);margin-bottom:6px}.field input,.field select,.field textarea{width:100%;border:1px solid var(--line);border-radius:10px;background:var(--soft);padding:12px 13px;color:var(--ink)}.field textarea{min-height:92px;resize:vertical}.preset{display:flex;align-items:center;gap:9px;background:var(--green-soft);border:1px solid #bcded1;border-radius:11px;padding:12px;margin-bottom:16px}.preset svg{width:20px;color:var(--green)}.preset b{display:block;font-size:.88rem}.preset small{color:var(--muted)}.row{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+    .input-actions{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:16px}.input-action{border:1px solid var(--line);border-radius:13px;background:var(--soft);min-height:105px;padding:14px;cursor:pointer;text-align:center;display:grid;place-items:center}.input-action svg{width:27px;color:var(--green)}.input-action b{display:block;font-size:.85rem;margin-top:5px}.input-action small{display:block;color:var(--muted);font-size:.69rem;margin-top:2px}.input-action.recording{background:var(--red-soft);border-color:#e8b8b5;color:var(--red)}.photo-preview{display:none;margin-bottom:14px;background:var(--soft);border-radius:12px;padding:8px}.photo-preview.show{display:flex;gap:10px;align-items:center}.photo-preview img{width:76px;height:64px;border-radius:8px;object-fit:cover}.photo-preview b{font-size:.78rem}.photo-preview small{color:var(--muted);display:block;font-size:.7rem}
+    .contact-options{display:grid;gap:8px}.radio-card{display:flex;gap:10px;align-items:flex-start;border:1px solid var(--line);border-radius:11px;padding:11px;cursor:pointer}.radio-card:has(input:checked){border-color:var(--green);background:var(--green-soft)}.radio-card input{accent-color:var(--green);margin-top:3px}.radio-card b{font-size:.82rem}.radio-card small{display:block;color:var(--muted);font-size:.7rem;margin-top:2px}
+    .summary{display:grid;gap:8px}.summary-row{background:var(--soft);border:1px solid var(--line);border-radius:11px;padding:12px}.summary-row span{display:block;color:var(--muted);font-size:.7rem;font-weight:700}.summary-row b{display:block;margin-top:3px;font-size:.88rem}.boundary{background:var(--amber-soft);border:1px solid #ecd09f;color:#65400c;border-radius:11px;padding:12px;font-size:.75rem;margin-top:14px}.consent{display:flex;gap:9px;margin-top:15px;font-size:.75rem;color:var(--muted)}.consent input{accent-color:var(--green);margin-top:3px}
+    .receipt{padding:24px;text-align:center}.success-mark{width:60px;height:60px;border-radius:50%;background:var(--green-soft);color:var(--green);display:grid;place-items:center;margin:0 auto 12px}.success-mark svg{width:32px}.receipt h2{margin:0;font-size:1.55rem}.receipt>.lead{color:var(--muted);font-size:.85rem;margin:7px auto 17px;max-width:390px}.case-number{background:#13211a;color:#fff;border-radius:12px;padding:13px;margin-bottom:16px}.case-number span{display:block;font-size:.68rem;opacity:.68}.case-number strong{font-size:1.25rem;letter-spacing:.03em}.route-card{text-align:left;border:1px solid var(--line);border-radius:13px;padding:14px;margin-bottom:12px}.route-card span{display:block;color:var(--muted);font-size:.7rem}.route-card b{display:block;font-size:.88rem;margin-top:3px}.timeline{margin:18px 0;text-align:left}.event{display:grid;grid-template-columns:22px 1fr;gap:10px;position:relative;padding-bottom:17px}.event:not(:last-child):after{content:"";position:absolute;left:10px;top:21px;bottom:0;width:2px;background:var(--line)}.dot{width:22px;height:22px;border-radius:50%;background:var(--green-soft);border:5px solid #fff;box-shadow:0 0 0 1px #b9d9cc;z-index:1}.event.current .dot{background:var(--green)}.event b{font-size:.82rem}.event p{margin:2px 0 0;color:var(--muted);font-size:.72rem}.action-row{display:grid;grid-template-columns:1fr 1fr;gap:9px}.action-row button{min-height:45px}
+    .reports{display:grid;gap:10px}.report-card{border:1px solid var(--line);background:var(--paper);border-radius:14px;padding:14px;text-align:left;cursor:pointer}.report-top{display:flex;justify-content:space-between;gap:12px}.pill{display:inline-block;padding:4px 7px;border-radius:999px;font-size:.65rem;font-weight:800;background:var(--amber-soft);color:var(--amber)}.pill.green{background:var(--green-soft);color:var(--green)}.report-card h3{font-size:.92rem;margin:8px 0 3px}.report-card p{margin:0;color:var(--muted);font-size:.73rem}.report-card .next{border-top:1px solid var(--line);margin-top:10px;padding-top:9px;font-size:.72rem}.related{color:var(--blue);background:var(--blue-soft);border-radius:8px;padding:7px 9px;display:inline-block;margin-top:9px;font-size:.68rem;font-weight:700}
+    .status-title{display:flex;align-items:flex-end;justify-content:space-between;gap:18px;margin-bottom:13px}.status-title h1{margin:0;font-size:1.7rem;letter-spacing:-.03em}.status-title p{margin:5px 0 0;color:var(--muted);font-size:.8rem}.updated{font-size:.7rem;color:var(--muted);white-space:nowrap}.status-banner{background:var(--green);color:#fff;border-radius:16px;padding:20px;display:flex;align-items:center;justify-content:space-between;gap:18px;box-shadow:var(--shadow)}.status-banner h2{font-size:1.25rem;margin:0}.status-banner p{font-size:.78rem;margin:4px 0 0;opacity:.82}.status-check{width:48px;height:48px;border-radius:50%;background:rgba(255,255,255,.17);display:grid;place-items:center;flex:0 0 auto}.status-check svg{width:27px}.status-disclaimer{background:var(--amber-soft);border:1px solid #ecd09f;border-radius:11px;padding:11px 13px;font-size:.72rem;color:#65400c;margin:12px 0}.estate-grid{display:grid;grid-template-columns:1fr 1fr;gap:11px}.estate-status{padding:16px}.estate-head{display:flex;align-items:flex-start;justify-content:space-between;gap:12px;border-bottom:1px solid var(--line);padding-bottom:11px}.estate-head h3{font-size:1rem;margin:0}.estate-head p{font-size:.7rem;color:var(--muted);margin:3px 0 0}.health{font-size:.68rem;font-weight:800;display:flex;align-items:center;gap:5px;white-space:nowrap;color:var(--green)}.health.warn{color:var(--amber)}.health-dot{width:9px;height:9px;border-radius:50%;background:currentColor;box-shadow:0 0 0 3px color-mix(in srgb,currentColor 14%,transparent)}.component-list{display:grid;gap:7px;margin-top:12px}.component{display:flex;justify-content:space-between;gap:12px;font-size:.74rem}.component span:last-child{color:var(--green);font-weight:700}.component span.monitor{color:var(--amber)}.uptime-label{display:flex;justify-content:space-between;color:var(--muted);font-size:.63rem;margin:13px 0 5px}.uptime{display:grid;grid-template-columns:repeat(30,1fr);gap:2px;height:21px}.uptime i{background:#70c5a7;border-radius:2px}.uptime i.warn{background:#e3ad58}.uptime i.down{background:#dc7771}.estate-foot{display:flex;justify-content:space-between;gap:10px;color:var(--muted);font-size:.65rem;margin-top:8px}.history-card{margin-top:12px;padding:17px}.history-card h2{font-size:1.05rem;margin:0 0 12px}.history-item{display:grid;grid-template-columns:18px 1fr auto;gap:10px;align-items:start;padding:11px 0;border-top:1px solid var(--line)}.history-item:first-of-type{border-top:0}.history-icon{width:18px;height:18px;border-radius:50%;background:var(--green-soft);color:var(--green);display:grid;place-items:center;font-size:.68rem;font-weight:900}.history-item h3{font-size:.78rem;margin:0}.history-item p{font-size:.68rem;color:var(--muted);margin:2px 0 0}.history-item time{font-size:.64rem;color:var(--muted);white-space:nowrap}
+    .staff-shell{display:grid;grid-template-columns:310px minmax(0,1fr);gap:15px;align-items:start}.staff-intro{grid-column:1/-1;display:flex;justify-content:space-between;gap:20px;align-items:end;padding:20px}.staff-intro h1{font-size:1.65rem;margin:0}.staff-intro p{margin:4px 0 0;color:var(--muted);font-size:.82rem}.queue{overflow:hidden}.queue-head{padding:16px;border-bottom:1px solid var(--line)}.queue-head b{font-size:.95rem}.queue-head small{display:block;color:var(--muted);margin-top:3px}.queue-item{width:100%;border:0;border-bottom:1px solid var(--line);background:#fff;padding:14px;text-align:left;cursor:pointer}.queue-item.active{background:var(--green-soft);box-shadow:inset 4px 0 var(--green)}.queue-item:last-child{border-bottom:0}.queue-item h3{font-size:.84rem;margin:6px 0 3px}.queue-item p{font-size:.7rem;color:var(--muted);margin:0}.review{padding:20px}.review-head{display:flex;justify-content:space-between;gap:15px;border-bottom:1px solid var(--line);padding-bottom:15px}.review-head h2{font-size:1.35rem;margin:5px 0 3px}.review-head p{margin:0;color:var(--muted);font-size:.76rem}.case-id{font-family:ui-monospace,monospace;font-size:.7rem;color:var(--muted)}.signals{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin:15px 0}.signal{background:var(--soft);border:1px solid var(--line);border-radius:10px;padding:11px}.signal span{color:var(--muted);font-size:.65rem;display:block}.signal b{font-size:.8rem;display:block;margin-top:4px}.original{background:var(--blue-soft);border-radius:11px;padding:13px;margin-bottom:14px}.original span{color:var(--blue);font-size:.68rem;font-weight:800}.original p{font-size:.8rem;margin:5px 0 0}.disposition-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}.staff-actions{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px}.staff-actions button{border:1px solid var(--line);background:var(--soft);border-radius:9px;padding:10px 12px;font-size:.75rem;font-weight:800;cursor:pointer}.staff-actions .approve{background:var(--green);color:#fff;border-color:var(--green)}.staff-confirm{display:none;background:var(--green-soft);color:var(--green);border-radius:9px;padding:11px;margin-top:12px;font-size:.78rem;font-weight:700}.staff-confirm.show{display:block}
+    .prototype-note{text-align:center;color:var(--muted);font-size:.68rem;margin-top:16px}.prototype-note b{color:var(--ink)}
+    @media(max-width:760px){.staff-shell{grid-template-columns:1fr}.staff-intro{align-items:flex-start}.queue{max-height:285px;overflow:auto}.signals{grid-template-columns:1fr}.disposition-grid{grid-template-columns:1fr}.estate-grid{grid-template-columns:1fr}.status-title{align-items:flex-start;flex-direction:column}.updated{white-space:normal}}
+    @media(max-width:430px){.app{width:min(100% - 16px,520px)}.flow-card,.receipt{padding:18px}.home-hero{padding:24px 19px 20px}.row,.input-actions,.action-row{grid-template-columns:1fr}.trust div{padding:9px 4px;font-size:.64rem}.topbar{padding-top:5px}.report-link{padding:8px 7px;font-size:.66rem}.staff-link{display:none}.brand small{display:none}}
+  </style>
+</head>
+<body>
+  <main class="app" id="app">
+    <header class="topbar">
+      <button class="brand" data-go="status"><span class="brand-mark"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 3 4.5 6v5.4c0 4.4 3.1 8.5 7.5 9.6 4.4-1.1 7.5-5.2 7.5-9.6V6L12 3Z"/><path d="m8.7 12 2.1 2.1 4.5-4.6"/></svg></span><span>街坊安心</span></button>
+      <div class="top-actions"><button class="report-link" data-go="category">通報問題</button><button class="staff-link" id="staff-entry">管理後台</button></div>
+    </header>
+
+    <section class="screen active" data-screen="status">
+      <div class="status-title"><div><p class="kicker">屋苑服務狀態</p><h1>樓宇安全及設施跟進</h1><p>集中顯示參與屋苑已確認的服務狀態及問題處理進度。</p></div><span class="updated">最後更新：今日 10:42</span></div>
+      <div class="status-banner"><div><h2>大部分屋苑運作正常</h2><p>5個參與屋苑中，4個運作正常，1個有通報正在人工覆核。</p></div><span class="status-check"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m5 12 4 4L19 6"/></svg></span></div>
+      <div class="status-disclaimer"><b>如何理解綠色狀態：</b>綠色表示此追蹤器內沒有已確認而尚未完成的事故，不代表大廈已通過專業安全檢驗，也不排除尚未被發現或仍在人工覆核的問題。</div>
+      <div class="estate-grid" id="estate-grid"></div>
+      <div class="card history-card"><h2>近期事故及維修紀錄</h2><div class="history-item"><span class="history-icon">✓</span><div><h3>松苑：升降機照明完成維修</h3><p>已更換燈具並由管理人員確認完成。</p></div><time>昨日</time></div><div class="history-item"><span class="history-icon">✓</span><div><h3>北角樓：地下去水位淤塞已處理</h3><p>完成清理及排水測試，個案附有工作紀錄。</p></div><time>2日前</time></div><div class="history-item"><span class="history-icon">!</span><div><h3>海景邨：消防設備通報正在人工覆核</h3><p>尚未確認為設備事故，正核對相關通報及巡查紀錄。</p></div><time>18分鐘前</time></div></div>
+      <div class="action-row" style="margin-top:12px"><button class="primary" data-go="category">通報安全或維修問題</button><button class="secondary" data-go="reports">查看我的個案</button></div>
+      <p class="prototype-note"><b>互動原型：</b>所有屋苑、個案及數據均屬虛構，不會送交任何機構。</p>
+    </section>
+
+    <section class="screen" data-screen="home">
+      <div class="card home-card">
+        <div class="home-hero"><p class="kicker">海景邨試行計劃 · 原型</p><h1>報告屋苑安全或維修問題</h1><p>拍攝相片、錄下語音或簡單說明。全程約需一分鐘。</p></div>
+        <div class="home-actions">
+          <button class="primary" data-go="category"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 7h3l2-3h6l2 3h3v13H4V7Z"/><circle cx="12" cy="13" r="4"/></svg>開始通報</button>
+          <button class="secondary" data-go="reports"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 3h14v18H5zM8 8h8M8 12h8M8 16h5"/></svg>查看我的個案</button>
+        </div>
+      </div>
+      <div class="emergency"><span class="emergency-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 8v5m0 3h.01"/><circle cx="12" cy="12" r="9"/></svg></span><div><b>現場有即時危險？</b><p>如有火警、濃煙、電力火花、有人被困或其他即時危險，請立即<a href="tel:999">致電999</a>，不要等待本平台回覆。</p></div></div>
+      <div class="trust"><div><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5v14"/></svg>居民免費使用</div><div><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m5 12 4 4L19 6"/></svg>每宗個案有紀錄</div><div><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 3 5 6v5c0 4 3 8 7 9 4-1 7-5 7-9V6z"/></svg>由人員覆核</div></div>
+      <p class="prototype-note"><b>互動原型：</b>所有屋苑、個案及數據均屬虛構，不會送交任何機構。</p>
+    </section>
+
+    <section class="screen" data-screen="category">
+      <div class="wizard-head"><button class="back" data-go="status">← 返回屋苑狀態</button><div class="progress"><i style="width:25%"></i></div><div class="step-caption"><span>第1步，共4步</span><span>問題類別</span></div></div>
+      <div class="card flow-card"><h2>你發現了甚麼？</h2><p class="hint">選擇最接近你所見情況的類別。你毋須判斷是否違規。</p>
+        <div class="option-list" id="category-options">
+          <button class="option" data-code="fire-exit" data-label="走火通道被阻塞"><span class="option-icon">🚪</span><span><b>走火通道被阻塞</b><small>雜物、工程物料、上鎖或通道收窄</small></span><i class="check"></i></button>
+          <button class="option" data-code="alarm" data-label="火警鐘或消防設備異常"><span class="option-icon">🔔</span><span><b>火警鐘或消防設備異常</b><small>沒有聲響、損壞、消防喉轆或照明異常</small></span><i class="check"></i></button>
+          <button class="option" data-code="works" data-label="棚架、外牆或工程安全"><span class="option-icon">🏗</span><span><b>棚架、外牆或工程安全</b><small>物料鬆脫、圍網、窗戶遮蓋或高空墮物風險</small></span><i class="check"></i></button>
+          <button class="option" data-code="water" data-label="漏水、水浸或渠務問題"><span class="option-icon">💧</span><span><b>漏水、水浸或渠務問題</b><small>滲水、積水、淤塞或污水問題</small></span><i class="check"></i></button>
+          <button class="option" data-code="electrical" data-label="電線、照明或電力問題"><span class="option-icon">⚡</span><span><b>電線、照明或電力問題</b><small>電線外露、異常發熱或公用照明失靈</small></span><i class="check"></i></button>
+          <button class="option" data-code="other" data-label="其他屋苑設施問題"><span class="option-icon">⋯</span><span><b>其他屋苑設施問題</b><small>升降機、扶手、地面或其他公用設施</small></span><i class="check"></i></button>
+        </div><div class="flow-footer"><button class="primary" id="category-next" disabled>下一步：說明位置</button></div>
+      </div>
+    </section>
+
+    <section class="screen" data-screen="location">
+      <div class="wizard-head"><button class="back" data-go="category">← 返回</button><div class="progress"><i style="width:50%"></i></div><div class="step-caption"><span>第2步，共4步</span><span>位置</span></div></div>
+      <div class="card flow-card"><h2>問題在哪裏？</h2><p class="hint">這個試行計劃由海景邨的專屬二維碼進入，因此屋苑已自動選定。</p>
+        <div class="preset"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 21h16V5L12 2 4 5zM9 21v-5h6v5"/></svg><div><b>海景邨（示範）</b><small>由屋苑二維碼預先選定</small></div></div>
+        <div class="row"><label class="field"><span>座數</span><select id="block"><option value="">請選擇</option><option>A座</option><option>B座</option><option>C座</option><option>D座</option></select></label><label class="field"><span>樓層</span><select id="floor"><option value="">請選擇</option><option>地下</option><option>1樓</option><option>6樓</option><option>8樓</option><option>12樓</option><option>天台</option></select></label></div>
+        <label class="field"><span>位置</span><select id="place"><option value="">請選擇最接近的位置</option><option>升降機大堂</option><option>走廊</option><option>後樓梯／走火通道</option><option>平台或戶外通道</option><option>外牆或棚架</option><option>機房或設備房附近</option><option>其他位置</option></select></label>
+        <label class="field"><span>補充位置（選填）</span><input id="location-note" placeholder="例如：近垃圾房門口"></label>
+        <div class="flow-footer"><button class="primary" id="location-next" disabled>下一步：加入現場資料</button></div>
+      </div>
+    </section>
+
+    <section class="screen" data-screen="evidence">
+      <div class="wizard-head"><button class="back" data-go="location">← 返回</button><div class="progress"><i style="width:75%"></i></div><div class="step-caption"><span>第3步，共4步</span><span>現場資料</span></div></div>
+      <div class="card flow-card"><h2>讓跟進人員看清情況</h2><p class="hint">相片或語音可以減少來回查問。請避免拍攝人臉或私人住宅內部。</p>
+        <div class="input-actions"><button class="input-action" id="photo-button"><span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M4 7h3l2-3h6l2 3h3v13H4z"/><circle cx="12" cy="13" r="4"/></svg><b>拍攝或選擇相片</b><small>相片不等同專業檢驗</small></span></button><button class="input-action" id="voice-button"><span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="9" y="3" width="6" height="12" rx="3"/><path d="M5 11a7 7 0 0 0 14 0M12 18v3"/></svg><b id="voice-label">錄製語音（原型）</b><small>按一下模擬語音輸入</small></span></button></div>
+        <input type="file" id="photo-input" accept="image/png,image/jpeg,image/webp" hidden>
+        <div class="photo-preview" id="photo-preview"><img id="photo-image" alt="現場相片預覽"><div><b id="photo-name"></b><small>只供本次瀏覽階段使用</small></div></div>
+        <label class="field"><span>文字補充（選填）</span><textarea id="description" placeholder="例如：今早測試時沒有聽到火警鐘，鄰近樓層亦有同樣情況。"></textarea></label>
+        <span style="display:block;font-size:.78rem;font-weight:800;color:var(--muted);margin-bottom:7px">聯絡及更新方式</span>
+        <div class="contact-options"><label class="radio-card"><input type="radio" name="contact" value="不留下聯絡方法"><span><b>不留下聯絡方法</b><small>提交後無法接收更新或補充資料。</small></span></label><label class="radio-card"><input type="radio" name="contact" value="只接收WhatsApp個案更新" checked><span><b>只接收WhatsApp個案更新</b><small>聯絡資料不會顯示於個案內容。</small></span></label><label class="radio-card"><input type="radio" name="contact" value="可以聯絡我跟進"><span><b>可以聯絡我跟進</b><small>獲授權的跟進人員可以要求補充資料。</small></span></label></div>
+        <div class="flow-footer"><button class="primary" id="evidence-next">下一步：檢查內容</button></div>
+      </div>
+    </section>
+
+    <section class="screen" data-screen="review">
+      <div class="wizard-head"><button class="back" data-go="evidence">← 返回</button><div class="progress"><i style="width:100%"></i></div><div class="step-caption"><span>第4步，共4步</span><span>檢查及提交</span></div></div>
+      <div class="card flow-card"><h2>請檢查通報內容</h2><p class="hint">提交後會先由人員覆核，再確認應交予哪個單位跟進。</p><div class="summary" id="review-summary"></div>
+        <div class="boundary">本平台不是緊急服務，也不會自行判斷物料是否合規。提交相片只記錄可見情況，不能取代抽樣、測試或專業巡查。</div>
+        <label class="consent"><input type="checkbox" id="consent"><span>我確認資料按本人所見真誠提交，並明白這是原型示範，不會送交任何機構。</span></label>
+        <div class="flow-footer"><button class="primary" id="submit-report" disabled>建立原型個案</button></div>
+      </div>
+    </section>
+
+    <section class="screen" data-screen="receipt">
+      <div class="card receipt"><div class="success-mark"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m5 12 4 4L19 6"/></svg></div><h2>已收到你的通報</h2><p class="lead">這宗原型個案已建立，但尚未送交任何官方或管理機構。</p><div class="case-number"><span>原型個案編號</span><strong id="receipt-id">KF-2026-0184</strong></div>
+        <div class="route-card"><span>預定接收方</span><b>海景邨管理處（須經人工覆核確認）</b></div><div class="route-card"><span>目前狀態</span><b>尚待人工覆核</b></div><div class="route-card"><span>建議確認時間</span><b>今日下午5時前（示範目標）</b></div>
+        <div class="timeline"><div class="event current"><i class="dot"></i><div><b>通報已建立</b><p>原始內容及時間紀錄已保存。</p></div></div><div class="event"><i class="dot"></i><div><b>尚待人工覆核</b><p>確認類別、位置、接收方及是否與其他個案相關。</p></div></div><div class="event"><i class="dot"></i><div><b>尚待接收方確認</b><p>正式系統只會在完成交接後顯示已送達。</p></div></div></div>
+        <div class="action-row"><button class="secondary" data-go="reports">查看個案進度</button><button class="primary" data-go="status">完成</button></div>
+      </div>
+    </section>
+
+    <section class="screen" data-screen="reports">
+      <div class="wizard-head"><button class="back" data-go="status">← 返回屋苑狀態</button></div><div class="card flow-card"><h2>我的個案</h2><p class="hint">查看接收方、最新狀態及下一步。其他居民的身份不會在這裏顯示。</p><div class="reports" id="reports-list"></div></div>
+    </section>
+
+    <section class="screen" data-screen="staff">
+      <div class="staff-shell">
+        <div class="card staff-intro"><div><span class="case-id">管理人員工作區 · 原型</span><h1>人工覆核及處置</h1><p>公眾狀態頁與內部工作區分開。系統提供訊號，不代替人員作安全判斷。</p></div><button class="ghost" data-go="status">返回公眾狀態頁</button></div>
+        <aside class="card queue"><div class="queue-head"><b>尚待處理</b><small>按可解釋訊號排列，不是AI安全裁決</small></div><button class="queue-item active"><span class="pill">須盡快覆核</span><h3>兩層樓的火警鐘均聽不到聲響</h3><p>3宗可能相關通報 · 18分鐘前</p></button><button class="queue-item"><span class="pill">須盡快覆核</span><h3>走火通道被工程物料收窄</h3><p>8名居民確認 · 44分鐘前</p></button><button class="queue-item"><span class="pill green">一般覆核</span><h3>電錶房旁持續滲水</h3><p>2宗可能相關通報 · 3小時前</p></button></aside>
+        <article class="card review"><div class="review-head"><div><span class="case-id">個案 #KF-2026-0184</span><h2>兩層樓的火警鐘均聽不到聲響</h2><p>海景邨（示範）· A座 · 14及15樓升降機大堂</p></div><span class="pill">尚待人工覆核</span></div>
+          <div class="signals"><div class="signal"><span>相關通報</span><b>26分鐘內3宗</b></div><div class="signal"><span>地點關係</span><b>相鄰樓層</b></div><div class="signal"><span>跟進狀態</span><b>尚未確認收件</b></div></div>
+          <div class="original"><span>居民原始描述</span><p>「今早測試時沒有聽到火警鐘，樓下鄰居也說沒有聲。請安排人員檢查。」</p></div>
+          <div class="disposition-grid"><label class="field"><span>確認類別</span><select><option>火警鐘或消防設備異常</option><option>其他屋苑設施問題</option></select></label><label class="field"><span>接收方</span><select><option>海景邨管理處</option><option>屋宇裝備承辦商</option><option>交主管確認</option></select></label></div>
+          <label class="field"><span>處置理由／跟進要求</span><textarea id="staff-note">安排現場測試火警鐘，記錄測試樓層、時間、結果及負責人。</textarea></label>
+          <div class="staff-actions"><button class="approve" data-staff-action="已安排巡查並寫入時間紀錄">安排巡查</button><button data-staff-action="已要求居民補充資料">要求補充資料</button><button data-staff-action="已交主管覆核">交主管覆核</button></div><div class="staff-confirm" id="staff-confirm"></div>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <script>
+    (function(){
+      const app=document.getElementById('app');
+      const state={category:'',categoryLabel:'',block:'',floor:'',place:'',note:'',photoName:'',voice:false,description:'',contact:'只接收WhatsApp個案更新',caseId:'KF-2026-0184',submitted:false};
+      const estates=[
+        {name:'海景邨',area:'東區 · 4座',health:'監察中',warn:true,updated:'18分鐘前',open:'1項通報覆核中',marks:{warn:[28]},components:[['消防設備','人工覆核中','monitor'],['升降機','正常'],['供水及渠務','正常'],['公用地方','正常']]},
+        {name:'松苑',area:'沙田 · 3座',health:'運作正常',updated:'今日 09:30',open:'沒有已確認事故',marks:{warn:[17]},components:[['消防設備','正常'],['升降機','正常'],['供水及渠務','正常'],['公用地方','正常']]},
+        {name:'北角樓',area:'東區 · 2座',health:'運作正常',updated:'今日 08:55',open:'沒有已確認事故',marks:{warn:[11]},components:[['消防設備','正常'],['升降機','正常'],['供水及渠務','正常'],['公用地方','正常']]},
+        {name:'翠湖閣',area:'屯門 · 5座',health:'運作正常',updated:'昨日 18:20',open:'沒有已確認事故',marks:{warn:[]},components:[['消防設備','正常'],['升降機','正常'],['供水及渠務','正常'],['公用地方','正常']]},
+        {name:'安泰苑',area:'觀塘 · 4座',health:'運作正常',updated:'昨日 17:45',open:'沒有已確認事故',marks:{warn:[6]},components:[['消防設備','正常'],['升降機','正常'],['供水及渠務','正常'],['公用地方','正常']]}
+      ];
+      function go(name){document.querySelectorAll('.screen').forEach(s=>s.classList.toggle('active',s.dataset.screen===name));app.classList.toggle('staff-mode',name==='staff');app.classList.toggle('status-mode',name==='status');window.scrollTo({top:0,behavior:'smooth'});if(name==='status')renderStatus();if(name==='review')renderReview();if(name==='reports')renderReports();}
+      function renderStatus(){document.getElementById('estate-grid').innerHTML=estates.map(e=>{const bars=Array.from({length:30},(_,i)=>'<i class="'+(e.marks.warn.includes(i)?'warn':'')+'"></i>').join('');const components=e.components.map(c=>'<div class="component"><span>'+c[0]+'</span><span class="'+(c[2]||'')+'">'+c[1]+'</span></div>').join('');return '<article class="card estate-status"><div class="estate-head"><div><h3>'+e.name+'</h3><p>'+e.area+'</p></div><span class="health '+(e.warn?'warn':'')+'"><i class="health-dot"></i>'+e.health+'</span></div><div class="component-list">'+components+'</div><div class="uptime-label"><span>過去30日狀態</span><span>每日</span></div><div class="uptime" aria-label="'+e.name+'過去30日狀態">'+bars+'</div><div class="estate-foot"><span>'+e.open+'</span><span>更新：'+e.updated+'</span></div></article>'}).join('')}
+      document.querySelectorAll('[data-go]').forEach(b=>b.addEventListener('click',()=>go(b.dataset.go)));
+      document.getElementById('staff-entry').addEventListener('click',()=>go('staff'));
+      document.querySelectorAll('#category-options .option').forEach(b=>b.addEventListener('click',()=>{document.querySelectorAll('#category-options .option').forEach(x=>x.classList.remove('selected'));b.classList.add('selected');state.category=b.dataset.code;state.categoryLabel=b.dataset.label;document.getElementById('category-next').disabled=false;}));
+      document.getElementById('category-next').addEventListener('click',()=>go('location'));
+      const block=document.getElementById('block'),floor=document.getElementById('floor'),place=document.getElementById('place');
+      function validateLocation(){state.block=block.value;state.floor=floor.value;state.place=place.value;document.getElementById('location-next').disabled=!(state.block&&state.floor&&state.place)}
+      [block,floor,place].forEach(x=>x.addEventListener('change',validateLocation));
+      document.getElementById('location-next').addEventListener('click',()=>{state.note=document.getElementById('location-note').value.trim();go('evidence')});
+      const photoInput=document.getElementById('photo-input');document.getElementById('photo-button').addEventListener('click',()=>photoInput.click());
+      photoInput.addEventListener('change',()=>{const f=photoInput.files&&photoInput.files[0];if(!f)return;state.photoName=f.name;document.getElementById('photo-image').src=URL.createObjectURL(f);document.getElementById('photo-name').textContent=f.name;document.getElementById('photo-preview').classList.add('show')});
+      document.getElementById('voice-button').addEventListener('click',function(){state.voice=!state.voice;this.classList.toggle('recording',state.voice);document.getElementById('voice-label').textContent=state.voice?'已加入模擬語音 00:12':'錄製語音（原型）'});
+      document.getElementById('evidence-next').addEventListener('click',()=>{state.description=document.getElementById('description').value.trim();state.contact=document.querySelector('input[name="contact"]:checked').value;go('review')});
+      function row(label,value){return '<div class="summary-row"><span>'+label+'</span><b>'+escapeHtml(value)+'</b></div>'}
+      function renderReview(){const loc=['海景邨（示範）',state.block,state.floor,state.place,state.note].filter(Boolean).join(' · ');const evidence=[state.photoName?'相片：'+state.photoName:'未加入相片',state.voice?'已加入模擬語音':'未加入語音',state.description||'沒有文字補充'].join('；');document.getElementById('review-summary').innerHTML=row('問題類別',state.categoryLabel)+row('位置',loc)+row('現場資料',evidence)+row('聯絡及更新方式',state.contact)}
+      document.getElementById('consent').addEventListener('change',e=>document.getElementById('submit-report').disabled=!e.target.checked);
+      document.getElementById('submit-report').addEventListener('click',()=>{state.caseId='KF-2026-'+String(Math.floor(1000+Math.random()*8999));state.submitted=true;document.getElementById('receipt-id').textContent=state.caseId;go('receipt')});
+      function renderReports(){const latest=state.submitted?'<button class="report-card" data-open-receipt><div class="report-top"><span class="pill">尚待人工覆核</span><span class="case-id">'+state.caseId+'</span></div><h3>'+escapeHtml(state.categoryLabel)+'</h3><p>海景邨（示範）· '+escapeHtml([state.block,state.floor,state.place].filter(Boolean).join(' · '))+'</p><span class="related">此位置有2宗可能相關通報，尚待人員確認</span><div class="next"><b>下一步：</b>確認接收方及是否需要補充資料</div></button>':'';document.getElementById('reports-list').innerHTML=latest+'<button class="report-card"><div class="report-top"><span class="pill green">已完成</span><span class="case-id">KF-2026-0096</span></div><h3>緊急照明燈失靈</h3><p>海景邨（示範）· B座 · 6樓走廊</p><div class="next"><b>處置：</b>已更換後備電池，附有完工相片及負責人紀錄</div></button>';const btn=document.querySelector('[data-open-receipt]');if(btn)btn.addEventListener('click',()=>go('receipt'))}
+      document.querySelectorAll('.queue-item').forEach(q=>q.addEventListener('click',()=>{document.querySelectorAll('.queue-item').forEach(x=>x.classList.remove('active'));q.classList.add('active')}));
+      document.querySelectorAll('[data-staff-action]').forEach(b=>b.addEventListener('click',()=>{const box=document.getElementById('staff-confirm');box.textContent=b.dataset.staffAction+'。正式系統會同時記錄操作人員、時間及處置理由。';box.classList.add('show')}));
+      function escapeHtml(v){const d=document.createElement('div');d.textContent=v||'';return d.innerHTML}
+      renderStatus();
+      const initialScreen=window.location.hash.replace('#','');
+      if(initialScreen&&document.querySelector('[data-screen="'+initialScreen+'"]'))go(initialScreen);
+      window.addEventListener('hashchange',()=>{const screen=window.location.hash.replace('#','');if(screen&&document.querySelector('[data-screen="'+screen+'"]'))go(screen)});
+    })();
+  </script>
+</body>
+</html>
