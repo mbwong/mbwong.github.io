@@ -1,4 +1,11 @@
 works:
+- title: "Public Allocation and Private Supply: A Housing Assignment Approach"
+  pdflink: "/pdf/spillover.pdf"
+  coauthors: "Jimmy Ho, Yulin Hong, and Zhongji Wei"
+  note: "Last Updated: November 2026"
+  abstract: >
+        How does public housing allocation affect private rents and supply across quality segments? Motivated by patterns in Hong Kong’s rental market, we develop a tractable two-quality housing assignment model with rationed public housing, endogenous construction, and costly conversion of existing dwellings. With imperfect targeting, more generous public housing shifts private demand toward low quality. When new construction is high quality and conversion is sufficiently costly, low-quality private rents rise while high-quality rents fall. In a calibration to Hong Kong, raising public rents or converting public flats to private rental benefits low-quality private renters, but subsidy losses outweigh these gains: expected renter utility falls in every income group when fiscal proceeds are not redistributed.
+
 - title: "Promise and Perils of Redeemable Money: Evidence from a Barter Platform"
   pdflink: "/pdf/Bunz.pdf"
   note: "Last Updated: September 2026"

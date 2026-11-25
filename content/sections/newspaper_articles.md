@@ -1,3 +1,5 @@
+[To be Asia’s events capital, Hong Kong must offer ticketing that works](/pdf/Ticketing_That_Works.pdf) (South China Morning Post, 2026-11-16, with Jarvis Wan)
+
 [How Hong Kong can reimagine its greatest asset: people’s homes](/pdf/Reimagine.pdf) (South China Morning Post, 2025-4-5, with Alex Ngau) 
 
 [Hong Kong’s economic recovery hinges on having enough adequate housing](/pdf/Housing_Economy.pdf) (South China Morning Post, 2024-8-9) 
